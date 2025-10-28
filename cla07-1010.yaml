@@ -1,7 +1,4 @@
-# ;苹果分流：不支持
-# ;增强中国IP段：不支持
-# ;增强国外GFW：不支持
-# ;ruleset=🎯 全球直连,[]GEOIP,LAN
+# ;2025-10-28
 
 mixed-port: 7890
 allow-lan: false
@@ -53,17 +50,215 @@ tun:
 
 
 proxies:
-  - type: ss
-    name: 🇸🇬 新加坡4|@ripaojiedian
-    server: 113.99.143.139
-    port: 26470
-    cipher: aes-128-gcm
-    password: b637f2e47b7827b308ebf399008075d2
-  - type: hysteria2
-    name: 🇺🇸 美国 326
-    server: 227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk
-    port: 1743
-    password: 6286105c-fb6d-11ef-be96-f23c93136cb3
+  - type: vmess
+    name: 美国
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305215096.no.92510234.xyz
+    ws-opts:
+      path: /tguntu
+      headers:
+        Host: 17616305215096.no.92510234.xyz
+  - type: vmess
+    name: 美国_1
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305216381.no.92510234.xyz
+    ws-opts:
+      path: /tguntu
+      headers:
+        Host: 17616305216381.no.92510234.xyz
+  - type: vmess
+    name: 美国_2
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305217082.no.92510234.xyz
+    ws-opts:
+      path: /htehehehn
+      headers:
+        Host: 17616305217082.no.92510234.xyz
+  - type: vmess
+    name: 美国_3
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305212244.no.92510234.xyz
+    ws-opts:
+      path: /aerwiueh
+      headers:
+        Host: 17616305212244.no.92510234.xyz
+  - type: vmess
+    name: 美国_4
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305214968.no.92510234.xyz
+    ws-opts:
+      path: /htehehehn
+      headers:
+        Host: 17616305214968.no.92510234.xyz
+  - type: vmess
+    name: 美国_5
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305216950.no.92510234.xyz
+    ws-opts:
+      path: /tguntu
+      headers:
+        Host: 17616305216950.no.92510234.xyz
+  - type: vmess
+    name: 美国_6
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305219961.no.92510234.xyz
+    ws-opts:
+      path: /htehehehn
+      headers:
+        Host: 17616305219961.no.92510234.xyz
+  - type: vmess
+    name: 美国_7
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305211414.no.92510234.xyz
+    ws-opts:
+      path: /tguntu
+      headers:
+        Host: 17616305211414.no.92510234.xyz
+  - type: vmess
+    name: 美国_8
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305218901.no.92510234.xyz
+    ws-opts:
+      path: /aerwiueh
+      headers:
+        Host: 17616305218901.no.92510234.xyz
+  - type: vmess
+    name: 美国_9
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305216378.no.92510234.xyz
+    ws-opts:
+      path: /aerwiueh
+      headers:
+        Host: 17616305216378.no.92510234.xyz
+  - type: vmess
+    name: 美国_10
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305212435.no.92510234.xyz
+    ws-opts:
+      path: /tguntu
+      headers:
+        Host: 17616305212435.no.92510234.xyz
+  - type: vmess
+    name: 美国_11
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305215911.no.92510234.xyz
+    ws-opts:
+      path: /aerwiueh
+      headers:
+        Host: 17616305215911.no.92510234.xyz
+  - type: vmess
+    name: 美国_12
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305217104.no.92510234.xyz
+    ws-opts:
+      path: /htehehehn
+      headers:
+        Host: 17616305217104.no.92510234.xyz
+  - type: vmess
+    name: 美国_13
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305213572.no.92510234.xyz
+    ws-opts:
+      path: /htehehehn
+      headers:
+        Host: 17616305213572.no.92510234.xyz
+  - type: vmess
+    name: 美国_14
+    server: bestcdn1.868863.xyz
+    port: 80
+    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: 17616305215095.no.92510234.xyz
+    ws-opts:
+      path: /aerwiueh
+      headers:
+        Host: 17616305215095.no.92510234.xyz
+  - type: vmess
+    name: 美国_15
+    server: 104.18.240.238
+    port: 80
+    uuid: d967ffca-de90-4daa-bd00-d527e5bae11f
+    alterId: 0
+    network: ws
+    cipher: auto
+    servername: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.
+    ws-opts:
+      path: /?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM
+        (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)
+      headers:
+        Host: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.
   - type: vless
     name: 🇰🇷 韩国 40
     server: 211.48.77.114
@@ -103,34 +298,8 @@ proxies:
       path: X@节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: vmess
-    name: 美国
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305215096.no.92510234.xyz
-    ws-opts:
-      path: /tguntu
-      headers:
-        Host: 17616305215096.no.92510234.xyz
-  - type: vmess
-    name: 美国_1
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305216381.no.92510234.xyz
-    ws-opts:
-      path: /tguntu
-      headers:
-        Host: 17616305216381.no.92510234.xyz
   - type: vless
-    name: 美国_2
+    name: 美国_16
     server: express-b.868863.xyz
     port: 8443
     uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
@@ -144,255 +313,8 @@ proxies:
       spider-x: /
     client-fingerprint: qq
     flow: xtls-rprx-vision
-  - type: trojan
-    name: 美国_3
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305211639.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agraeabtegrrh
-      headers:
-        Host: 17616305219910.92510233.xyz
-  - type: trojan
-    name: 美国_4
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305215020.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /videomuaawe
-      headers:
-        Host: 17616305219203.92510233.xyz
-  - type: trojan
-    name: 美国_5
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305214050.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /videomuaawe
-      headers:
-        Host: 17616305214424.92510233.xyz
-  - type: trojan
-    name: 美国_6
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305217365.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /videomuaawe
-      headers:
-        Host: 17616305211590.92510233.xyz
-  - type: trojan
-    name: 美国_7
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305214084.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agrbniuh
-      headers:
-        Host: 17616305217188.92510233.xyz
-  - type: vmess
-    name: 美国_8
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305217082.no.92510234.xyz
-    ws-opts:
-      path: /htehehehn
-      headers:
-        Host: 17616305217082.no.92510234.xyz
-  - type: vmess
-    name: 美国_9
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305212244.no.92510234.xyz
-    ws-opts:
-      path: /aerwiueh
-      headers:
-        Host: 17616305212244.no.92510234.xyz
-  - type: trojan
-    name: 美国_10
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305211606.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agrbniuh
-      headers:
-        Host: 17616305217848.92510233.xyz
-  - type: trojan
-    name: 美国_11
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305212083.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agrbniuh
-      headers:
-        Host: 17616305219780.92510233.xyz
-  - type: vmess
-    name: 美国_12
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305214968.no.92510234.xyz
-    ws-opts:
-      path: /htehehehn
-      headers:
-        Host: 17616305214968.no.92510234.xyz
-  - type: trojan
-    name: 美国_13
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305214712.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agrbniuh
-      headers:
-        Host: 17616305216633.92510233.xyz
-  - type: trojan
-    name: 美国_14
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305211913.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agraeabtegrrh
-      headers:
-        Host: 17616305217014.92510233.xyz
-  - type: vmess
-    name: 美国_15
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305216950.no.92510234.xyz
-    ws-opts:
-      path: /tguntu
-      headers:
-        Host: 17616305216950.no.92510234.xyz
-  - type: trojan
-    name: 美国_16
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305213955.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agraeabtegrrh
-      headers:
-        Host: 17616305219836.92510233.xyz
-  - type: vmess
-    name: 美国_17
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305219961.no.92510234.xyz
-    ws-opts:
-      path: /htehehehn
-      headers:
-        Host: 17616305219961.no.92510234.xyz
-  - type: trojan
-    name: 美国_18
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305216514.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agraeabtegrrh
-      headers:
-        Host: 17616305211503.92510233.xyz
-  - type: trojan
-    name: 美国_19
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305218541.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agraeabtegrrh
-      headers:
-        Host: 17616305217453.92510233.xyz
-  - type: trojan
-    name: 美国_20
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305215980.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agrbniuh
-      headers:
-        Host: 17616305218647.92510233.xyz
-  - type: vmess
-    name: 美国_21
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305211414.no.92510234.xyz
-    ws-opts:
-      path: /tguntu
-      headers:
-        Host: 17616305211414.no.92510234.xyz
-  - type: vmess
-    name: 美国_22
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305218901.no.92510234.xyz
-    ws-opts:
-      path: /aerwiueh
-      headers:
-        Host: 17616305218901.no.92510234.xyz
   - type: vless
-    name: 美国_23
+    name: 美国_17
     server: express-c.868863.xyz
     port: 4443
     uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
@@ -406,32 +328,8 @@ proxies:
       spider-x: /
     client-fingerprint: safari
     flow: xtls-rprx-vision
-  - type: trojan
-    name: 美国_24
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305215123.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agraeabtegrrh
-      headers:
-        Host: 17616305215346.92510233.xyz
-  - type: trojan
-    name: 美国_25
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305219658.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agraeabtegrrh
-      headers:
-        Host: 17616305217232.92510233.xyz
   - type: vless
-    name: 美国_26
+    name: 美国_18
     server: express-a.868863.xyz
     port: 9443
     uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
@@ -445,144 +343,6 @@ proxies:
       spider-x: /
     client-fingerprint: qq
     flow: xtls-rprx-vision
-  - type: vmess
-    name: 美国_27
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305216378.no.92510234.xyz
-    ws-opts:
-      path: /aerwiueh
-      headers:
-        Host: 17616305216378.no.92510234.xyz
-  - type: trojan
-    name: 美国_28
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305214330.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agrbniuh
-      headers:
-        Host: 17616305217696.92510233.xyz
-  - type: vmess
-    name: 美国_29
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305212435.no.92510234.xyz
-    ws-opts:
-      path: /tguntu
-      headers:
-        Host: 17616305212435.no.92510234.xyz
-  - type: trojan
-    name: 美国_30
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305211046.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /videomuaawe
-      headers:
-        Host: 17616305213574.92510233.xyz
-  - type: trojan
-    name: 美国_31
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305214567.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /videomuaawe
-      headers:
-        Host: 17616305219757.92510233.xyz
-  - type: vmess
-    name: 美国_32
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305215911.no.92510234.xyz
-    ws-opts:
-      path: /aerwiueh
-      headers:
-        Host: 17616305215911.no.92510234.xyz
-  - type: vmess
-    name: 美国_33
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305217104.no.92510234.xyz
-    ws-opts:
-      path: /htehehehn
-      headers:
-        Host: 17616305217104.no.92510234.xyz
-  - type: trojan
-    name: 美国_34
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305213635.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /agrbniuh
-      headers:
-        Host: 17616305211510.92510233.xyz
-  - type: vmess
-    name: 美国_35
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305213572.no.92510234.xyz
-    ws-opts:
-      path: /htehehehn
-      headers:
-        Host: 17616305213572.no.92510234.xyz
-  - type: vmess
-    name: 美国_36
-    server: bestcdn1.868863.xyz
-    port: 80
-    uuid: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    alterId: 0
-    network: ws
-    cipher: auto
-    servername: 17616305215095.no.92510234.xyz
-    ws-opts:
-      path: /aerwiueh
-      headers:
-        Host: 17616305215095.no.92510234.xyz
-  - type: trojan
-    name: 美国_37
-    server: bestcdn1.868863.xyz
-    port: 443
-    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
-    network: ws
-    sni: 17616305213934.92510233.xyz
-    tls: true
-    ws-opts:
-      path: /videomuaawe
-      headers:
-        Host: 17616305212537.92510233.xyz
   - type: vless
     name: 韩国
     server: 211.197.161.123
@@ -631,19 +391,6 @@ proxies:
         Host: gaosir.unfeeling.sbs
   - type: vless
     name: 香港_2
-    server: 47.76.218.163
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 香港_3
     server: 210.6.207.42
     port: 18622
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -656,7 +403,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_4
+    name: 香港_3
     server: 210.6.207.42
     port: 18622
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -669,7 +416,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_5
+    name: 香港_4
     server: 47.76.218.163
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -682,7 +429,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_6
+    name: 香港_5
     server: 210.6.207.42
     port: 18622
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -695,7 +442,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_7
+    name: 香港_6
     server: 210.6.207.42
     port: 18622
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -708,7 +455,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_8
+    name: 香港_7
     server: 210.6.207.42
     port: 18622
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -721,7 +468,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_9
+    name: 香港_8
     server: wangcai250.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -786,7 +533,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_10
+    name: 香港_9
     server: wangcai252.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -886,37 +633,11 @@ proxies:
     tls: true
     encryption: none
     ws-opts:
-      path: /节点狂魔/
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_8
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
       path: /x@节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_9
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_10
+    name: 日本_8
     server: 121.85.55.59
     port: 19842
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -929,7 +650,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_11
+    name: 日本_9
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -940,7 +661,7 @@ proxies:
     ws-opts:
       path: /节点狂魔/
   - type: vless
-    name: 日本_12
+    name: 日本_10
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -953,7 +674,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_13
+    name: 日本_11
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -966,7 +687,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_14
+    name: 日本_12
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -979,32 +700,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_15
-    server: 153.121.45.101
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: trojan
-    name: 台湾_3
-    server: 125.227.86.44
-    port: 443
-    password: 3f5bc61547b1f0d9
-    network: grpc
-    sni: TG.节点狂魔
-    alpn:
-      - h2
-    tls: true
-    grpc-opts:
-      grpc-service-name: db
-  - type: vless
-    name: 日本_16
+    name: 日本_13
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1016,32 +712,8 @@ proxies:
       path: /x@节点狂魔/
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: trojan
-    name: 台湾_4
-    server: 125.227.86.48
-    port: 443
-    password: 3f5bc61547b1f0d9
-    network: grpc
-    sni: TG.节点狂魔
-    alpn:
-      - h2
-    tls: true
-    grpc-opts:
-      grpc-service-name: db
-  - type: trojan
-    name: 台湾_5
-    server: 125.227.86.44
-    port: 443
-    password: 0a9f1f5a397bd427
-    network: grpc
-    sni: TG.节点狂魔
-    alpn:
-      - h2
-    tls: true
-    grpc-opts:
-      grpc-service-name: db
   - type: vless
-    name: 香港_11
+    name: 香港_10
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1054,7 +726,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_6
+    name: 台湾_3
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1067,7 +739,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_12
+    name: 香港_11
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1080,20 +752,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_17
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /x@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 美国_38
+    name: 美国_19
     server: 47.79.91.168
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1106,7 +765,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_13
+    name: 香港_12
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1119,7 +778,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_14
+    name: 香港_13
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1132,7 +791,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_18
+    name: 日本_14
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1143,20 +802,7 @@ proxies:
     ws-opts:
       path: /节点狂魔/
   - type: vless
-    name: 香港_15
-    server: 202.85.53.74
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 台湾_7
+    name: 台湾_4
     server: 114.34.202.224
     port: 10004
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1169,20 +815,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_19
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 香港_16
+    name: 香港_14
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1195,7 +828,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_20
+    name: 日本_15
     server: 121.85.55.59
     port: 19842
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1208,7 +841,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_8
+    name: 台湾_5
     server: 119.65.139.101
     port: 60001
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1221,7 +854,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_21
+    name: 日本_16
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1234,7 +867,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_22
+    name: 日本_17
     server: 221.139.94.50
     port: 50001
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1244,32 +877,8 @@ proxies:
     encryption: none
     ws-opts:
       path: /Telegram馃嚚馃嚦 @WangCai2 /
-  - type: trojan
-    name: 台湾_9
-    server: 125.227.86.47
-    port: 443
-    password: 3f5bc61547b1f0d9
-    network: grpc
-    sni: TG.节点狂魔
-    alpn:
-      - h2
-    tls: true
-    grpc-opts:
-      grpc-service-name: db
-  - type: trojan
-    name: 台湾_10
-    server: 125.227.86.45
-    port: 443
-    password: 3f5bc61547b1f0d9
-    network: grpc
-    sni: TG.节点狂魔
-    alpn:
-      - h2
-    tls: true
-    grpc-opts:
-      grpc-service-name: db
   - type: vless
-    name: 美国_39
+    name: 美国_20
     server: 47.79.91.168
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1295,7 +904,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_40
+    name: 美国_21
     server: wangcai254.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1321,7 +930,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_41
+    name: 美国_22
     server: 159.112.235.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1383,7 +992,7 @@ proxies:
     ws-opts:
       path: /Telegram馃嚚馃嚦 @WangCai2 /
   - type: vless
-    name: 美国_42
+    name: 美国_23
     server: 139.64.235.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1474,7 +1083,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_43
+    name: 美国_24
     server: wangcai255.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1500,20 +1109,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_7
-    server: 188.42.145.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 美国_44
+    name: 美国_25
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1550,7 +1146,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_8
+    name: 卢森堡_7
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1561,7 +1157,7 @@ proxies:
     ws-opts:
       path: /telegram@节点狂魔/?ed=2560
   - type: vless
-    name: 日本_23
+    name: 日本_18
     server: 115.40.244.240
     port: 11211
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1584,20 +1180,8 @@ proxies:
       path: /Telegram @节点狂魔 /?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: trojan
-    name: 台湾_11
-    server: 125.227.86.46
-    port: 443
-    password: 0a9f1f5a397bd427
-    network: grpc
-    sni: TG.节点狂魔
-    alpn:
-      - h2
-    tls: true
-    grpc-opts:
-      grpc-service-name: db
   - type: vless
-    name: 卢森堡_9
+    name: 卢森堡_8
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1610,7 +1194,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_45
+    name: 美国_26
     server: 159.112.235.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1632,7 +1216,7 @@ proxies:
     ws-opts:
       path: /x+@节点狂魔+/
   - type: vless
-    name: 卢森堡_10
+    name: 卢森堡_9
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1643,7 +1227,7 @@ proxies:
     ws-opts:
       path: /
   - type: vless
-    name: 卢森堡_11
+    name: 卢森堡_10
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1682,7 +1266,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_46
+    name: 美国_27
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1708,7 +1292,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_47
+    name: 美国_28
     server: 159.112.235.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1721,7 +1305,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_12
+    name: 卢森堡_11
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1734,7 +1318,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_48
+    name: 美国_29
     server: 139.64.235.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1745,7 +1329,7 @@ proxies:
     ws-opts:
       path: /
   - type: vless
-    name: 卢森堡_13
+    name: 卢森堡_12
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1757,14 +1341,8 @@ proxies:
       path: /TelegramU0001F1E8U0001F1F3 @节点狂魔 /?ed=2560fp=chrome
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: hysteria2
-    name: 美国_49
-    server: banmabanmabanmabanmabanmabanma1.wanlidag.top
-    port: 54265
-    password: 6389c4ed-7e4b-4d43-a302-21bce6ec7fe9
-    sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
   - type: vless
-    name: 美国_50
+    name: 美国_30
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1777,7 +1355,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_51
+    name: 美国_31
     server: 139.64.235.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1802,7 +1380,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_14
+    name: 卢森堡_13
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1828,7 +1406,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_12
+    name: 台湾_6
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1853,27 +1431,8 @@ proxies:
       path: X@节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: ss
-    name: 05(TG:@tccjd)
-    server: 113.99.143.139
-    port: 26470
-    cipher: aes-128-gcm
-    password: b637f2e47b7827b308ebf399008075d2
   - type: vless
-    name: 台湾_13
-    server: 210.61.97.241
-    port: 81
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 台湾_14
+    name: 台湾_7
     server: 119.65.139.101
     port: 60001
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1925,7 +1484,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_17
+    name: 香港_15
     server: 36.50.90.241
     port: 47790
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1938,7 +1497,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_52
+    name: 美国_32
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1951,7 +1510,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_15
+    name: 卢森堡_14
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1964,7 +1523,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_16
+    name: 卢森堡_15
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -1977,7 +1536,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_18
+    name: 香港_16
     server: 36.50.90.241
     port: 47790
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2003,7 +1562,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_17
+    name: 卢森堡_16
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2016,18 +1575,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_53
-    server: 159.112.235.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /
-  - type: vless
-    name: 卢森堡_18
+    name: 卢森堡_17
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2040,7 +1588,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_19
+    name: 香港_17
     server: 36.50.90.241
     port: 35951
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2052,12 +1600,6 @@ proxies:
       path: 节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: hysteria2
-    name: 美国_54
-    server: banmabanmabanmabanmabanmabanma1.wanlidag.top
-    port: 54265
-    password: 4ccf4e58-267e-4a8d-a295-5feb5fd74a3a
-    sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
   - type: vless
     name: 10(TG:@tccjd)
     server: 36.50.90.241
@@ -2096,7 +1638,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_20
+    name: 香港_18
     server: 36.50.90.241
     port: 35951
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2122,7 +1664,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_55
+    name: 美国_33
     server: 159.112.235.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2147,7 +1689,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_56
+    name: 美国_34
     server: 154.197.75.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2157,30 +1699,6 @@ proxies:
     encryption: none
     ws-opts:
       path: /Telegram馃嚚馃嚦+@WangCai2+/
-  - type: vless
-    name: 卢森堡_19
-    server: 188.42.145.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /
-  - type: vless
-    name: 卢森堡_20
-    server: 188.42.145.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /TelegramU0001F1E8U0001F1F3@节点狂魔/?ed=2560fp=chrome
-      headers:
-        Host: gaosir.unfeeling.sbs
   - type: vless
     name: 12(TG:@tccjd)
     server: 36.50.90.241
@@ -2195,7 +1713,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_21
+    name: 卢森堡_18
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2208,7 +1726,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_22
+    name: 卢森堡_19
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2221,7 +1739,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_23
+    name: 卢森堡_20
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2232,7 +1750,7 @@ proxies:
     ws-opts:
       path: /节点狂魔/
   - type: vless
-    name: 美国_57
+    name: 美国_35
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2254,7 +1772,7 @@ proxies:
     ws-opts:
       path: /x @鑺傜偣鐙傞瓟
   - type: vless
-    name: 卢森堡_24
+    name: 卢森堡_21
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2267,7 +1785,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_58
+    name: 美国_36
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2307,7 +1825,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_59
+    name: 美国_37
     server: wangcai254.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2320,7 +1838,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_60
+    name: 美国_38
     server: wangcai241.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2333,31 +1851,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_25
-    server: 188.42.145.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /TelegramU0001F1E8U0001F1F3@节点狂魔/?ed
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 美国_61
-    server: 139.64.235.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /
-  - type: vless
-    name: 美国_62
+    name: 美国_39
     server: wangcai248.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2384,7 +1878,7 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 香港_21
+    name: 香港_19
     server: 36.50.90.241
     port: 47790
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2410,7 +1904,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_63
+    name: 美国_40
     server: wangcai12.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2456,14 +1950,6 @@ proxies:
     reality-opts:
       public-key: lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo
     client-fingerprint: firefox
-  - type: trojan
-    name: 17(TG:@tccjd)
-    server: 58.152.46.98
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: 58.152.46.98
-    tls: true
   - type: vless
     name: 韩国_3
     server: 222.113.18.206
@@ -2517,7 +2003,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_64
+    name: 美国_41
     server: wangcai93.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2530,7 +2016,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_22
+    name: 香港_20
     server: 210.6.207.42
     port: 18622
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2570,7 +2056,7 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 台湾_15
+    name: 台湾_8
     server: 119.65.139.101
     port: 60001
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2583,7 +2069,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_65
+    name: 美国_42
     server: 64.188.74.120
     port: 443
     uuid: b7437f7a-783f-4e6f-a555-a2a589f42b5a
@@ -2623,7 +2109,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_16
+    name: 台湾_9
     server: 119.65.139.101
     port: 60001
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2636,7 +2122,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_24
+    name: 日本_19
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2647,7 +2133,7 @@ proxies:
     ws-opts:
       path: /
   - type: vless
-    name: 日本_25
+    name: 日本_20
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2675,7 +2161,7 @@ proxies:
     client-fingerprint: firefox
     flow: xtls-rprx-vision
   - type: vless
-    name: 香港_23
+    name: 香港_21
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2701,7 +2187,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_26
+    name: 日本_21
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2727,7 +2213,7 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 日本_27
+    name: 日本_22
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2740,7 +2226,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_28
+    name: 日本_23
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2753,7 +2239,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_17
+    name: 台湾_10
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2781,7 +2267,7 @@ proxies:
     client-fingerprint: firefox
     flow: xtls-rprx-vision
   - type: vless
-    name: 日本_29
+    name: 日本_24
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2794,7 +2280,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_30
+    name: 日本_25
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2807,7 +2293,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_31
+    name: 日本_26
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2820,20 +2306,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_32
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_33
+    name: 日本_27
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2846,7 +2319,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_34
+    name: 日本_28
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2859,7 +2332,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_35
+    name: 日本_29
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2872,20 +2345,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_36
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_37
+    name: 日本_30
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2898,7 +2358,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_38
+    name: 日本_31
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2911,20 +2371,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_24
-    server: 202.85.53.74
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_39
+    name: 日本_32
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2937,7 +2384,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_18
+    name: 台湾_11
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2950,7 +2397,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_66
+    name: 美国_43
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2962,27 +2409,8 @@ proxies:
       path: x@节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: ss
-    name: 澳门
-    server: 154.83.89.88
-    port: 54275
-    cipher: 2022-blake3-aes-128-gcm
-    password: x5JIeeg3AKC8JhoW22DXmNqbqznm2CK2rhMtqLVbW86E
   - type: vless
-    name: 日本_40
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: 节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 香港_25
+    name: 香港_22
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -2995,7 +2423,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_67
+    name: 美国_44
     server: 104.16.53.11
     port: 2053
     uuid: 97fc44dd-c88c-4470-8d66-1752089c0183
@@ -3015,7 +2443,7 @@ proxies:
     network: tcp
     encryption: none
   - type: vless
-    name: 香港_26
+    name: 香港_23
     server: 223.16.138.113
     port: 12457
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3065,7 +2493,7 @@ proxies:
     ws-opts:
       path: /
   - type: vless
-    name: 香港_27
+    name: 香港_24
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3089,33 +2517,7 @@ proxies:
     ws-opts:
       path: /节点狂魔/
   - type: vless
-    name: 日本_41
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: Telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_42
-    server: 153.121.45.101
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 香港_28
+    name: 香港_25
     server: 36.50.90.241
     port: 47790
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3202,24 +2604,11 @@ proxies:
     tls: true
     encryption: none
     ws-opts:
-      path: Telegram @节点狂魔 /?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_21
-    server: 31.192.238.71
-    port: 2053
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
       path: /X@节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_22
+    name: 俄罗斯_21
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3245,7 +2634,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_23
+    name: 俄罗斯_22
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3258,7 +2647,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_24
+    name: 俄罗斯_23
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3271,7 +2660,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_25
+    name: 俄罗斯_24
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3284,7 +2673,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_26
+    name: 俄罗斯_25
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3297,7 +2686,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_27
+    name: 俄罗斯_26
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3323,20 +2712,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_28
-    server: 31.192.238.71
-    port: 2053
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_29
+    name: 俄罗斯_27
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3349,7 +2725,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_43
+    name: 日本_33
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3362,7 +2738,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_30
+    name: 俄罗斯_28
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3375,7 +2751,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_31
+    name: 俄罗斯_29
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3388,7 +2764,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_32
+    name: 俄罗斯_30
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3401,7 +2777,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_44
+    name: 日本_34
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3414,7 +2790,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_33
+    name: 俄罗斯_31
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3427,7 +2803,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_34
+    name: 俄罗斯_32
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3440,7 +2816,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_35
+    name: 俄罗斯_33
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3466,29 +2842,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_45
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: trojan
-    name: 22(TG:@tccjd)
-    server: 58.152.46.98
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: 58.152.46.98
-    fingerprint: chrome
-    tls: true
-  - type: vless
-    name: 日本_46
+    name: 日本_35
     server: 202.84.53.85
     port: 19999
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3501,7 +2855,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_68
+    name: 美国_45
     server: 147.75.225.105
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3527,7 +2881,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_47
+    name: 日本_36
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3540,20 +2894,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_48
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram @节点狂魔 /?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_49
+    name: 日本_37
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3565,20 +2906,7 @@ proxies:
       path: /节点狂魔/
     client-fingerprint: chrome
   - type: vless
-    name: 台湾_19
-    server: 114.34.202.224
-    port: 10004
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 台湾_20
+    name: 台湾_12
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3591,7 +2919,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_69
+    name: 美国_46
     server: 47.79.90.37
     port: 49153
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3604,7 +2932,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_21
+    name: 台湾_13
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3617,7 +2945,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_22
+    name: 台湾_14
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3643,7 +2971,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_70
+    name: 美国_47
     server: 47.79.91.168
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3656,7 +2984,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_71
+    name: 美国_48
     server: 47.79.90.37
     port: 49153
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3669,7 +2997,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_23
+    name: 台湾_15
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3680,7 +3008,7 @@ proxies:
     ws-opts:
       path: /节点狂魔/
   - type: vless
-    name: 日本_50
+    name: 日本_38
     server: 158.101.77.33
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3693,7 +3021,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_51
+    name: 日本_39
     server: 202.84.53.85
     port: 19999
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3706,7 +3034,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_52
+    name: 日本_40
     server: 158.101.145.82
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3758,7 +3086,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_72
+    name: 美国_49
     server: 47.79.91.168
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3808,7 +3136,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_29
+    name: 香港_26
     server: 210.6.207.42
     port: 18622
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3818,19 +3146,6 @@ proxies:
     encryption: none
     ws-opts:
       path: /Telegram🇨🇳@WangCai2/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 台湾_24
-    server: 114.34.202.224
-    port: 10004
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
@@ -3847,7 +3162,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_25
+    name: 台湾_16
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3951,7 +3266,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_26
+    name: 卢森堡_22
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3964,7 +3279,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_36
+    name: 俄罗斯_34
     server: 5.182.85.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -3975,7 +3290,7 @@ proxies:
     ws-opts:
       path: /Telegram馃嚚馃嚦+@WangCai2+/
   - type: vless
-    name: 日本_53
+    name: 日本_41
     server: 168.138.197.147
     port: 12345
     uuid: 64bf9c97-212c-4814-ad17-f8539b53a8bd
@@ -4001,20 +3316,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_27
-    server: 188.42.145.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram🇨🇳@WangCai2/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 美国_73
+    name: 美国_50
     server: 139.64.235.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4024,19 +3326,6 @@ proxies:
     encryption: none
     ws-opts:
       path: /Telegram @节点狂魔 /
-  - type: vless
-    name: 卢森堡_28
-    server: 188.42.145.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /TelegramU0001F1E8U0001F1F3@节点狂魔/?ed
-      headers:
-        Host: gaosir.unfeeling.sbs
   - type: vless
     name: 韩国_20
     server: 218.151.91.131
@@ -4103,19 +3392,6 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_30
-    server: 210.6.207.42
-    port: 18622
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: Telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
     name: 09(TG:@tccjd)_2
     server: 178.130.47.106
     port: 443
@@ -4130,7 +3406,7 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 卢森堡_29
+    name: 卢森堡_23
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4143,7 +3419,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_26
+    name: 台湾_17
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4182,20 +3458,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_31
-    server: 210.6.207.42
-    port: 18622
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: Telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 卢森堡_30
+    name: 卢森堡_24
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4273,7 +3536,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_27
+    name: 台湾_18
     server: 114.34.202.224
     port: 10004
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4312,20 +3575,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_31
-    server: 188.42.145.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /XU0001F1E8U0001F1F3@节点狂魔/?ed=2560fp=chrome
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_37
+    name: 俄罗斯_35
     server: 95.164.6.65
     port: 8880
     uuid: df0680ca-e43c-498d-ed86-8e196eedd012
@@ -4345,7 +3595,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_54
+    name: 日本_42
     server: 140.83.57.20
     port: 13118
     uuid: 64bf9c97-212c-4814-ad17-f8539b53a8bd
@@ -4397,7 +3647,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_55
+    name: 日本_43
     server: 202.84.53.85
     port: 19999
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4450,7 +3700,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_32
+    name: 香港_27
     server: 210.6.207.42
     port: 18622
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4483,7 +3733,7 @@ proxies:
     network: grpc
     encryption: none
   - type: vless
-    name: 香港_33
+    name: 香港_28
     server: 210.6.207.42
     port: 18622
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4548,7 +3798,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_28
+    name: 台湾_19
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4568,7 +3818,7 @@ proxies:
     network: grpc
     encryption: none
   - type: vless
-    name: 美国_74
+    name: 美国_51
     server: 147.75.225.105
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4581,7 +3831,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_56
+    name: 日本_44
     server: 113.37.149.36
     port: 12553
     uuid: 64bf9c97-212c-4814-ad17-f8539b53a8bd
@@ -4594,7 +3844,7 @@ proxies:
       headers:
         Host: vless.pengjiajin.sbs
   - type: vless
-    name: 俄罗斯_38
+    name: 俄罗斯_36
     server: 5.42.220.253
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4620,7 +3870,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_39
+    name: 俄罗斯_37
     server: 5.42.220.253
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4633,7 +3883,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_40
+    name: 俄罗斯_38
     server: 5.42.220.253
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4646,20 +3896,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_34
-    server: 210.6.207.42
-    port: 18622
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_41
+    name: 俄罗斯_39
     server: 5.42.220.253
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4672,7 +3909,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_42
+    name: 俄罗斯_40
     server: 5.42.220.253
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4710,14 +3947,8 @@ proxies:
       path: /x@节点狂魔/
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: hysteria2
-    name: 日本_57
-    server: 133.18.163.202
-    port: 50000
-    password: d48fd52e-f058-497d-aa36-f4b6666c647b
-    sni: www.microsoft.com
   - type: vless
-    name: 俄罗斯_43
+    name: 俄罗斯_41
     server: 5.42.220.253
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4743,7 +3974,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_75
+    name: 美国_52
     server: 167.179.27.92
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4769,7 +4000,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_76
+    name: 美国_53
     server: 167.179.27.92
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4782,7 +4013,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_35
+    name: 香港_29
     server: 118.141.64.192
     port: 36619
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4821,7 +4052,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_44
+    name: 俄罗斯_42
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4867,7 +4098,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_45
+    name: 俄罗斯_43
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4880,7 +4111,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_36
+    name: 香港_30
     server: 118.141.64.192
     port: 36619
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4893,7 +4124,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_37
+    name: 香港_31
     server: 118.141.64.192
     port: 36619
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4906,7 +4137,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_46
+    name: 俄罗斯_44
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4919,7 +4150,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_29
+    name: 台湾_20
     server: 114.34.202.224
     port: 10004
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4932,7 +4163,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_47
+    name: 俄罗斯_45
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4945,7 +4176,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_48
+    name: 俄罗斯_46
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4958,20 +4189,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_49
-    server: 31.192.238.71
-    port: 8443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_50
+    name: 俄罗斯_47
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -4984,7 +4202,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_51
+    name: 俄罗斯_48
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5010,20 +4228,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_52
-    server: 31.192.238.71
-    port: 2053
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_53
+    name: 俄罗斯_49
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5036,20 +4241,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_54
-    server: 31.192.238.71
-    port: 2053
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_58
+    name: 日本_45
     server: 153.121.45.101
     port: 443
     uuid: 64bf9c97-212c-4814-ad17-f8539b53a8bd
@@ -5062,20 +4254,7 @@ proxies:
       headers:
         Host: vless.pengjiajin.sbs
   - type: vless
-    name: 俄罗斯_55
-    server: 31.192.238.71
-    port: 2053
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_56
+    name: 俄罗斯_50
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5088,7 +4267,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_57
+    name: 俄罗斯_51
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5098,19 +4277,6 @@ proxies:
     encryption: none
     ws-opts:
       path: /Telegram🇨🇳@WangCai2/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_58
-    server: 31.192.238.71
-    port: 8443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: 节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
@@ -5127,7 +4293,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_59
+    name: 俄罗斯_52
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5140,7 +4306,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_60
+    name: 俄罗斯_53
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5164,7 +4330,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_61
+    name: 俄罗斯_54
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5177,7 +4343,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_62
+    name: 俄罗斯_55
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5190,7 +4356,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_63
+    name: 俄罗斯_56
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5203,33 +4369,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_64
-    server: 31.192.238.71
-    port: 2053
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram🇨🇳 @WangCai2 /
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_65
-    server: 31.192.238.71
-    port: 8443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: Telegram @节点狂魔 /?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_66
+    name: 俄罗斯_57
     server: 31.192.238.71
     port: 2053
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5242,46 +4382,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_67
-    server: 31.192.238.71
-    port: 8443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_68
-    server: 31.192.238.71
-    port: 8443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram+@节点狂魔+/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_69
-    server: 31.192.238.71
-    port: 2053
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: 节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_70
+    name: 俄罗斯_58
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5294,33 +4395,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_71
-    server: 31.192.238.71
-    port: 8443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_72
-    server: 31.192.238.71
-    port: 2053
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram @节点狂魔 /?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_73
+    name: 俄罗斯_59
     server: 31.192.238.71
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5333,10 +4408,18 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: defaultName
+    name: 美国_54
     server: 175.211.35.161
     port: 50003
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    network: ws
+    servername: gaosir.unfeeling.sbs
+    tls: true
+    encryption: none
+    ws-opts:
+      path: Telegram🇨🇳+@节点狂魔+/?ed=2560
+      headers:
+        Host: gaosir.unfeeling.sbs
   - type: vless
     name: 中国香港
     server: 47.76.218.163
@@ -5364,7 +4447,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_77
+    name: 美国_55
     server: 47.76.218.163
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5377,7 +4460,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_78
+    name: 美国_56
     server: 47.76.218.163
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5390,7 +4473,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_79
+    name: 美国_57
     server: 47.76.218.163
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5429,7 +4512,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_80
+    name: 美国_58
     server: 47.76.218.163
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5449,7 +4532,7 @@ proxies:
     network: tcp
     encryption: none
   - type: vless
-    name: 17(TG:@tccjd)_1
+    name: 17(TG:@tccjd)
     server: 47.76.218.163
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5462,7 +4545,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_59
+    name: 日本_46
     server: 8.209.220.50
     port: 21273
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5474,17 +4557,6 @@ proxies:
       path: /X@节点狂魔/
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_60
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/
   - type: vless
     name: 18(TG:@tccjd)_1
     server: zrf.cf.090227.xyz
@@ -5497,7 +4569,7 @@ proxies:
     ws-opts:
       path: /
   - type: vless
-    name: 香港_38
+    name: 香港_32
     server: 8.210.96.197
     port: 12902
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5510,7 +4582,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_61
+    name: 日本_47
     server: 8.209.220.50
     port: 21273
     uuid: 64bf9c97-212c-4814-ad17-f8539b53a8bd
@@ -5523,7 +4595,7 @@ proxies:
       headers:
         Host: vless.pengjiajin.sbs
   - type: vless
-    name: 日本_62
+    name: 日本_48
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5536,7 +4608,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_63
+    name: 日本_49
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5549,7 +4621,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_30
+    name: 台湾_21
     server: 114.34.202.224
     port: 10004
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5562,33 +4634,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_64
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_65
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /x@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_66
+    name: 日本_50
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5601,20 +4647,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_67
-    server: 153.121.45.101
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_68
+    name: 日本_51
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5625,7 +4658,7 @@ proxies:
     ws-opts:
       path: /X@鑺傜偣鐙傞瓟/
   - type: vless
-    name: 日本_69
+    name: 日本_52
     server: 13.230.34.30
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5638,7 +4671,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_70
+    name: 日本_53
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5651,46 +4684,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_71
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_72
-    server: 153.121.45.101
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_73
-    server: 153.121.45.101
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_74
+    name: 日本_54
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5703,20 +4697,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_75
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_76
+    name: 日本_55
     server: 47.79.90.37
     port: 49153
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5740,20 +4721,7 @@ proxies:
     ws-opts:
       path: /Telegram馃嚚馃嚦 @节点狂魔 /
   - type: vless
-    name: 日本_77
-    server: 153.121.45.101
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_78
+    name: 日本_56
     server: 47.79.91.168
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5766,7 +4734,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_79
+    name: 日本_57
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5779,7 +4747,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_80
+    name: 日本_58
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5790,20 +4758,7 @@ proxies:
     ws-opts:
       path: /Telegram馃嚚馃嚦@节点狂魔/
   - type: vless
-    name: 日本_81
-    server: 160.16.203.210
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_82
+    name: 日本_59
     server: 47.79.90.37
     port: 49153
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5816,7 +4771,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_83
+    name: 日本_60
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5829,7 +4784,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_84
+    name: 日本_61
     server: 47.79.35.191
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5842,7 +4797,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_39
+    name: 香港_33
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5877,7 +4832,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_40
+    name: 香港_34
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5888,7 +4843,7 @@ proxies:
     ws-opts:
       path: /@ShadowProxy66/
   - type: vless
-    name: 日本_85
+    name: 日本_62
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5899,7 +4854,7 @@ proxies:
     ws-opts:
       path: /Telegram馃嚚馃嚦@节点狂魔/
   - type: vless
-    name: 日本_86
+    name: 日本_63
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5938,7 +4893,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_41
+    name: 香港_35
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5949,7 +4904,7 @@ proxies:
     ws-opts:
       path: /Telegram@节点狂魔/
   - type: vless
-    name: 日本_87
+    name: 日本_64
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5962,18 +4917,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_88
-    server: 153.121.45.101
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/
-  - type: vless
-    name: 日本_89
+    name: 日本_65
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -5986,7 +4930,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_81
+    name: 美国_59
     server: 47.79.91.168
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6010,7 +4954,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_42
+    name: 香港_36
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6023,7 +4967,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_90
+    name: 日本_66
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6036,7 +4980,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_82
+    name: 美国_60
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6049,7 +4993,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_91
+    name: 日本_67
     server: 47.79.91.168
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6088,7 +5032,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_92
+    name: 日本_68
     server: 160.16.203.210
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6109,19 +5053,6 @@ proxies:
     encryption: none
     ws-opts:
       path: X🇨🇳 @节点狂魔 /?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_93
-    server: 153.121.45.101
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /x@节点狂魔/
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
@@ -6151,7 +5082,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_94
+    name: 日本_69
     server: 47.79.90.37
     port: 49153
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6164,7 +5095,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_43
+    name: 香港_37
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6190,20 +5121,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_31
-    server: 210.61.97.241
-    port: 81
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X @节点狂魔 /
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_95
+    name: 日本_70
     server: 139.162.102.152
     port: 7002
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6213,19 +5131,6 @@ proxies:
     encryption: none
     ws-opts:
       path: /Telegram🇨🇳 @WangCai2 /
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 香港_44
-    server: 202.85.53.74
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /x@节点狂魔/
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
@@ -6255,20 +5160,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_32
-    server: 210.61.97.241
-    port: 81
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram @节点狂魔 /?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_96
+    name: 日本_71
     server: 47.79.90.37
     port: 49153
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6294,7 +5186,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_45
+    name: 香港_38
     server: 202.85.53.74
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6307,7 +5199,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_33
+    name: 台湾_22
     server: 210.61.97.241
     port: 81
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6343,19 +5235,6 @@ proxies:
     encryption: none
     ws-opts:
       path: /X @节点狂魔 /?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 香港_46
-    server: 202.85.53.74
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /x@节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
@@ -6409,7 +5288,7 @@ proxies:
     ws-opts:
       path: /Telegram🇨🇳 @节点狂魔 /
   - type: vless
-    name: 美国_83
+    name: 美国_61
     server: 112.165.52.204
     port: 50000
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6422,7 +5301,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_97
+    name: 日本_72
     server: 218.54.55.117
     port: 12176
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6432,19 +5311,6 @@ proxies:
     encryption: none
     ws-opts:
       path: x @节点狂魔 /?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_98
-    server: 202.84.53.85
-    port: 19999
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: X @节点狂魔 /?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
@@ -6474,19 +5340,6 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_47
-    server: 202.85.53.74
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
     name: 中国香港_5
     server: 202.85.53.74
     port: 443
@@ -6513,7 +5366,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 台湾_34
+    name: 台湾_23
     server: 150.109.236.191
     port: 25565
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6526,7 +5379,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_84
+    name: 美国_62
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6537,7 +5390,7 @@ proxies:
     ws-opts:
       path: /telegram🇨🇳@节点狂魔/
   - type: vless
-    name: 俄罗斯_74
+    name: 俄罗斯_60
     server: 195.13.45.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6587,7 +5440,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_48
+    name: 香港_39
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6600,7 +5453,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_85
+    name: 美国_63
     server: 5.182.85.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6613,7 +5466,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_49
+    name: 香港_40
     server: wangcai252.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6625,28 +5478,6 @@ proxies:
       path: /Telegram🇨🇳+@WangCai2+/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 俄罗斯_75
-    server: 195.13.45.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /x @鑺傜偣鐙傞瓟
-  - type: vless
-    name: 美国_86
-    server: 104.19.50.238
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /
   - type: vless
     name: 03(TG:@tccjd)_2
     server: 5.182.85.253
@@ -6672,7 +5503,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_50
+    name: 香港_41
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6685,7 +5516,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_99
+    name: 日本_73
     server: 172.105.209.25
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6711,7 +5542,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_87
+    name: 美国_64
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6737,40 +5568,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_88
-    server: 104.19.50.238
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 美国_89
-    server: 159.112.235.253
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /
-    client-fingerprint: chrome
-  - type: trojan
-    name: 香港_51
-    server: 58.152.46.98
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: 58.152.46.98
-    tls: true
-  - type: vless
-    name: 美国_90
+    name: 美国_65
     server: 195.13.45.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6783,7 +5581,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_52
+    name: 香港_42
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6857,20 +5655,7 @@ proxies:
     ws-opts:
       path: /Telegram馃嚚馃嚦@节点狂魔/
   - type: vless
-    name: 香港_53
-    server: wangcai252.cloudflare.182682.xyz
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram🇨🇳@WangCai2/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 香港_54
+    name: 香港_43
     server: wangcai255.cloudflare.182682.xyz
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6883,7 +5668,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 俄罗斯_76
+    name: 俄罗斯_61
     server: 195.13.45.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6894,7 +5679,7 @@ proxies:
     ws-opts:
       path: /Telegram馃嚚馃嚦 @节点狂魔 /
   - type: vless
-    name: 卢森堡_32
+    name: 卢森堡_25
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6907,20 +5692,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_91
-    server: 104.19.50.238
-    port: 2096
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_100
+    name: 日本_74
     server: 139.162.106.22
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6933,7 +5705,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_92
+    name: 美国_66
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6946,7 +5718,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 05(TG:@tccjd)_1
+    name: 05(TG:@tccjd)
     server: 119.65.139.101
     port: 60001
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -6958,13 +5730,6 @@ proxies:
       path: /x@节点狂魔
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: trojan
-    name: 香港_55
-    server: 58.152.46.98
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    tls: true
   - type: vless
     name: 荷兰_7
     server: 188.42.145.253
@@ -7005,7 +5770,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_101
+    name: 日本_75
     server: 172.105.208.156
     port: 443
     uuid: 64bf9c97-212c-4814-ad17-f8539b53a8bd
@@ -7069,12 +5834,6 @@ proxies:
       path: /TelegramU0001F1E8U0001F1F3@节点狂魔/?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
-  - type: hysteria2
-    name: 美国_93
-    server: sfjmg4.sufujia.top
-    port: 57300
-    password: 524d330e-645c-4a36-a16c-9e99516d7237
-    sni: sfjmg4.sufujia.top
   - type: vless
     name: 韩国_74
     server: 59.6.239.208
@@ -7102,7 +5861,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_33
+    name: 卢森堡_26
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7139,7 +5898,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 卢森堡_34
+    name: 卢森堡_27
     server: 188.42.145.253
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7163,7 +5922,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_94
+    name: 美国_67
     server: 104.19.50.238
     port: 2096
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7228,7 +5987,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_102
+    name: 日本_76
     server: 172.237.11.207
     port: 8443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7280,20 +6039,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 荷兰_9
-    server: 130.162.130.105
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_103
+    name: 日本_77
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7319,7 +6065,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_95
+    name: 美国_68
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7331,7 +6077,7 @@ proxies:
       path: /Telegram@节点狂魔/
     client-fingerprint: chrome
   - type: vless
-    name: 日本_104
+    name: 日本_78
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7357,18 +6103,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_105
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /
-  - type: vless
-    name: 日本_106
+    name: 日本_79
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7379,7 +6114,7 @@ proxies:
     ws-opts:
       path: /X@鑺傜偣鐙傞瓟/
   - type: vless
-    name: 日本_107
+    name: 日本_80
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7418,7 +6153,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_108
+    name: 日本_81
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7431,7 +6166,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_109
+    name: 日本_82
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7444,33 +6179,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_110
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: 节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_111
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram @节点狂魔 /
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_112
+    name: 日本_83
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7483,7 +6192,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_113
+    name: 日本_84
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7496,7 +6205,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_114
+    name: 日本_85
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7509,7 +6218,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_115
+    name: 日本_86
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7535,7 +6244,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_116
+    name: 日本_87
     server: 153.121.45.101
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7548,19 +6257,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_117
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /节点狂魔/
-    client-fingerprint: chrome
-  - type: vless
-    name: 日本_118
+    name: 日本_88
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7599,7 +6296,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_119
+    name: 日本_89
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7612,7 +6309,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_120
+    name: 日本_90
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7625,7 +6322,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_56
+    name: 香港_44
     server: 116.93.199.28
     port: 30012
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7651,7 +6348,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_121
+    name: 日本_91
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7677,7 +6374,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_122
+    name: 日本_92
     server: 113.37.149.36
     port: 12553
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7714,19 +6411,6 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_123
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: Telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
     name: 伊朗_2
     server: 217.60.248.66
     port: 443
@@ -7752,33 +6436,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_124
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram @节点狂魔 /?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_125
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 香港_57
+    name: 香港_45
     server: 141.11.149.195
     port: 12082
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7791,7 +6449,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_96
+    name: 美国_69
     server: 47.76.218.163
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7801,19 +6459,6 @@ proxies:
     encryption: none
     ws-opts:
       path: Telegram🇨🇳@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_126
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: Telegram @节点狂魔 /?ed=2560
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
@@ -7843,33 +6488,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_58
-    server: 202.85.53.74
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /Telegram🇨🇳@WangCai2/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 日本_127
-    server: 113.37.149.36
-    port: 12553
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
-    name: 香港_59
+    name: 香港_46
     server: 223.16.138.113
     port: 12457
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7934,7 +6553,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_128
+    name: 日本_93
     server: 140.83.60.81
     port: 18443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -7960,19 +6579,6 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 日本_129
-    server: 153.121.45.101
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /X@节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
     name: 韩国_88
     server: 119.65.139.101
     port: 60001
@@ -7986,7 +6592,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 美国_97
+    name: 美国_70
     server: 47.76.218.163
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -8049,19 +6655,6 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_60
-    server: 47.76.218.163
-    port: 443
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    network: ws
-    servername: gaosir.unfeeling.sbs
-    tls: true
-    encryption: none
-    ws-opts:
-      path: 节点狂魔/?ed=2560
-      headers:
-        Host: gaosir.unfeeling.sbs
-  - type: vless
     name: 韩国_92
     server: 211.229.77.184
     port: 27443
@@ -8075,7 +6668,7 @@ proxies:
       headers:
         Host: gaosir.unfeeling.sbs
   - type: vless
-    name: 香港_61
+    name: 香港_47
     server: 47.76.218.163
     port: 443
     uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
@@ -8094,30 +6687,6 @@ proxies:
     uuid: 3c7a1d84-2f9e-4c13-a5b2-8d9e7f4c2a66
     network: tcp
     encryption: none
-  - type: trojan
-    name: US
-    server: nop-55q.pages.dev
-    port: 2053
-    password: T%40_WvT8Ho%40LW%25w_%2C
-    network: ws
-    sni: NOp-55q.pAgEs.dEv
-    tls: true
-    ws-opts:
-      path: /trGPZDfetEwuO25SAs
-      headers:
-        Host: NOp-55q.pAgEs.dEv
-  - type: trojan
-    name: US_1
-    server: nop-55q.pages.dev
-    port: 2053
-    password: T%40_WvT8Ho%40LW%25w_%2C
-    network: ws
-    sni: NOp-55q.pAgEs.dEv
-    tls: true
-    ws-opts:
-      path: /trGPZDfetEwuO25SAs
-      headers:
-        Host: NOp-55q.pAgEs.dEv
   - type: vless
     name: 美国（2025.10.28更新）
     server: realdom-fr.panelfreedom.com
@@ -8131,28 +6700,14 @@ proxies:
       public-key: lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo
     client-fingerprint: firefox
   - type: vless
-    name: 俄罗斯_77
-    server: 212.18.104.19
-    port: 443
-    uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
-    network: tcp
-    servername: nspk.ru
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: 9tpeVTkuJ5il6GaLG9YqMn99OK8AFlzgEFtoD1_MkyI
-      short-id: f8c64c7a
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 美国_98
+    name: 美国_71
     server: 638969264971590621.abadan-blkaft-aaaw.info
     port: 8880
     uuid: df0680ca-e43c-498d-ed86-8e196eedd012
     network: grpc
     encryption: none
   - type: vless
-    name: 美国_99
+    name: 美国_72
     server: 178.130.47.106
     port: 443
     uuid: b7437f7a-783f-4e6f-a555-a2a589f42b5a
@@ -8166,21 +6721,7 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 美国_100
-    server: 178.130.47.106
-    port: 443
-    uuid: b7437f7a-783f-4e6f-a555-a2a589f42b5a
-    network: tcp
-    servername: apple.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: 1mIcPpYlL0muJIo6tbFLK-LKXJ-B2npLsCleruoh2hU
-      short-id: e0f8e4e513037a
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 美国_101
+    name: 美国_73
     server: 212.18.104.19
     port: 443
     uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
@@ -8194,21 +6735,14 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: US_2
+    name: US
     server: 638966574572431911.rome-blkaft-aaau.info
     port: 8880
     uuid: df0680ca-e43c-498d-ed86-8e196eedd012
     network: grpc
     encryption: none
   - type: vless
-    name: 美国_102
-    server: 638969264971590621.abadan-blkaft-aaaw.info
-    port: 8880
-    uuid: df0680ca-e43c-498d-ed86-8e196eedd012
-    network: grpc
-    encryption: none
-  - type: vless
-    name: 美国_103
+    name: 美国_74
     server: 91.98.164.168
     port: 40647
     uuid: c3980834-0e40-43a5-9d8c-ce9389ab9d70
@@ -8223,35 +6757,12 @@ proxies:
       grpc-service-name: 91.98.164.168
     client-fingerprint: chrome
   - type: vless
-    name: 美国_104
+    name: 美国_75
     server: 95.164.6.65
     port: 8880
     uuid: df0680ca-e43c-498d-ed86-8e196eedd012
     network: grpc
     encryption: none
-  - type: vless
-    name: 俄罗斯_78
-    server: 212.18.104.19
-    port: 443
-    uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
-    network: tcp
-    servername: nspk.ru
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: 9tpeVTkuJ5il6GaLG9YqMn99OK8AFlzgEFtoD1_MkyI
-      short-id: f8c64c7a
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: trojan
-    name: 美国_105
-    server: 58.152.46.98
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: 58.152.46.98
-    fingerprint: chrome
-    tls: true
   - type: vless
     name: 意大利
     server: 638966574572431911.rome-blkaft-aaau.info
@@ -8260,50 +6771,8 @@ proxies:
     network: grpc
     encryption: none
   - type: vless
-    name: 意大利_1
+    name: 美国_76
     server: 638966574572431911.rome-blkaft-aaau.info
-    port: 8880
-    uuid: df0680ca-e43c-498d-ed86-8e196eedd012
-    network: grpc
-    encryption: none
-  - type: vless
-    name: 美国_106
-    server: 638966574572431911.rome-blkaft-aaau.info
-    port: 8880
-    uuid: df0680ca-e43c-498d-ed86-8e196eedd012
-    network: grpc
-    encryption: none
-  - type: vless
-    name: 意大利_2
-    server: 638966574572431911.rome-blkaft-aaau.info
-    port: 8880
-    uuid: df0680ca-e43c-498d-ed86-8e196eedd012
-    network: grpc
-    encryption: none
-  - type: vless
-    name: US_3
-    server: 638966574572431911.rome-blkaft-aaau.info
-    port: 8880
-    uuid: df0680ca-e43c-498d-ed86-8e196eedd012
-    network: grpc
-    encryption: none
-  - type: trojan
-    name: 香港_62
-    server: 58.152.46.98
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    tls: true
-  - type: vless
-    name: 意大利_3
-    server: 638966574572431911.rome-blkaft-aaau.info
-    port: 8880
-    uuid: df0680ca-e43c-498d-ed86-8e196eedd012
-    network: grpc
-    encryption: none
-  - type: vless
-    name: 美国_107
-    server: 638969264971590621.abadan-blkaft-aaaw.info
     port: 8880
     uuid: df0680ca-e43c-498d-ed86-8e196eedd012
     network: grpc
@@ -8316,48 +6785,14 @@ proxies:
     network: tcp
     encryption: none
   - type: vless
-    name: 希腊_1
-    server: 185.39.207.121
-    port: 443
-    uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
-    network: tcp
-    servername: vk.cc
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: Mjz6Gz75xTMe9ZU08h0y-A_VgRQ6tnt3qoOzdEn1k1M
-      short-id: 0fa84b90
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: trojan
-    name: 香港_63
-    server: 58.152.46.98
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    tls: true
-  - type: vless
-    name: 美国_108
+    name: 美国_77
     server: 183.240.252.102
     port: 11443
     uuid: df245bf8-8253-4029-90d8-ef30cfac75f4
     network: tcp
     encryption: none
-  - type: ss
-    name: 美国_109
-    server: 113.99.143.139
-    port: 40316
-    cipher: aes-128-gcm
-    password: b637f2e47b7827b308ebf399008075d2
-  - type: trojan
-    name: 香港_64
-    server: 58.152.46.98
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    tls: true
   - type: vless
-    name: 美国_110
+    name: 美国_78
     server: ytr.fasssst.ru
     port: 8443
     uuid: 762ddd62-0ea8-4a98-bc21-b25fb1c10c3f
@@ -8371,21 +6806,7 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 希腊_2
-    server: 185.39.207.121
-    port: 443
-    uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
-    network: tcp
-    servername: vk.cc
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: Mjz6Gz75xTMe9ZU08h0y-A_VgRQ6tnt3qoOzdEn1k1M
-      short-id: 0fa84b90
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 俄罗斯_79
+    name: 俄罗斯_62
     server: 109.172.54.49
     port: 443
     uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
@@ -8398,28 +6819,8 @@ proxies:
       short-id: 1aa49d75
     client-fingerprint: chrome
     flow: xtls-rprx-vision
-  - type: ss
-    name: 美国_111
-    server: 113.99.143.139
-    port: 40316
-    cipher: aes-128-gcm
-    password: b637f2e47b7827b308ebf399008075d2
   - type: vless
-    name: 俄罗斯_80
-    server: 81.19.140.131
-    port: 443
-    uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
-    network: tcp
-    servername: vk.cc
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: 18otPJIOnisNtfhP_PxpdJgPYqFbkYQAM-pecy90xwk
-      short-id: 5ec229f9
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 美国_112
+    name: 美国_79
     server: 91.224.75.112
     port: 443
     uuid: 88b9b7e2-7d97-4a6c-9c19-7e9d1da82183
@@ -8434,21 +6835,7 @@ proxies:
     client-fingerprint: firefox
     flow: xtls-rprx-vision
   - type: vless
-    name: 美国_113
-    server: ytr.fasssst.ru
-    port: 8443
-    uuid: 762ddd62-0ea8-4a98-bc21-b25fb1c10c3f
-    network: tcp
-    servername: ytr.fasssst.ru
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: YRyYaNF4UTgI16yX01Tn-2STbq0yzz7vZ8AMpn7g8zU
-      short-id: 3c92d2fdc884ecaf
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 美国_114
+    name: 美国_80
     server: nl.crynasty.ru
     port: 443
     uuid: dfb01e06-7538-424b-8e83-b24d9760ef55
@@ -8463,21 +6850,7 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 俄罗斯_81
-    server: 81.19.140.131
-    port: 443
-    uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
-    network: tcp
-    servername: vk.cc
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: 18otPJIOnisNtfhP_PxpdJgPYqFbkYQAM-pecy90xwk
-      short-id: 5ec229f9
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 美国_115
+    name: 美国_81
     server: 103.88.242.119
     port: 443
     uuid: 9d0d265d-0df6-4bcd-b029-9407a88ec2d8
@@ -8491,14 +6864,14 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 美国_116
+    name: 美国_82
     server: 638970136771547794.athens-blkaft-aaay.info
     port: 8880
     uuid: df0680ca-e43c-498d-ed86-8e196eedd012
     network: grpc
     encryption: none
   - type: vless
-    name: 美国_117
+    name: 美国_83
     server: 91.224.75.112
     port: 443
     uuid: 88b9b7e2-7d97-4a6c-9c19-7e9d1da82183
@@ -8513,14 +6886,14 @@ proxies:
     client-fingerprint: firefox
     flow: xtls-rprx-vision
   - type: vless
-    name: 美国_118
+    name: 美国_84
     server: 46.20.111.246
     port: 33534
     uuid: 4d6ef6fc-29f6-455d-bd93-39d506669b28
     network: tcp
     encryption: none
   - type: vless
-    name: 美国_119
+    name: 美国_85
     server: 91.224.75.112
     port: 443
     uuid: 88b9b7e2-7d97-4a6c-9c19-7e9d1da82183
@@ -8533,63 +6906,409 @@ proxies:
       short-id: 75a982c6
     client-fingerprint: firefox
     flow: xtls-rprx-vision
-  - type: vmess
-    name: 美国_120
-    server: 104.18.240.238
-    port: 80
-    uuid: d967ffca-de90-4daa-bd00-d527e5bae11f
-    alterId: 0
+  - type: vless
+    name: 美国_86
+    server: 178.160.211.182
+    port: 20155
+    uuid: dc28e2d3-7c69-47c6-b5b0-f76914454294
+    network: tcp
+    encryption: none
+  - type: trojan
+    name: 美国_87
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
     network: ws
-    cipher: auto
-    servername: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.
+    sni: 17616305211639.92510233.xyz
+    tls: true
     ws-opts:
-      path: /?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM
-        (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)
+      path: /agraeabtegrrh
       headers:
-        Host: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.
-  - type: vless
-    name: 美国_121
-    server: 178.160.211.182
-    port: 20155
-    uuid: dc28e2d3-7c69-47c6-b5b0-f76914454294
+        Host: 17616305219910.92510233.xyz
+  - type: trojan
+    name: 美国_88
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305215020.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /videomuaawe
+      headers:
+        Host: 17616305219203.92510233.xyz
+  - type: trojan
+    name: 美国_89
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305214050.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /videomuaawe
+      headers:
+        Host: 17616305214424.92510233.xyz
+  - type: trojan
+    name: 美国_90
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305217365.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /videomuaawe
+      headers:
+        Host: 17616305211590.92510233.xyz
+  - type: trojan
+    name: 美国_91
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305214084.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agrbniuh
+      headers:
+        Host: 17616305217188.92510233.xyz
+  - type: trojan
+    name: 美国_92
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305211606.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agrbniuh
+      headers:
+        Host: 17616305217848.92510233.xyz
+  - type: trojan
+    name: 美国_93
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305212083.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agrbniuh
+      headers:
+        Host: 17616305219780.92510233.xyz
+  - type: trojan
+    name: 美国_94
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305214712.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agrbniuh
+      headers:
+        Host: 17616305216633.92510233.xyz
+  - type: trojan
+    name: 美国_95
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305211913.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agraeabtegrrh
+      headers:
+        Host: 17616305217014.92510233.xyz
+  - type: trojan
+    name: 美国_96
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305213955.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agraeabtegrrh
+      headers:
+        Host: 17616305219836.92510233.xyz
+  - type: trojan
+    name: 美国_97
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305216514.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agraeabtegrrh
+      headers:
+        Host: 17616305211503.92510233.xyz
+  - type: trojan
+    name: 美国_98
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305218541.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agraeabtegrrh
+      headers:
+        Host: 17616305217453.92510233.xyz
+  - type: trojan
+    name: 美国_99
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305215980.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agrbniuh
+      headers:
+        Host: 17616305218647.92510233.xyz
+  - type: trojan
+    name: 美国_100
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305215123.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agraeabtegrrh
+      headers:
+        Host: 17616305215346.92510233.xyz
+  - type: trojan
+    name: 美国_101
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305219658.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agraeabtegrrh
+      headers:
+        Host: 17616305217232.92510233.xyz
+  - type: trojan
+    name: 美国_102
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305214330.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agrbniuh
+      headers:
+        Host: 17616305217696.92510233.xyz
+  - type: trojan
+    name: 美国_103
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305211046.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /videomuaawe
+      headers:
+        Host: 17616305213574.92510233.xyz
+  - type: trojan
+    name: 美国_104
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305214567.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /videomuaawe
+      headers:
+        Host: 17616305219757.92510233.xyz
+  - type: trojan
+    name: 美国_105
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305213635.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /agrbniuh
+      headers:
+        Host: 17616305211510.92510233.xyz
+  - type: trojan
+    name: 美国_106
+    server: bestcdn1.868863.xyz
+    port: 443
+    password: 7b2b6681-1a30-48b2-83fb-4efa639c8986
+    network: ws
+    sni: 17616305213934.92510233.xyz
+    tls: true
+    ws-opts:
+      path: /videomuaawe
+      headers:
+        Host: 17616305212537.92510233.xyz
+  - type: trojan
+    name: 台湾_24
+    server: 125.227.86.44
+    port: 443
+    password: 3f5bc61547b1f0d9
+    network: grpc
+    sni: TG.节点狂魔
+    alpn:
+      - h2
+    tls: true
+    grpc-opts:
+      grpc-service-name: db
+  - type: trojan
+    name: 台湾_25
+    server: 125.227.86.48
+    port: 443
+    password: 3f5bc61547b1f0d9
+    network: grpc
+    sni: TG.节点狂魔
+    alpn:
+      - h2
+    tls: true
+    grpc-opts:
+      grpc-service-name: db
+  - type: trojan
+    name: 台湾_26
+    server: 125.227.86.44
+    port: 443
+    password: 0a9f1f5a397bd427
+    network: grpc
+    sni: TG.节点狂魔
+    alpn:
+      - h2
+    tls: true
+    grpc-opts:
+      grpc-service-name: db
+  - type: trojan
+    name: 台湾_27
+    server: 125.227.86.47
+    port: 443
+    password: 3f5bc61547b1f0d9
+    network: grpc
+    sni: TG.节点狂魔
+    alpn:
+      - h2
+    tls: true
+    grpc-opts:
+      grpc-service-name: db
+  - type: trojan
+    name: 台湾_28
+    server: 125.227.86.45
+    port: 443
+    password: 3f5bc61547b1f0d9
+    network: grpc
+    sni: TG.节点狂魔
+    alpn:
+      - h2
+    tls: true
+    grpc-opts:
+      grpc-service-name: db
+  - type: trojan
+    name: 台湾_29
+    server: 125.227.86.46
+    port: 443
+    password: 0a9f1f5a397bd427
+    network: grpc
+    sni: TG.节点狂魔
+    alpn:
+      - h2
+    tls: true
+    grpc-opts:
+      grpc-service-name: db
+  - type: trojan
+    name: 17(TG:@tccjd)_1
+    server: 58.152.46.98
+    port: 443
+    password: BxceQaOe
     network: tcp
-    encryption: none
-  - type: vless
-    name: 美国_122
-    server: 178.160.211.182
-    port: 20155
-    uuid: dc28e2d3-7c69-47c6-b5b0-f76914454294
+    sni: 58.152.46.98
+    tls: true
+  - type: trojan
+    name: 22(TG:@tccjd)
+    server: 58.152.46.98
+    port: 443
+    password: BxceQaOe
     network: tcp
-    encryption: none
-  - type: vless
-    name: 美国_123
-    server: 178.160.211.182
-    port: 20155
-    uuid: dc28e2d3-7c69-47c6-b5b0-f76914454294
+    sni: 58.152.46.98
+    fingerprint: chrome
+    tls: true
+  - type: trojan
+    name: 香港_48
+    server: 58.152.46.98
+    port: 443
+    password: BxceQaOe
     network: tcp
-    encryption: none
-  - type: vless
-    name: 美国_124
-    server: 178.160.211.182
-    port: 20155
-    uuid: dc28e2d3-7c69-47c6-b5b0-f76914454294
+    sni: 58.152.46.98
+    tls: true
+  - type: trojan
+    name: 香港_49
+    server: 58.152.46.98
+    port: 443
+    password: BxceQaOe
     network: tcp
-    encryption: none
-  - type: vless
-    name: 美国_125
-    server: 178.160.211.182
-    port: 20155
-    uuid: dc28e2d3-7c69-47c6-b5b0-f76914454294
+    tls: true
+  - type: trojan
+    name: US_1
+    server: nop-55q.pages.dev
+    port: 2053
+    password: T%40_WvT8Ho%40LW%25w_%2C
+    network: ws
+    sni: NOp-55q.pAgEs.dEv
+    tls: true
+    ws-opts:
+      path: /trGPZDfetEwuO25SAs
+      headers:
+        Host: NOp-55q.pAgEs.dEv
+  - type: trojan
+    name: 美国_107
+    server: 58.152.46.98
+    port: 443
+    password: BxceQaOe
     network: tcp
-    encryption: none
-  - type: ss
-    name: 澳门_1
-    server: 154.83.89.88
-    port: 54275
-    cipher: 2022-blake3-aes-128-gcm
-    password: x5JIeeg3AKC8JhoW22DXmNqbqznm2CK2rhMtqLVbW86E
+    sni: 58.152.46.98
+    fingerprint: chrome
+    tls: true
   - type: hysteria2
-    name: 美国_126
+    name: 🇺🇸 美国 326
+    server: 227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk
+    port: 1743
+    password: 6286105c-fb6d-11ef-be96-f23c93136cb3
+  - type: hysteria2
+    name: 美国_108
+    server: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    port: 54265
+    password: 6389c4ed-7e4b-4d43-a302-21bce6ec7fe9
+    sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
+  - type: hysteria2
+    name: 美国_109
+    server: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    port: 54265
+    password: 4ccf4e58-267e-4a8d-a295-5feb5fd74a3a
+    sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
+  - type: hysteria2
+    name: 日本_94
+    server: 133.18.163.202
+    port: 50000
+    password: d48fd52e-f058-497d-aa36-f4b6666c647b
+    sni: www.microsoft.com
+  - type: hysteria2
+    name: 美国_110
+    server: sfjmg4.sufujia.top
+    port: 57300
+    password: 524d330e-645c-4a36-a16c-9e99516d7237
+    sni: sfjmg4.sufujia.top
+  - type: hysteria2
+    name: 美国_111
     server: 155.248.223.115
     port: 45979
     password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
@@ -8600,11 +7319,6 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇸🇬 新加坡4|@ripaojiedian
-      - 🇺🇸 美国 326
-      - 🇰🇷 韩国 40
-      - 🇰🇷 韩国 02
-      - 🇰🇷 韩国 10
       - 美国
       - 美国_1
       - 美国_2
@@ -8621,28 +7335,12 @@ proxy-groups:
       - 美国_13
       - 美国_14
       - 美国_15
+      - 🇰🇷 韩国 40
+      - 🇰🇷 韩国 02
+      - 🇰🇷 韩国 10
       - 美国_16
       - 美国_17
       - 美国_18
-      - 美国_19
-      - 美国_20
-      - 美国_21
-      - 美国_22
-      - 美国_23
-      - 美国_24
-      - 美国_25
-      - 美国_26
-      - 美国_27
-      - 美国_28
-      - 美国_29
-      - 美国_30
-      - 美国_31
-      - 美国_32
-      - 美国_33
-      - 美国_34
-      - 美国_35
-      - 美国_36
-      - 美国_37
       - 韩国
       - 香港
       - 01(TG:@tccjd)
@@ -8654,12 +7352,11 @@ proxy-groups:
       - 香港_6
       - 香港_7
       - 香港_8
-      - 香港_9
       - 台湾
       - 台湾_1
       - 日本
       - 日本_1
-      - 香港_10
+      - 香港_9
       - 日本_2
       - 日本_3
       - 日本_4
@@ -8673,179 +7370,149 @@ proxy-groups:
       - 日本_11
       - 日本_12
       - 日本_13
-      - 日本_14
-      - 日本_15
+      - 香港_10
       - 台湾_3
-      - 日本_16
-      - 台湾_4
-      - 台湾_5
       - 香港_11
-      - 台湾_6
+      - 美国_19
       - 香港_12
-      - 日本_17
-      - 美国_38
       - 香港_13
+      - 日本_14
+      - 台湾_4
       - 香港_14
-      - 日本_18
-      - 香港_15
-      - 台湾_7
-      - 日本_19
-      - 香港_16
-      - 日本_20
-      - 台湾_8
-      - 日本_21
-      - 日本_22
-      - 台湾_9
-      - 台湾_10
-      - 美国_39
+      - 日本_15
+      - 台湾_5
+      - 日本_16
+      - 日本_17
+      - 美国_20
       - 俄罗斯
-      - 美国_40
+      - 美国_21
       - 韩国_1
-      - 美国_41
+      - 美国_22
       - 俄罗斯_1
       - 俄罗斯_2
       - 卢森堡
       - 荷兰
-      - 美国_42
+      - 美国_23
       - 卢森堡_1
       - 卢森堡_2
       - 卢森堡_3
       - 卢森堡_4
       - 卢森堡_5
       - 俄罗斯_3
-      - 美国_43
+      - 美国_24
       - 卢森堡_6
-      - 卢森堡_7
-      - 美国_44
+      - 美国_25
       - 荷兰_1
       - 俄罗斯_4
-      - 卢森堡_8
-      - 日本_23
+      - 卢森堡_7
+      - 日本_18
       - 26(TG:@tccjd)
-      - 台湾_11
-      - 卢森堡_9
-      - 美国_45
+      - 卢森堡_8
+      - 美国_26
       - 俄罗斯_5
+      - 卢森堡_9
       - 卢森堡_10
-      - 卢森堡_11
       - 俄罗斯_6
       - 29(TG:@tccjd)
-      - 美国_46
+      - 美国_27
       - 28(TG:@tccjd)
-      - 美国_47
+      - 美国_28
+      - 卢森堡_11
+      - 美国_29
       - 卢森堡_12
-      - 美国_48
-      - 卢森堡_13
-      - 美国_49
-      - 美国_50
-      - 美国_51
+      - 美国_30
+      - 美国_31
       - 02(TG:@tccjd)
-      - 卢森堡_14
+      - 卢森堡_13
       - 荷兰_2
-      - 台湾_12
+      - 台湾_6
       - 03(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 台湾_13
-      - 台湾_14
+      - 台湾_7
       - 06(TG:@tccjd)
       - 07(TG:@tccjd)
       - 09(TG:@tccjd)
-      - 香港_17
-      - 美国_52
+      - 香港_15
+      - 美国_32
+      - 卢森堡_14
       - 卢森堡_15
-      - 卢森堡_16
-      - 香港_18
+      - 香港_16
       - 08(TG:@tccjd)
+      - 卢森堡_16
       - 卢森堡_17
-      - 美国_53
-      - 卢森堡_18
-      - 香港_19
-      - 美国_54
+      - 香港_17
       - 10(TG:@tccjd)
       - 俄罗斯_7
       - 俄罗斯_8
-      - 香港_20
+      - 香港_18
       - 11(TG:@tccjd)
-      - 美国_55
+      - 美国_33
       - 韩国_2
-      - 美国_56
+      - 美国_34
+      - 12(TG:@tccjd)
+      - 卢森堡_18
       - 卢森堡_19
       - 卢森堡_20
-      - 12(TG:@tccjd)
-      - 卢森堡_21
-      - 卢森堡_22
-      - 卢森堡_23
-      - 美国_57
+      - 美国_35
       - 俄罗斯_9
-      - 卢森堡_24
-      - 美国_58
+      - 卢森堡_21
+      - 美国_36
       - 俄罗斯_10
       - 13(TG:@tccjd)
-      - 美国_59
-      - 美国_60
-      - 卢森堡_25
-      - 美国_61
-      - 美国_62
+      - 美国_37
+      - 美国_38
+      - 美国_39
       - 俄罗斯_11
-      - 香港_21
+      - 香港_19
       - 14(TG:@tccjd)
-      - 美国_63
+      - 美国_40
       - 15(TG:@tccjd)
       - 16(TG:@tccjd)
       - 法国
-      - 17(TG:@tccjd)
       - 韩国_3
       - 韩国_4
       - 韩国_5
       - 韩国_6
-      - 美国_64
-      - 香港_22
+      - 美国_41
+      - 香港_20
       - 韩国_7
       - 俄罗斯_12
-      - 台湾_15
-      - 美国_65
+      - 台湾_8
+      - 美国_42
       - 韩国_8
       - 韩国_9
-      - 台湾_16
+      - 台湾_9
+      - 日本_19
+      - 日本_20
+      - 波兰
+      - 香港_21
+      - 19(TG:@tccjd)
+      - 日本_21
+      - 荷兰_3
+      - 日本_22
+      - 日本_23
+      - 台湾_10
+      - 波兰_1
       - 日本_24
       - 日本_25
-      - 波兰
-      - 香港_23
-      - 19(TG:@tccjd)
       - 日本_26
-      - 荷兰_3
       - 日本_27
       - 日本_28
-      - 台湾_17
-      - 波兰_1
       - 日本_29
       - 日本_30
       - 日本_31
       - 日本_32
-      - 日本_33
-      - 日本_34
-      - 日本_35
-      - 日本_36
-      - 日本_37
-      - 日本_38
-      - 香港_24
-      - 日本_39
-      - 台湾_18
-      - 美国_66
-      - 澳门
-      - 日本_40
-      - 香港_25
-      - 美国_67
+      - 台湾_11
+      - 美国_43
+      - 香港_22
+      - 美国_44
       - 20(TG:@tccjd)
-      - 香港_26
+      - 香港_23
       - 俄罗斯_13
       - 新加坡
       - 俄罗斯_14
-      - 香港_27
+      - 香港_24
       - 俄罗斯_15
-      - 日本_41
-      - 日本_42
-      - 香港_28
+      - 香港_25
       - 21(TG:@tccjd)
       - 俄罗斯_16
       - 俄罗斯_17
@@ -8853,56 +7520,49 @@ proxy-groups:
       - 俄罗斯_19
       - 俄罗斯_20
       - 俄罗斯_21
-      - 俄罗斯_22
       - 24(TG:@tccjd)
+      - 俄罗斯_22
       - 俄罗斯_23
       - 俄罗斯_24
       - 俄罗斯_25
       - 俄罗斯_26
-      - 俄罗斯_27
       - 25(TG:@tccjd)
+      - 俄罗斯_27
+      - 日本_33
       - 俄罗斯_28
       - 俄罗斯_29
-      - 日本_43
       - 俄罗斯_30
+      - 日本_34
       - 俄罗斯_31
       - 俄罗斯_32
-      - 日本_44
       - 俄罗斯_33
-      - 俄罗斯_34
-      - 俄罗斯_35
       - 韩国_10
-      - 日本_45
-      - 22(TG:@tccjd)
-      - 日本_46
-      - 美国_68
+      - 日本_35
+      - 美国_45
       - 18(TG:@tccjd)
-      - 日本_47
-      - 日本_48
-      - 日本_49
-      - 台湾_19
-      - 台湾_20
-      - 美国_69
-      - 台湾_21
-      - 台湾_22
+      - 日本_36
+      - 日本_37
+      - 台湾_12
+      - 美国_46
+      - 台湾_13
+      - 台湾_14
       - 韩国_11
-      - 美国_70
-      - 美国_71
-      - 台湾_23
-      - 日本_50
-      - 日本_51
-      - 日本_52
+      - 美国_47
+      - 美国_48
+      - 台湾_15
+      - 日本_38
+      - 日本_39
+      - 日本_40
       - 韩国_12
       - 韩国_13
       - 韩国_14
-      - 美国_72
+      - 美国_49
       - 爱尔兰
       - 13(TG:@tccjd)_1
       - 韩国_15
-      - 香港_29
-      - 台湾_24
+      - 香港_26
       - 10(TG:@tccjd)_1
-      - 台湾_25
+      - 台湾_16
       - 韩国_16
       - 09(TG:@tccjd)_1
       - 12(TG:@tccjd)_1
@@ -8910,393 +7570,338 @@ proxy-groups:
       - 韩国_17
       - 韩国_18
       - 韩国_19
-      - 卢森堡_26
-      - 俄罗斯_36
-      - 日本_53
+      - 卢森堡_22
+      - 俄罗斯_34
+      - 日本_41
       - 10(TG:@tccjd)_2
-      - 卢森堡_27
-      - 美国_73
-      - 卢森堡_28
+      - 美国_50
       - 韩国_20
       - 韩国_21
       - 韩国_22
       - 韩国_23
       - 韩国_24
-      - 香港_30
       - 09(TG:@tccjd)_2
-      - 卢森堡_29
-      - 台湾_26
+      - 卢森堡_23
+      - 台湾_17
       - 韩国_25
       - 韩国_26
-      - 香港_31
-      - 卢森堡_30
+      - 卢森堡_24
       - 韩国_27
       - 08(TG:@tccjd)_1
       - 韩国_28
       - 07(TG:@tccjd)_1
       - 韩国_29
-      - 台湾_27
+      - 台湾_18
       - 韩国_30
       - 韩国_31
-      - 卢森堡_31
-      - 俄罗斯_37
+      - 俄罗斯_35
       - 韩国_32
-      - 日本_54
+      - 日本_42
       - 02(TG:@tccjd)_1
       - 韩国_33
       - 韩国_34
-      - 日本_55
+      - 日本_43
       - 韩国_35
       - 希腊
       - 韩国_36
-      - 香港_32
+      - 香港_27
       - 韩国_37
       - 03(TG:@tccjd)_1
-      - 香港_33
+      - 香港_28
       - 荷兰_4
       - 韩国_38
       - 韩国_39
       - 韩国_40
-      - 台湾_28
+      - 台湾_19
       - 04(TG:@tccjd)
-      - 美国_74
-      - 日本_56
-      - 俄罗斯_38
+      - 美国_51
+      - 日本_44
+      - 俄罗斯_36
       - 荷兰_5
+      - 俄罗斯_37
+      - 俄罗斯_38
       - 俄罗斯_39
       - 俄罗斯_40
-      - 香港_34
-      - 俄罗斯_41
-      - 俄罗斯_42
       - 韩国_41
       - 韩国_42
-      - 日本_57
-      - 俄罗斯_43
+      - 俄罗斯_41
       - 韩国_43
-      - 美国_75
+      - 美国_52
       - 韩国_44
-      - 美国_76
-      - 香港_35
+      - 美国_53
+      - 香港_29
       - 韩国_45
       - 06(TG:@tccjd)_1
-      - 俄罗斯_44
+      - 俄罗斯_42
       - 01(TG:@tccjd)_1
       - 伊朗
       - 韩国_46
+      - 俄罗斯_43
+      - 香港_30
+      - 香港_31
+      - 俄罗斯_44
+      - 台湾_20
       - 俄罗斯_45
-      - 香港_36
-      - 香港_37
       - 俄罗斯_46
-      - 台湾_29
       - 俄罗斯_47
       - 俄罗斯_48
+      - 韩国_47
       - 俄罗斯_49
+      - 日本_45
       - 俄罗斯_50
       - 俄罗斯_51
-      - 韩国_47
+      - 韩国_48
       - 俄罗斯_52
       - 俄罗斯_53
+      - 韩国_49
       - 俄罗斯_54
-      - 日本_58
       - 俄罗斯_55
       - 俄罗斯_56
       - 俄罗斯_57
       - 俄罗斯_58
-      - 韩国_48
       - 俄罗斯_59
-      - 俄罗斯_60
-      - 韩国_49
-      - 俄罗斯_61
-      - 俄罗斯_62
-      - 俄罗斯_63
-      - 俄罗斯_64
-      - 俄罗斯_65
-      - 俄罗斯_66
-      - 俄罗斯_67
-      - 俄罗斯_68
-      - 俄罗斯_69
-      - 俄罗斯_70
-      - 俄罗斯_71
-      - 俄罗斯_72
-      - 俄罗斯_73
-      - defaultName
+      - 美国_54
       - 中国香港
       - 01(TG:@tccjd)_2
-      - 美国_77
-      - 美国_78
-      - 美国_79
+      - 美国_55
+      - 美国_56
+      - 美国_57
       - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
-      - 美国_80
+      - 美国_58
       - 16(TG:@tccjd)_1
-      - 17(TG:@tccjd)_1
+      - 17(TG:@tccjd)
+      - 日本_46
+      - 18(TG:@tccjd)_1
+      - 香港_32
+      - 日本_47
+      - 日本_48
+      - 日本_49
+      - 台湾_21
+      - 日本_50
+      - 日本_51
+      - 日本_52
+      - 日本_53
+      - 日本_54
+      - 日本_55
+      - 韩国_50
+      - 日本_56
+      - 日本_57
+      - 日本_58
       - 日本_59
       - 日本_60
-      - 18(TG:@tccjd)_1
-      - 香港_38
       - 日本_61
-      - 日本_62
-      - 日本_63
-      - 台湾_30
-      - 日本_64
-      - 日本_65
-      - 日本_66
-      - 日本_67
-      - 日本_68
-      - 日本_69
-      - 日本_70
-      - 日本_71
-      - 日本_72
-      - 日本_73
-      - 日本_74
-      - 日本_75
-      - 日本_76
-      - 韩国_50
-      - 日本_77
-      - 日本_78
-      - 日本_79
-      - 日本_80
-      - 日本_81
-      - 日本_82
-      - 日本_83
-      - 日本_84
-      - 香港_39
+      - 香港_33
       - 韩国_51
       - 02(TG:@tccjd)_2
-      - 香港_40
-      - 日本_85
-      - 日本_86
+      - 香港_34
+      - 日本_62
+      - 日本_63
       - 韩国_52
       - 韩国_53
-      - 香港_41
-      - 日本_87
-      - 日本_88
-      - 日本_89
-      - 美国_81
+      - 香港_35
+      - 日本_64
+      - 日本_65
+      - 美国_59
       - 韩国_54
-      - 香港_42
-      - 日本_90
-      - 美国_82
-      - 日本_91
+      - 香港_36
+      - 日本_66
+      - 美国_60
+      - 日本_67
       - 中国
       - 韩国_55
-      - 日本_92
+      - 日本_68
       - 韩国_56
-      - 日本_93
       - 韩国_57
       - 中国香港_1
-      - 日本_94
-      - 香港_43
+      - 日本_69
+      - 香港_37
       - 韩国_58
-      - 台湾_31
-      - 日本_95
-      - 香港_44
+      - 日本_70
       - 韩国_59
       - 韩国_60
-      - 台湾_32
-      - 日本_96
+      - 日本_71
       - 中国香港_2
-      - 香港_45
-      - 台湾_33
+      - 香港_38
+      - 台湾_22
       - 中国香港_3
       - 爱尔兰_1
-      - 香港_46
       - 中国香港_4
       - 韩国_61
       - 韩国_62
       - 爱尔兰_2
-      - 美国_83
-      - 日本_97
-      - 日本_98
+      - 美国_61
+      - 日本_72
       - 韩国_63
       - 韩国_64
-      - 香港_47
       - 中国香港_5
       - 新加坡_1
-      - 台湾_34
-      - 美国_84
-      - 俄罗斯_74
+      - 台湾_23
+      - 美国_62
+      - 俄罗斯_60
       - 新加坡_2
       - 中国香港_6
       - 韩国_65
-      - 香港_48
-      - 美国_85
-      - 香港_49
-      - 俄罗斯_75
-      - 美国_86
+      - 香港_39
+      - 美国_63
+      - 香港_40
       - 03(TG:@tccjd)_2
       - 荷兰_6
-      - 香港_50
-      - 日本_99
+      - 香港_41
+      - 日本_73
       - 韩国_66
-      - 美国_87
+      - 美国_64
       - 韩国_67
-      - 美国_88
-      - 美国_89
-      - 香港_51
-      - 美国_90
-      - 香港_52
+      - 美国_65
+      - 香港_42
       - 中国_1
       - 04(TG:@tccjd)_1
       - 韩国_68
       - 新加坡_3
       - 韩国_69
-      - 香港_53
-      - 香港_54
-      - 俄罗斯_76
-      - 卢森堡_32
-      - 美国_91
-      - 日本_100
-      - 美国_92
-      - 05(TG:@tccjd)_1
-      - 香港_55
+      - 香港_43
+      - 俄罗斯_61
+      - 卢森堡_25
+      - 日本_74
+      - 美国_66
+      - 05(TG:@tccjd)
       - 荷兰_7
       - 韩国_70
       - 06(TG:@tccjd)_2
-      - 日本_101
+      - 日本_75
       - 韩国_71
       - 韩国_72
       - 韩国_73
       - 荷兰_8
-      - 美国_93
       - 韩国_74
       - 韩国_75
-      - 卢森堡_33
+      - 卢森堡_26
       - 韩国_76
       - 韩国_77
-      - 卢森堡_34
+      - 卢森堡_27
       - 韩国_78
-      - 美国_94
+      - 美国_67
       - 韩国_79
       - 韩国_80
       - 韩国_81
       - 韩国_82
-      - 日本_102
+      - 日本_76
       - 韩国_83
       - 韩国_84
       - 韩国_85
-      - 荷兰_9
-      - 日本_103
+      - 日本_77
       - 韩国_86
-      - 美国_95
-      - 日本_104
+      - 美国_68
+      - 日本_78
       - 07(TG:@tccjd)_2
-      - 日本_105
-      - 日本_106
-      - 日本_107
+      - 日本_79
+      - 日本_80
       - 08(TG:@tccjd)_2
       - 中国_2
-      - 日本_108
-      - 日本_109
-      - 日本_110
-      - 日本_111
-      - 日本_112
-      - 日本_113
-      - 日本_114
-      - 日本_115
+      - 日本_81
+      - 日本_82
+      - 日本_83
+      - 日本_84
+      - 日本_85
+      - 日本_86
       - 09(TG:@tccjd)_3
-      - 日本_116
-      - 日本_117
-      - 日本_118
+      - 日本_87
+      - 日本_88
       - 10(TG:@tccjd)_3
       - 11(TG:@tccjd)_2
-      - 日本_119
-      - 日本_120
-      - 香港_56
+      - 日本_89
+      - 日本_90
+      - 香港_44
       - 中国_3
-      - 日本_121
+      - 日本_91
       - 12(TG:@tccjd)_2
-      - 日本_122
+      - 日本_92
       - 伊朗_1
       - 13(TG:@tccjd)_2
-      - 日本_123
       - 伊朗_2
       - 台灣
-      - 日本_124
-      - 日本_125
-      - 香港_57
-      - 美国_96
-      - 日本_126
+      - 香港_45
+      - 美国_69
       - 中国香港_7
       - 新加坡_4
-      - 香港_58
-      - 日本_127
-      - 香港_59
+      - 香港_46
       - 新加坡_5
       - 中国_4
       - 新加坡_6
       - 新加坡_7
-      - 日本_128
+      - 日本_93
       - 韩国_87
-      - 日本_129
       - 韩国_88
-      - 美国_97
+      - 美国_70
       - 新加坡_8
       - 韩国_89
       - 韩国_90
       - 韩国_91
-      - 香港_60
       - 韩国_92
-      - 香港_61
+      - 香港_47
       - HK
-      - US
-      - US_1
       - 美国（2025.10.28更新）
-      - 俄罗斯_77
+      - 美国_71
+      - 美国_72
+      - 美国_73
+      - US
+      - 美国_74
+      - 美国_75
+      - 意大利
+      - 美国_76
+      - JP
+      - 美国_77
+      - 美国_78
+      - 俄罗斯_62
+      - 美国_79
+      - 美国_80
+      - 美国_81
+      - 美国_82
+      - 美国_83
+      - 美国_84
+      - 美国_85
+      - 美国_86
+      - 美国_87
+      - 美国_88
+      - 美国_89
+      - 美国_90
+      - 美国_91
+      - 美国_92
+      - 美国_93
+      - 美国_94
+      - 美国_95
+      - 美国_96
+      - 美国_97
       - 美国_98
       - 美国_99
       - 美国_100
       - 美国_101
-      - US_2
       - 美国_102
       - 美国_103
       - 美国_104
-      - 俄罗斯_78
       - 美国_105
-      - 意大利
-      - 意大利_1
       - 美国_106
-      - 意大利_2
-      - US_3
-      - 香港_62
-      - 意大利_3
+      - 台湾_24
+      - 台湾_25
+      - 台湾_26
+      - 台湾_27
+      - 台湾_28
+      - 台湾_29
+      - 17(TG:@tccjd)_1
+      - 22(TG:@tccjd)
+      - 香港_48
+      - 香港_49
+      - US_1
       - 美国_107
-      - JP
-      - 希腊_1
-      - 香港_63
+      - 🇺🇸 美国 326
       - 美国_108
       - 美国_109
-      - 香港_64
+      - 日本_94
       - 美国_110
-      - 希腊_2
-      - 俄罗斯_79
       - 美国_111
-      - 俄罗斯_80
-      - 美国_112
-      - 美国_113
-      - 美国_114
-      - 俄罗斯_81
-      - 美国_115
-      - 美国_116
-      - 美国_117
-      - 美国_118
-      - 美国_119
-      - 美国_120
-      - 美国_121
-      - 美国_122
-      - 美国_123
-      - 美国_124
-      - 美国_125
-      - 澳门_1
-      - 美国_126
   - name: ♻️ 自动选择
     type: url-test
     proxies:
-      - 🇸🇬 新加坡4|@ripaojiedian
-      - 🇺🇸 美国 326
-      - 🇰🇷 韩国 40
-      - 🇰🇷 韩国 02
-      - 🇰🇷 韩国 10
       - 美国
       - 美国_1
       - 美国_2
@@ -9313,28 +7918,12 @@ proxy-groups:
       - 美国_13
       - 美国_14
       - 美国_15
+      - 🇰🇷 韩国 40
+      - 🇰🇷 韩国 02
+      - 🇰🇷 韩国 10
       - 美国_16
       - 美国_17
       - 美国_18
-      - 美国_19
-      - 美国_20
-      - 美国_21
-      - 美国_22
-      - 美国_23
-      - 美国_24
-      - 美国_25
-      - 美国_26
-      - 美国_27
-      - 美国_28
-      - 美国_29
-      - 美国_30
-      - 美国_31
-      - 美国_32
-      - 美国_33
-      - 美国_34
-      - 美国_35
-      - 美国_36
-      - 美国_37
       - 韩国
       - 香港
       - 01(TG:@tccjd)
@@ -9346,12 +7935,11 @@ proxy-groups:
       - 香港_6
       - 香港_7
       - 香港_8
-      - 香港_9
       - 台湾
       - 台湾_1
       - 日本
       - 日本_1
-      - 香港_10
+      - 香港_9
       - 日本_2
       - 日本_3
       - 日本_4
@@ -9365,179 +7953,149 @@ proxy-groups:
       - 日本_11
       - 日本_12
       - 日本_13
-      - 日本_14
-      - 日本_15
+      - 香港_10
       - 台湾_3
-      - 日本_16
-      - 台湾_4
-      - 台湾_5
       - 香港_11
-      - 台湾_6
+      - 美国_19
       - 香港_12
-      - 日本_17
-      - 美国_38
       - 香港_13
+      - 日本_14
+      - 台湾_4
       - 香港_14
-      - 日本_18
-      - 香港_15
-      - 台湾_7
-      - 日本_19
-      - 香港_16
-      - 日本_20
-      - 台湾_8
-      - 日本_21
-      - 日本_22
-      - 台湾_9
-      - 台湾_10
-      - 美国_39
+      - 日本_15
+      - 台湾_5
+      - 日本_16
+      - 日本_17
+      - 美国_20
       - 俄罗斯
-      - 美国_40
+      - 美国_21
       - 韩国_1
-      - 美国_41
+      - 美国_22
       - 俄罗斯_1
       - 俄罗斯_2
       - 卢森堡
       - 荷兰
-      - 美国_42
+      - 美国_23
       - 卢森堡_1
       - 卢森堡_2
       - 卢森堡_3
       - 卢森堡_4
       - 卢森堡_5
       - 俄罗斯_3
-      - 美国_43
+      - 美国_24
       - 卢森堡_6
-      - 卢森堡_7
-      - 美国_44
+      - 美国_25
       - 荷兰_1
       - 俄罗斯_4
-      - 卢森堡_8
-      - 日本_23
+      - 卢森堡_7
+      - 日本_18
       - 26(TG:@tccjd)
-      - 台湾_11
-      - 卢森堡_9
-      - 美国_45
+      - 卢森堡_8
+      - 美国_26
       - 俄罗斯_5
+      - 卢森堡_9
       - 卢森堡_10
-      - 卢森堡_11
       - 俄罗斯_6
       - 29(TG:@tccjd)
-      - 美国_46
+      - 美国_27
       - 28(TG:@tccjd)
-      - 美国_47
+      - 美国_28
+      - 卢森堡_11
+      - 美国_29
       - 卢森堡_12
-      - 美国_48
-      - 卢森堡_13
-      - 美国_49
-      - 美国_50
-      - 美国_51
+      - 美国_30
+      - 美国_31
       - 02(TG:@tccjd)
-      - 卢森堡_14
+      - 卢森堡_13
       - 荷兰_2
-      - 台湾_12
+      - 台湾_6
       - 03(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 台湾_13
-      - 台湾_14
+      - 台湾_7
       - 06(TG:@tccjd)
       - 07(TG:@tccjd)
       - 09(TG:@tccjd)
-      - 香港_17
-      - 美国_52
+      - 香港_15
+      - 美国_32
+      - 卢森堡_14
       - 卢森堡_15
-      - 卢森堡_16
-      - 香港_18
+      - 香港_16
       - 08(TG:@tccjd)
+      - 卢森堡_16
       - 卢森堡_17
-      - 美国_53
-      - 卢森堡_18
-      - 香港_19
-      - 美国_54
+      - 香港_17
       - 10(TG:@tccjd)
       - 俄罗斯_7
       - 俄罗斯_8
-      - 香港_20
+      - 香港_18
       - 11(TG:@tccjd)
-      - 美国_55
+      - 美国_33
       - 韩国_2
-      - 美国_56
+      - 美国_34
+      - 12(TG:@tccjd)
+      - 卢森堡_18
       - 卢森堡_19
       - 卢森堡_20
-      - 12(TG:@tccjd)
-      - 卢森堡_21
-      - 卢森堡_22
-      - 卢森堡_23
-      - 美国_57
+      - 美国_35
       - 俄罗斯_9
-      - 卢森堡_24
-      - 美国_58
+      - 卢森堡_21
+      - 美国_36
       - 俄罗斯_10
       - 13(TG:@tccjd)
-      - 美国_59
-      - 美国_60
-      - 卢森堡_25
-      - 美国_61
-      - 美国_62
+      - 美国_37
+      - 美国_38
+      - 美国_39
       - 俄罗斯_11
-      - 香港_21
+      - 香港_19
       - 14(TG:@tccjd)
-      - 美国_63
+      - 美国_40
       - 15(TG:@tccjd)
       - 16(TG:@tccjd)
       - 法国
-      - 17(TG:@tccjd)
       - 韩国_3
       - 韩国_4
       - 韩国_5
       - 韩国_6
-      - 美国_64
-      - 香港_22
+      - 美国_41
+      - 香港_20
       - 韩国_7
       - 俄罗斯_12
-      - 台湾_15
-      - 美国_65
+      - 台湾_8
+      - 美国_42
       - 韩国_8
       - 韩国_9
-      - 台湾_16
+      - 台湾_9
+      - 日本_19
+      - 日本_20
+      - 波兰
+      - 香港_21
+      - 19(TG:@tccjd)
+      - 日本_21
+      - 荷兰_3
+      - 日本_22
+      - 日本_23
+      - 台湾_10
+      - 波兰_1
       - 日本_24
       - 日本_25
-      - 波兰
-      - 香港_23
-      - 19(TG:@tccjd)
       - 日本_26
-      - 荷兰_3
       - 日本_27
       - 日本_28
-      - 台湾_17
-      - 波兰_1
       - 日本_29
       - 日本_30
       - 日本_31
       - 日本_32
-      - 日本_33
-      - 日本_34
-      - 日本_35
-      - 日本_36
-      - 日本_37
-      - 日本_38
-      - 香港_24
-      - 日本_39
-      - 台湾_18
-      - 美国_66
-      - 澳门
-      - 日本_40
-      - 香港_25
-      - 美国_67
+      - 台湾_11
+      - 美国_43
+      - 香港_22
+      - 美国_44
       - 20(TG:@tccjd)
-      - 香港_26
+      - 香港_23
       - 俄罗斯_13
       - 新加坡
       - 俄罗斯_14
-      - 香港_27
+      - 香港_24
       - 俄罗斯_15
-      - 日本_41
-      - 日本_42
-      - 香港_28
+      - 香港_25
       - 21(TG:@tccjd)
       - 俄罗斯_16
       - 俄罗斯_17
@@ -9545,56 +8103,49 @@ proxy-groups:
       - 俄罗斯_19
       - 俄罗斯_20
       - 俄罗斯_21
-      - 俄罗斯_22
       - 24(TG:@tccjd)
+      - 俄罗斯_22
       - 俄罗斯_23
       - 俄罗斯_24
       - 俄罗斯_25
       - 俄罗斯_26
-      - 俄罗斯_27
       - 25(TG:@tccjd)
+      - 俄罗斯_27
+      - 日本_33
       - 俄罗斯_28
       - 俄罗斯_29
-      - 日本_43
       - 俄罗斯_30
+      - 日本_34
       - 俄罗斯_31
       - 俄罗斯_32
-      - 日本_44
       - 俄罗斯_33
-      - 俄罗斯_34
-      - 俄罗斯_35
       - 韩国_10
-      - 日本_45
-      - 22(TG:@tccjd)
-      - 日本_46
-      - 美国_68
+      - 日本_35
+      - 美国_45
       - 18(TG:@tccjd)
-      - 日本_47
-      - 日本_48
-      - 日本_49
-      - 台湾_19
-      - 台湾_20
-      - 美国_69
-      - 台湾_21
-      - 台湾_22
+      - 日本_36
+      - 日本_37
+      - 台湾_12
+      - 美国_46
+      - 台湾_13
+      - 台湾_14
       - 韩国_11
-      - 美国_70
-      - 美国_71
-      - 台湾_23
-      - 日本_50
-      - 日本_51
-      - 日本_52
+      - 美国_47
+      - 美国_48
+      - 台湾_15
+      - 日本_38
+      - 日本_39
+      - 日本_40
       - 韩国_12
       - 韩国_13
       - 韩国_14
-      - 美国_72
+      - 美国_49
       - 爱尔兰
       - 13(TG:@tccjd)_1
       - 韩国_15
-      - 香港_29
-      - 台湾_24
+      - 香港_26
       - 10(TG:@tccjd)_1
-      - 台湾_25
+      - 台湾_16
       - 韩国_16
       - 09(TG:@tccjd)_1
       - 12(TG:@tccjd)_1
@@ -9602,385 +8153,335 @@ proxy-groups:
       - 韩国_17
       - 韩国_18
       - 韩国_19
-      - 卢森堡_26
-      - 俄罗斯_36
-      - 日本_53
+      - 卢森堡_22
+      - 俄罗斯_34
+      - 日本_41
       - 10(TG:@tccjd)_2
-      - 卢森堡_27
-      - 美国_73
-      - 卢森堡_28
+      - 美国_50
       - 韩国_20
       - 韩国_21
       - 韩国_22
       - 韩国_23
       - 韩国_24
-      - 香港_30
       - 09(TG:@tccjd)_2
-      - 卢森堡_29
-      - 台湾_26
+      - 卢森堡_23
+      - 台湾_17
       - 韩国_25
       - 韩国_26
-      - 香港_31
-      - 卢森堡_30
+      - 卢森堡_24
       - 韩国_27
       - 08(TG:@tccjd)_1
       - 韩国_28
       - 07(TG:@tccjd)_1
       - 韩国_29
-      - 台湾_27
+      - 台湾_18
       - 韩国_30
       - 韩国_31
-      - 卢森堡_31
-      - 俄罗斯_37
+      - 俄罗斯_35
       - 韩国_32
-      - 日本_54
+      - 日本_42
       - 02(TG:@tccjd)_1
       - 韩国_33
       - 韩国_34
-      - 日本_55
+      - 日本_43
       - 韩国_35
       - 希腊
       - 韩国_36
-      - 香港_32
+      - 香港_27
       - 韩国_37
       - 03(TG:@tccjd)_1
-      - 香港_33
+      - 香港_28
       - 荷兰_4
       - 韩国_38
       - 韩国_39
       - 韩国_40
-      - 台湾_28
+      - 台湾_19
       - 04(TG:@tccjd)
-      - 美国_74
-      - 日本_56
-      - 俄罗斯_38
+      - 美国_51
+      - 日本_44
+      - 俄罗斯_36
       - 荷兰_5
+      - 俄罗斯_37
+      - 俄罗斯_38
       - 俄罗斯_39
       - 俄罗斯_40
-      - 香港_34
-      - 俄罗斯_41
-      - 俄罗斯_42
       - 韩国_41
       - 韩国_42
-      - 日本_57
-      - 俄罗斯_43
+      - 俄罗斯_41
       - 韩国_43
-      - 美国_75
+      - 美国_52
       - 韩国_44
-      - 美国_76
-      - 香港_35
+      - 美国_53
+      - 香港_29
       - 韩国_45
       - 06(TG:@tccjd)_1
-      - 俄罗斯_44
+      - 俄罗斯_42
       - 01(TG:@tccjd)_1
       - 伊朗
       - 韩国_46
+      - 俄罗斯_43
+      - 香港_30
+      - 香港_31
+      - 俄罗斯_44
+      - 台湾_20
       - 俄罗斯_45
-      - 香港_36
-      - 香港_37
       - 俄罗斯_46
-      - 台湾_29
       - 俄罗斯_47
       - 俄罗斯_48
+      - 韩国_47
       - 俄罗斯_49
+      - 日本_45
       - 俄罗斯_50
       - 俄罗斯_51
-      - 韩国_47
+      - 韩国_48
       - 俄罗斯_52
       - 俄罗斯_53
+      - 韩国_49
       - 俄罗斯_54
-      - 日本_58
       - 俄罗斯_55
       - 俄罗斯_56
       - 俄罗斯_57
       - 俄罗斯_58
-      - 韩国_48
       - 俄罗斯_59
-      - 俄罗斯_60
-      - 韩国_49
-      - 俄罗斯_61
-      - 俄罗斯_62
-      - 俄罗斯_63
-      - 俄罗斯_64
-      - 俄罗斯_65
-      - 俄罗斯_66
-      - 俄罗斯_67
-      - 俄罗斯_68
-      - 俄罗斯_69
-      - 俄罗斯_70
-      - 俄罗斯_71
-      - 俄罗斯_72
-      - 俄罗斯_73
-      - defaultName
+      - 美国_54
       - 中国香港
       - 01(TG:@tccjd)_2
-      - 美国_77
-      - 美国_78
-      - 美国_79
+      - 美国_55
+      - 美国_56
+      - 美国_57
       - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
-      - 美国_80
+      - 美国_58
       - 16(TG:@tccjd)_1
-      - 17(TG:@tccjd)_1
+      - 17(TG:@tccjd)
+      - 日本_46
+      - 18(TG:@tccjd)_1
+      - 香港_32
+      - 日本_47
+      - 日本_48
+      - 日本_49
+      - 台湾_21
+      - 日本_50
+      - 日本_51
+      - 日本_52
+      - 日本_53
+      - 日本_54
+      - 日本_55
+      - 韩国_50
+      - 日本_56
+      - 日本_57
+      - 日本_58
       - 日本_59
       - 日本_60
-      - 18(TG:@tccjd)_1
-      - 香港_38
       - 日本_61
-      - 日本_62
-      - 日本_63
-      - 台湾_30
-      - 日本_64
-      - 日本_65
-      - 日本_66
-      - 日本_67
-      - 日本_68
-      - 日本_69
-      - 日本_70
-      - 日本_71
-      - 日本_72
-      - 日本_73
-      - 日本_74
-      - 日本_75
-      - 日本_76
-      - 韩国_50
-      - 日本_77
-      - 日本_78
-      - 日本_79
-      - 日本_80
-      - 日本_81
-      - 日本_82
-      - 日本_83
-      - 日本_84
-      - 香港_39
+      - 香港_33
       - 韩国_51
       - 02(TG:@tccjd)_2
-      - 香港_40
-      - 日本_85
-      - 日本_86
+      - 香港_34
+      - 日本_62
+      - 日本_63
       - 韩国_52
       - 韩国_53
-      - 香港_41
-      - 日本_87
-      - 日本_88
-      - 日本_89
-      - 美国_81
+      - 香港_35
+      - 日本_64
+      - 日本_65
+      - 美国_59
       - 韩国_54
-      - 香港_42
-      - 日本_90
-      - 美国_82
-      - 日本_91
+      - 香港_36
+      - 日本_66
+      - 美国_60
+      - 日本_67
       - 中国
       - 韩国_55
-      - 日本_92
+      - 日本_68
       - 韩国_56
-      - 日本_93
       - 韩国_57
       - 中国香港_1
-      - 日本_94
-      - 香港_43
+      - 日本_69
+      - 香港_37
       - 韩国_58
-      - 台湾_31
-      - 日本_95
-      - 香港_44
+      - 日本_70
       - 韩国_59
       - 韩国_60
-      - 台湾_32
-      - 日本_96
+      - 日本_71
       - 中国香港_2
-      - 香港_45
-      - 台湾_33
+      - 香港_38
+      - 台湾_22
       - 中国香港_3
       - 爱尔兰_1
-      - 香港_46
       - 中国香港_4
       - 韩国_61
       - 韩国_62
       - 爱尔兰_2
-      - 美国_83
-      - 日本_97
-      - 日本_98
+      - 美国_61
+      - 日本_72
       - 韩国_63
       - 韩国_64
-      - 香港_47
       - 中国香港_5
       - 新加坡_1
-      - 台湾_34
-      - 美国_84
-      - 俄罗斯_74
+      - 台湾_23
+      - 美国_62
+      - 俄罗斯_60
       - 新加坡_2
       - 中国香港_6
       - 韩国_65
-      - 香港_48
-      - 美国_85
-      - 香港_49
-      - 俄罗斯_75
-      - 美国_86
+      - 香港_39
+      - 美国_63
+      - 香港_40
       - 03(TG:@tccjd)_2
       - 荷兰_6
-      - 香港_50
-      - 日本_99
+      - 香港_41
+      - 日本_73
       - 韩国_66
-      - 美国_87
+      - 美国_64
       - 韩国_67
-      - 美国_88
-      - 美国_89
-      - 香港_51
-      - 美国_90
-      - 香港_52
+      - 美国_65
+      - 香港_42
       - 中国_1
       - 04(TG:@tccjd)_1
       - 韩国_68
       - 新加坡_3
       - 韩国_69
-      - 香港_53
-      - 香港_54
-      - 俄罗斯_76
-      - 卢森堡_32
-      - 美国_91
-      - 日本_100
-      - 美国_92
-      - 05(TG:@tccjd)_1
-      - 香港_55
+      - 香港_43
+      - 俄罗斯_61
+      - 卢森堡_25
+      - 日本_74
+      - 美国_66
+      - 05(TG:@tccjd)
       - 荷兰_7
       - 韩国_70
       - 06(TG:@tccjd)_2
-      - 日本_101
+      - 日本_75
       - 韩国_71
       - 韩国_72
       - 韩国_73
       - 荷兰_8
-      - 美国_93
       - 韩国_74
       - 韩国_75
-      - 卢森堡_33
+      - 卢森堡_26
       - 韩国_76
       - 韩国_77
-      - 卢森堡_34
+      - 卢森堡_27
       - 韩国_78
-      - 美国_94
+      - 美国_67
       - 韩国_79
       - 韩国_80
       - 韩国_81
       - 韩国_82
-      - 日本_102
+      - 日本_76
       - 韩国_83
       - 韩国_84
       - 韩国_85
-      - 荷兰_9
-      - 日本_103
+      - 日本_77
       - 韩国_86
-      - 美国_95
-      - 日本_104
+      - 美国_68
+      - 日本_78
       - 07(TG:@tccjd)_2
-      - 日本_105
-      - 日本_106
-      - 日本_107
+      - 日本_79
+      - 日本_80
       - 08(TG:@tccjd)_2
       - 中国_2
-      - 日本_108
-      - 日本_109
-      - 日本_110
-      - 日本_111
-      - 日本_112
-      - 日本_113
-      - 日本_114
-      - 日本_115
+      - 日本_81
+      - 日本_82
+      - 日本_83
+      - 日本_84
+      - 日本_85
+      - 日本_86
       - 09(TG:@tccjd)_3
-      - 日本_116
-      - 日本_117
-      - 日本_118
+      - 日本_87
+      - 日本_88
       - 10(TG:@tccjd)_3
       - 11(TG:@tccjd)_2
-      - 日本_119
-      - 日本_120
-      - 香港_56
+      - 日本_89
+      - 日本_90
+      - 香港_44
       - 中国_3
-      - 日本_121
+      - 日本_91
       - 12(TG:@tccjd)_2
-      - 日本_122
+      - 日本_92
       - 伊朗_1
       - 13(TG:@tccjd)_2
-      - 日本_123
       - 伊朗_2
       - 台灣
-      - 日本_124
-      - 日本_125
-      - 香港_57
-      - 美国_96
-      - 日本_126
+      - 香港_45
+      - 美国_69
       - 中国香港_7
       - 新加坡_4
-      - 香港_58
-      - 日本_127
-      - 香港_59
+      - 香港_46
       - 新加坡_5
       - 中国_4
       - 新加坡_6
       - 新加坡_7
-      - 日本_128
+      - 日本_93
       - 韩国_87
-      - 日本_129
       - 韩国_88
-      - 美国_97
+      - 美国_70
       - 新加坡_8
       - 韩国_89
       - 韩国_90
       - 韩国_91
-      - 香港_60
       - 韩国_92
-      - 香港_61
+      - 香港_47
       - HK
-      - US
-      - US_1
       - 美国（2025.10.28更新）
-      - 俄罗斯_77
+      - 美国_71
+      - 美国_72
+      - 美国_73
+      - US
+      - 美国_74
+      - 美国_75
+      - 意大利
+      - 美国_76
+      - JP
+      - 美国_77
+      - 美国_78
+      - 俄罗斯_62
+      - 美国_79
+      - 美国_80
+      - 美国_81
+      - 美国_82
+      - 美国_83
+      - 美国_84
+      - 美国_85
+      - 美国_86
+      - 美国_87
+      - 美国_88
+      - 美国_89
+      - 美国_90
+      - 美国_91
+      - 美国_92
+      - 美国_93
+      - 美国_94
+      - 美国_95
+      - 美国_96
+      - 美国_97
       - 美国_98
       - 美国_99
       - 美国_100
       - 美国_101
-      - US_2
       - 美国_102
       - 美国_103
       - 美国_104
-      - 俄罗斯_78
       - 美国_105
-      - 意大利
-      - 意大利_1
       - 美国_106
-      - 意大利_2
-      - US_3
-      - 香港_62
-      - 意大利_3
+      - 台湾_24
+      - 台湾_25
+      - 台湾_26
+      - 台湾_27
+      - 台湾_28
+      - 台湾_29
+      - 17(TG:@tccjd)_1
+      - 22(TG:@tccjd)
+      - 香港_48
+      - 香港_49
+      - US_1
       - 美国_107
-      - JP
-      - 希腊_1
-      - 香港_63
+      - 🇺🇸 美国 326
       - 美国_108
       - 美国_109
-      - 香港_64
+      - 日本_94
       - 美国_110
-      - 希腊_2
-      - 俄罗斯_79
       - 美国_111
-      - 俄罗斯_80
-      - 美国_112
-      - 美国_113
-      - 美国_114
-      - 俄罗斯_81
-      - 美国_115
-      - 美国_116
-      - 美国_117
-      - 美国_118
-      - 美国_119
-      - 美国_120
-      - 美国_121
-      - 美国_122
-      - 美国_123
-      - 美国_124
-      - 美国_125
-      - 澳门_1
-      - 美国_126
     url: http://www.gstatic.com/generate_204
     interval: 300
   - name: 🎯 全球直连
@@ -10000,11 +8501,6 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇸🇬 新加坡4|@ripaojiedian
-      - 🇺🇸 美国 326
-      - 🇰🇷 韩国 40
-      - 🇰🇷 韩国 02
-      - 🇰🇷 韩国 10
       - 美国
       - 美国_1
       - 美国_2
@@ -10021,28 +8517,12 @@ proxy-groups:
       - 美国_13
       - 美国_14
       - 美国_15
+      - 🇰🇷 韩国 40
+      - 🇰🇷 韩国 02
+      - 🇰🇷 韩国 10
       - 美国_16
       - 美国_17
       - 美国_18
-      - 美国_19
-      - 美国_20
-      - 美国_21
-      - 美国_22
-      - 美国_23
-      - 美国_24
-      - 美国_25
-      - 美国_26
-      - 美国_27
-      - 美国_28
-      - 美国_29
-      - 美国_30
-      - 美国_31
-      - 美国_32
-      - 美国_33
-      - 美国_34
-      - 美国_35
-      - 美国_36
-      - 美国_37
       - 韩国
       - 香港
       - 01(TG:@tccjd)
@@ -10054,12 +8534,11 @@ proxy-groups:
       - 香港_6
       - 香港_7
       - 香港_8
-      - 香港_9
       - 台湾
       - 台湾_1
       - 日本
       - 日本_1
-      - 香港_10
+      - 香港_9
       - 日本_2
       - 日本_3
       - 日本_4
@@ -10073,179 +8552,149 @@ proxy-groups:
       - 日本_11
       - 日本_12
       - 日本_13
-      - 日本_14
-      - 日本_15
+      - 香港_10
       - 台湾_3
-      - 日本_16
-      - 台湾_4
-      - 台湾_5
       - 香港_11
-      - 台湾_6
+      - 美国_19
       - 香港_12
-      - 日本_17
-      - 美国_38
       - 香港_13
+      - 日本_14
+      - 台湾_4
       - 香港_14
-      - 日本_18
-      - 香港_15
-      - 台湾_7
-      - 日本_19
-      - 香港_16
-      - 日本_20
-      - 台湾_8
-      - 日本_21
-      - 日本_22
-      - 台湾_9
-      - 台湾_10
-      - 美国_39
+      - 日本_15
+      - 台湾_5
+      - 日本_16
+      - 日本_17
+      - 美国_20
       - 俄罗斯
-      - 美国_40
+      - 美国_21
       - 韩国_1
-      - 美国_41
+      - 美国_22
       - 俄罗斯_1
       - 俄罗斯_2
       - 卢森堡
       - 荷兰
-      - 美国_42
+      - 美国_23
       - 卢森堡_1
       - 卢森堡_2
       - 卢森堡_3
       - 卢森堡_4
       - 卢森堡_5
       - 俄罗斯_3
-      - 美国_43
+      - 美国_24
       - 卢森堡_6
-      - 卢森堡_7
-      - 美国_44
+      - 美国_25
       - 荷兰_1
       - 俄罗斯_4
-      - 卢森堡_8
-      - 日本_23
+      - 卢森堡_7
+      - 日本_18
       - 26(TG:@tccjd)
-      - 台湾_11
-      - 卢森堡_9
-      - 美国_45
+      - 卢森堡_8
+      - 美国_26
       - 俄罗斯_5
+      - 卢森堡_9
       - 卢森堡_10
-      - 卢森堡_11
       - 俄罗斯_6
       - 29(TG:@tccjd)
-      - 美国_46
+      - 美国_27
       - 28(TG:@tccjd)
-      - 美国_47
+      - 美国_28
+      - 卢森堡_11
+      - 美国_29
       - 卢森堡_12
-      - 美国_48
-      - 卢森堡_13
-      - 美国_49
-      - 美国_50
-      - 美国_51
+      - 美国_30
+      - 美国_31
       - 02(TG:@tccjd)
-      - 卢森堡_14
+      - 卢森堡_13
       - 荷兰_2
-      - 台湾_12
+      - 台湾_6
       - 03(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 台湾_13
-      - 台湾_14
+      - 台湾_7
       - 06(TG:@tccjd)
       - 07(TG:@tccjd)
       - 09(TG:@tccjd)
-      - 香港_17
-      - 美国_52
+      - 香港_15
+      - 美国_32
+      - 卢森堡_14
       - 卢森堡_15
-      - 卢森堡_16
-      - 香港_18
+      - 香港_16
       - 08(TG:@tccjd)
+      - 卢森堡_16
       - 卢森堡_17
-      - 美国_53
-      - 卢森堡_18
-      - 香港_19
-      - 美国_54
+      - 香港_17
       - 10(TG:@tccjd)
       - 俄罗斯_7
       - 俄罗斯_8
-      - 香港_20
+      - 香港_18
       - 11(TG:@tccjd)
-      - 美国_55
+      - 美国_33
       - 韩国_2
-      - 美国_56
+      - 美国_34
+      - 12(TG:@tccjd)
+      - 卢森堡_18
       - 卢森堡_19
       - 卢森堡_20
-      - 12(TG:@tccjd)
-      - 卢森堡_21
-      - 卢森堡_22
-      - 卢森堡_23
-      - 美国_57
+      - 美国_35
       - 俄罗斯_9
-      - 卢森堡_24
-      - 美国_58
+      - 卢森堡_21
+      - 美国_36
       - 俄罗斯_10
       - 13(TG:@tccjd)
-      - 美国_59
-      - 美国_60
-      - 卢森堡_25
-      - 美国_61
-      - 美国_62
+      - 美国_37
+      - 美国_38
+      - 美国_39
       - 俄罗斯_11
-      - 香港_21
+      - 香港_19
       - 14(TG:@tccjd)
-      - 美国_63
+      - 美国_40
       - 15(TG:@tccjd)
       - 16(TG:@tccjd)
       - 法国
-      - 17(TG:@tccjd)
       - 韩国_3
       - 韩国_4
       - 韩国_5
       - 韩国_6
-      - 美国_64
-      - 香港_22
+      - 美国_41
+      - 香港_20
       - 韩国_7
       - 俄罗斯_12
-      - 台湾_15
-      - 美国_65
+      - 台湾_8
+      - 美国_42
       - 韩国_8
       - 韩国_9
-      - 台湾_16
+      - 台湾_9
+      - 日本_19
+      - 日本_20
+      - 波兰
+      - 香港_21
+      - 19(TG:@tccjd)
+      - 日本_21
+      - 荷兰_3
+      - 日本_22
+      - 日本_23
+      - 台湾_10
+      - 波兰_1
       - 日本_24
       - 日本_25
-      - 波兰
-      - 香港_23
-      - 19(TG:@tccjd)
       - 日本_26
-      - 荷兰_3
       - 日本_27
       - 日本_28
-      - 台湾_17
-      - 波兰_1
       - 日本_29
       - 日本_30
       - 日本_31
       - 日本_32
-      - 日本_33
-      - 日本_34
-      - 日本_35
-      - 日本_36
-      - 日本_37
-      - 日本_38
-      - 香港_24
-      - 日本_39
-      - 台湾_18
-      - 美国_66
-      - 澳门
-      - 日本_40
-      - 香港_25
-      - 美国_67
+      - 台湾_11
+      - 美国_43
+      - 香港_22
+      - 美国_44
       - 20(TG:@tccjd)
-      - 香港_26
+      - 香港_23
       - 俄罗斯_13
       - 新加坡
       - 俄罗斯_14
-      - 香港_27
+      - 香港_24
       - 俄罗斯_15
-      - 日本_41
-      - 日本_42
-      - 香港_28
+      - 香港_25
       - 21(TG:@tccjd)
       - 俄罗斯_16
       - 俄罗斯_17
@@ -10253,56 +8702,49 @@ proxy-groups:
       - 俄罗斯_19
       - 俄罗斯_20
       - 俄罗斯_21
-      - 俄罗斯_22
       - 24(TG:@tccjd)
+      - 俄罗斯_22
       - 俄罗斯_23
       - 俄罗斯_24
       - 俄罗斯_25
       - 俄罗斯_26
-      - 俄罗斯_27
       - 25(TG:@tccjd)
+      - 俄罗斯_27
+      - 日本_33
       - 俄罗斯_28
       - 俄罗斯_29
-      - 日本_43
       - 俄罗斯_30
+      - 日本_34
       - 俄罗斯_31
       - 俄罗斯_32
-      - 日本_44
       - 俄罗斯_33
-      - 俄罗斯_34
-      - 俄罗斯_35
       - 韩国_10
-      - 日本_45
-      - 22(TG:@tccjd)
-      - 日本_46
-      - 美国_68
+      - 日本_35
+      - 美国_45
       - 18(TG:@tccjd)
-      - 日本_47
-      - 日本_48
-      - 日本_49
-      - 台湾_19
-      - 台湾_20
-      - 美国_69
-      - 台湾_21
-      - 台湾_22
+      - 日本_36
+      - 日本_37
+      - 台湾_12
+      - 美国_46
+      - 台湾_13
+      - 台湾_14
       - 韩国_11
-      - 美国_70
-      - 美国_71
-      - 台湾_23
-      - 日本_50
-      - 日本_51
-      - 日本_52
+      - 美国_47
+      - 美国_48
+      - 台湾_15
+      - 日本_38
+      - 日本_39
+      - 日本_40
       - 韩国_12
       - 韩国_13
       - 韩国_14
-      - 美国_72
+      - 美国_49
       - 爱尔兰
       - 13(TG:@tccjd)_1
       - 韩国_15
-      - 香港_29
-      - 台湾_24
+      - 香港_26
       - 10(TG:@tccjd)_1
-      - 台湾_25
+      - 台湾_16
       - 韩国_16
       - 09(TG:@tccjd)_1
       - 12(TG:@tccjd)_1
@@ -10310,385 +8752,335 @@ proxy-groups:
       - 韩国_17
       - 韩国_18
       - 韩国_19
-      - 卢森堡_26
-      - 俄罗斯_36
-      - 日本_53
+      - 卢森堡_22
+      - 俄罗斯_34
+      - 日本_41
       - 10(TG:@tccjd)_2
-      - 卢森堡_27
-      - 美国_73
-      - 卢森堡_28
+      - 美国_50
       - 韩国_20
       - 韩国_21
       - 韩国_22
       - 韩国_23
       - 韩国_24
-      - 香港_30
       - 09(TG:@tccjd)_2
-      - 卢森堡_29
-      - 台湾_26
+      - 卢森堡_23
+      - 台湾_17
       - 韩国_25
       - 韩国_26
-      - 香港_31
-      - 卢森堡_30
+      - 卢森堡_24
       - 韩国_27
       - 08(TG:@tccjd)_1
       - 韩国_28
       - 07(TG:@tccjd)_1
       - 韩国_29
-      - 台湾_27
+      - 台湾_18
       - 韩国_30
       - 韩国_31
-      - 卢森堡_31
-      - 俄罗斯_37
+      - 俄罗斯_35
       - 韩国_32
-      - 日本_54
+      - 日本_42
       - 02(TG:@tccjd)_1
       - 韩国_33
       - 韩国_34
-      - 日本_55
+      - 日本_43
       - 韩国_35
       - 希腊
       - 韩国_36
-      - 香港_32
+      - 香港_27
       - 韩国_37
       - 03(TG:@tccjd)_1
-      - 香港_33
+      - 香港_28
       - 荷兰_4
       - 韩国_38
       - 韩国_39
       - 韩国_40
-      - 台湾_28
+      - 台湾_19
       - 04(TG:@tccjd)
-      - 美国_74
-      - 日本_56
-      - 俄罗斯_38
+      - 美国_51
+      - 日本_44
+      - 俄罗斯_36
       - 荷兰_5
+      - 俄罗斯_37
+      - 俄罗斯_38
       - 俄罗斯_39
       - 俄罗斯_40
-      - 香港_34
-      - 俄罗斯_41
-      - 俄罗斯_42
       - 韩国_41
       - 韩国_42
-      - 日本_57
-      - 俄罗斯_43
+      - 俄罗斯_41
       - 韩国_43
-      - 美国_75
+      - 美国_52
       - 韩国_44
-      - 美国_76
-      - 香港_35
+      - 美国_53
+      - 香港_29
       - 韩国_45
       - 06(TG:@tccjd)_1
-      - 俄罗斯_44
+      - 俄罗斯_42
       - 01(TG:@tccjd)_1
       - 伊朗
       - 韩国_46
+      - 俄罗斯_43
+      - 香港_30
+      - 香港_31
+      - 俄罗斯_44
+      - 台湾_20
       - 俄罗斯_45
-      - 香港_36
-      - 香港_37
       - 俄罗斯_46
-      - 台湾_29
       - 俄罗斯_47
       - 俄罗斯_48
+      - 韩国_47
       - 俄罗斯_49
+      - 日本_45
       - 俄罗斯_50
       - 俄罗斯_51
-      - 韩国_47
+      - 韩国_48
       - 俄罗斯_52
       - 俄罗斯_53
+      - 韩国_49
       - 俄罗斯_54
-      - 日本_58
       - 俄罗斯_55
       - 俄罗斯_56
       - 俄罗斯_57
       - 俄罗斯_58
-      - 韩国_48
       - 俄罗斯_59
-      - 俄罗斯_60
-      - 韩国_49
-      - 俄罗斯_61
-      - 俄罗斯_62
-      - 俄罗斯_63
-      - 俄罗斯_64
-      - 俄罗斯_65
-      - 俄罗斯_66
-      - 俄罗斯_67
-      - 俄罗斯_68
-      - 俄罗斯_69
-      - 俄罗斯_70
-      - 俄罗斯_71
-      - 俄罗斯_72
-      - 俄罗斯_73
-      - defaultName
+      - 美国_54
       - 中国香港
       - 01(TG:@tccjd)_2
-      - 美国_77
-      - 美国_78
-      - 美国_79
+      - 美国_55
+      - 美国_56
+      - 美国_57
       - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
-      - 美国_80
+      - 美国_58
       - 16(TG:@tccjd)_1
-      - 17(TG:@tccjd)_1
+      - 17(TG:@tccjd)
+      - 日本_46
+      - 18(TG:@tccjd)_1
+      - 香港_32
+      - 日本_47
+      - 日本_48
+      - 日本_49
+      - 台湾_21
+      - 日本_50
+      - 日本_51
+      - 日本_52
+      - 日本_53
+      - 日本_54
+      - 日本_55
+      - 韩国_50
+      - 日本_56
+      - 日本_57
+      - 日本_58
       - 日本_59
       - 日本_60
-      - 18(TG:@tccjd)_1
-      - 香港_38
       - 日本_61
-      - 日本_62
-      - 日本_63
-      - 台湾_30
-      - 日本_64
-      - 日本_65
-      - 日本_66
-      - 日本_67
-      - 日本_68
-      - 日本_69
-      - 日本_70
-      - 日本_71
-      - 日本_72
-      - 日本_73
-      - 日本_74
-      - 日本_75
-      - 日本_76
-      - 韩国_50
-      - 日本_77
-      - 日本_78
-      - 日本_79
-      - 日本_80
-      - 日本_81
-      - 日本_82
-      - 日本_83
-      - 日本_84
-      - 香港_39
+      - 香港_33
       - 韩国_51
       - 02(TG:@tccjd)_2
-      - 香港_40
-      - 日本_85
-      - 日本_86
+      - 香港_34
+      - 日本_62
+      - 日本_63
       - 韩国_52
       - 韩国_53
-      - 香港_41
-      - 日本_87
-      - 日本_88
-      - 日本_89
-      - 美国_81
+      - 香港_35
+      - 日本_64
+      - 日本_65
+      - 美国_59
       - 韩国_54
-      - 香港_42
-      - 日本_90
-      - 美国_82
-      - 日本_91
+      - 香港_36
+      - 日本_66
+      - 美国_60
+      - 日本_67
       - 中国
       - 韩国_55
-      - 日本_92
+      - 日本_68
       - 韩国_56
-      - 日本_93
       - 韩国_57
       - 中国香港_1
-      - 日本_94
-      - 香港_43
+      - 日本_69
+      - 香港_37
       - 韩国_58
-      - 台湾_31
-      - 日本_95
-      - 香港_44
+      - 日本_70
       - 韩国_59
       - 韩国_60
-      - 台湾_32
-      - 日本_96
+      - 日本_71
       - 中国香港_2
-      - 香港_45
-      - 台湾_33
+      - 香港_38
+      - 台湾_22
       - 中国香港_3
       - 爱尔兰_1
-      - 香港_46
       - 中国香港_4
       - 韩国_61
       - 韩国_62
       - 爱尔兰_2
-      - 美国_83
-      - 日本_97
-      - 日本_98
+      - 美国_61
+      - 日本_72
       - 韩国_63
       - 韩国_64
-      - 香港_47
       - 中国香港_5
       - 新加坡_1
-      - 台湾_34
-      - 美国_84
-      - 俄罗斯_74
+      - 台湾_23
+      - 美国_62
+      - 俄罗斯_60
       - 新加坡_2
       - 中国香港_6
       - 韩国_65
-      - 香港_48
-      - 美国_85
-      - 香港_49
-      - 俄罗斯_75
-      - 美国_86
+      - 香港_39
+      - 美国_63
+      - 香港_40
       - 03(TG:@tccjd)_2
       - 荷兰_6
-      - 香港_50
-      - 日本_99
+      - 香港_41
+      - 日本_73
       - 韩国_66
-      - 美国_87
+      - 美国_64
       - 韩国_67
-      - 美国_88
-      - 美国_89
-      - 香港_51
-      - 美国_90
-      - 香港_52
+      - 美国_65
+      - 香港_42
       - 中国_1
       - 04(TG:@tccjd)_1
       - 韩国_68
       - 新加坡_3
       - 韩国_69
-      - 香港_53
-      - 香港_54
-      - 俄罗斯_76
-      - 卢森堡_32
-      - 美国_91
-      - 日本_100
-      - 美国_92
-      - 05(TG:@tccjd)_1
-      - 香港_55
+      - 香港_43
+      - 俄罗斯_61
+      - 卢森堡_25
+      - 日本_74
+      - 美国_66
+      - 05(TG:@tccjd)
       - 荷兰_7
       - 韩国_70
       - 06(TG:@tccjd)_2
-      - 日本_101
+      - 日本_75
       - 韩国_71
       - 韩国_72
       - 韩国_73
       - 荷兰_8
-      - 美国_93
       - 韩国_74
       - 韩国_75
-      - 卢森堡_33
+      - 卢森堡_26
       - 韩国_76
       - 韩国_77
-      - 卢森堡_34
+      - 卢森堡_27
       - 韩国_78
-      - 美国_94
+      - 美国_67
       - 韩国_79
       - 韩国_80
       - 韩国_81
       - 韩国_82
-      - 日本_102
+      - 日本_76
       - 韩国_83
       - 韩国_84
       - 韩国_85
-      - 荷兰_9
-      - 日本_103
+      - 日本_77
       - 韩国_86
-      - 美国_95
-      - 日本_104
+      - 美国_68
+      - 日本_78
       - 07(TG:@tccjd)_2
-      - 日本_105
-      - 日本_106
-      - 日本_107
+      - 日本_79
+      - 日本_80
       - 08(TG:@tccjd)_2
       - 中国_2
-      - 日本_108
-      - 日本_109
-      - 日本_110
-      - 日本_111
-      - 日本_112
-      - 日本_113
-      - 日本_114
-      - 日本_115
+      - 日本_81
+      - 日本_82
+      - 日本_83
+      - 日本_84
+      - 日本_85
+      - 日本_86
       - 09(TG:@tccjd)_3
-      - 日本_116
-      - 日本_117
-      - 日本_118
+      - 日本_87
+      - 日本_88
       - 10(TG:@tccjd)_3
       - 11(TG:@tccjd)_2
-      - 日本_119
-      - 日本_120
-      - 香港_56
+      - 日本_89
+      - 日本_90
+      - 香港_44
       - 中国_3
-      - 日本_121
+      - 日本_91
       - 12(TG:@tccjd)_2
-      - 日本_122
+      - 日本_92
       - 伊朗_1
       - 13(TG:@tccjd)_2
-      - 日本_123
       - 伊朗_2
       - 台灣
-      - 日本_124
-      - 日本_125
-      - 香港_57
-      - 美国_96
-      - 日本_126
+      - 香港_45
+      - 美国_69
       - 中国香港_7
       - 新加坡_4
-      - 香港_58
-      - 日本_127
-      - 香港_59
+      - 香港_46
       - 新加坡_5
       - 中国_4
       - 新加坡_6
       - 新加坡_7
-      - 日本_128
+      - 日本_93
       - 韩国_87
-      - 日本_129
       - 韩国_88
-      - 美国_97
+      - 美国_70
       - 新加坡_8
       - 韩国_89
       - 韩国_90
       - 韩国_91
-      - 香港_60
       - 韩国_92
-      - 香港_61
+      - 香港_47
       - HK
-      - US
-      - US_1
       - 美国（2025.10.28更新）
-      - 俄罗斯_77
+      - 美国_71
+      - 美国_72
+      - 美国_73
+      - US
+      - 美国_74
+      - 美国_75
+      - 意大利
+      - 美国_76
+      - JP
+      - 美国_77
+      - 美国_78
+      - 俄罗斯_62
+      - 美国_79
+      - 美国_80
+      - 美国_81
+      - 美国_82
+      - 美国_83
+      - 美国_84
+      - 美国_85
+      - 美国_86
+      - 美国_87
+      - 美国_88
+      - 美国_89
+      - 美国_90
+      - 美国_91
+      - 美国_92
+      - 美国_93
+      - 美国_94
+      - 美国_95
+      - 美国_96
+      - 美国_97
       - 美国_98
       - 美国_99
       - 美国_100
       - 美国_101
-      - US_2
       - 美国_102
       - 美国_103
       - 美国_104
-      - 俄罗斯_78
       - 美国_105
-      - 意大利
-      - 意大利_1
       - 美国_106
-      - 意大利_2
-      - US_3
-      - 香港_62
-      - 意大利_3
+      - 台湾_24
+      - 台湾_25
+      - 台湾_26
+      - 台湾_27
+      - 台湾_28
+      - 台湾_29
+      - 17(TG:@tccjd)_1
+      - 22(TG:@tccjd)
+      - 香港_48
+      - 香港_49
+      - US_1
       - 美国_107
-      - JP
-      - 希腊_1
-      - 香港_63
+      - 🇺🇸 美国 326
       - 美国_108
       - 美国_109
-      - 香港_64
+      - 日本_94
       - 美国_110
-      - 希腊_2
-      - 俄罗斯_79
       - 美国_111
-      - 俄罗斯_80
-      - 美国_112
-      - 美国_113
-      - 美国_114
-      - 俄罗斯_81
-      - 美国_115
-      - 美国_116
-      - 美国_117
-      - 美国_118
-      - 美国_119
-      - 美国_120
-      - 美国_121
-      - 美国_122
-      - 美国_123
-      - 美国_124
-      - 美国_125
-      - 澳门_1
-      - 美国_126
 rule-providers:
   LocalAreaNetwork:
     type: http
