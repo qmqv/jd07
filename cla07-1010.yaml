@@ -53,35 +53,263 @@ tun:
 
 
 proxies:
+  - type: vmess
+    name: 美国
+    server: 49b1-A868-94bD7631Bf5b.457.pP.ua
+    port: 443
+    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 49B1-A868-94bd7631bf5b.457.PP.Ua
+    tls: true
+  - type: vmess
+    name: 美国_1
+    server: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+    port: 443
+    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+    tls: true
+  - type: vmess
+    name: 美国_2
+    server: 479b-b511-7D5B7828DbEb.457.PP.ua
+    port: 443
+    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 479B-B511-7d5B7828DbEb.457.pp.UA
+    tls: true
+  - type: vmess
+    name: 美国_3
+    server: 4120-BE04-13ef56096989.457.pp.uA
+    port: 443
+    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 4120-BE04-13Ef56096989.457.Pp.Ua
+    tls: true
+  - type: vmess
+    name: 美国_4
+    server: bCE5-3ebfED0a18F2.008880888.Xyz
+    port: 80
+    uuid: 55821780-6970-49df-8a23-800c2c9b7d3a
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: bcE5-3EBFeD0A18F2.008880888.XYz
+  - type: vmess
+    name: 美国_5
+    server: 4250-b39D-f24D0c6B4cea.457.Pp.ua
+    port: 443
+    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 4250-b39D-f24D0C6B4CEA.457.pp.Ua
+    tls: true
+  - type: vmess
+    name: 美国_6
+    server: 2237-4Ce3-8698-CfD1B622333A.457.Pp.uA
+    port: 443
+    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 2237-4Ce3-8698-CFd1B622333A.457.PP.ua
+    tls: true
+  - type: vmess
+    name: 美国_7
+    server: 479b-b511-7D5B7828DbEb.457.PP.ua
+    port: 443
+    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 479B-B511-7d5B7828DbEb.457.pp.UA
+    tls: true
+  - type: vmess
+    name: 美国_8
+    server: 4120-bE04-13eF56096989.457.pp.UA
+    port: 443
+    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 4120-Be04-13Ef56096989.457.PP.ua
+    tls: true
+  - type: vmess
+    name: 美国_9
+    server: B70-B127-17F0Dc22455E.457.Pp.Ua
+    port: 443
+    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: b70-B127-17f0Dc22455E.457.pP.ua
+    tls: true
+  - type: vmess
+    name: 美国_10
+    server: 920a-4bcC-9a2D-57960603C7d9.457.Pp.UA
+    port: 443
+    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 920a-4bCc-9a2D-57960603c7D9.457.Pp.uA
+    tls: true
+  - type: vmess
+    name: 美国_11
+    server: 920A-4bCC-9A2d-57960603c7D9.457.Pp.ua
+    port: 443
+    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 920a-4bcc-9a2d-57960603c7d9.457.pp.UA
+    tls: true
+  - type: vmess
+    name: 美国_12
+    server: 479b-B511-7d5b7828dbeB.457.PP.ua
+    port: 443
+    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 479B-b511-7d5b7828dbEB.457.Pp.uA
+    tls: true
+  - type: vmess
+    name: 美国_13
+    server: 2237-4Ce3-8698-cfD1B622333a.457.Pp.ua
+    port: 443
+    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 2237-4CE3-8698-CFD1B622333A.457.pP.uA
+    tls: true
+  - type: vmess
+    name: 美国_14
+    server: 2237-4cE3-8698-cfD1b622333A.457.pp.uA
+    port: 443
+    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 2237-4CE3-8698-CFd1b622333a.457.pP.UA
+    tls: true
+  - type: vmess
+    name: 美国_15
+    server: 920a-4bCc-9a2D-57960603c7D9.457.pp.ua
+    port: 443
+    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 920A-4Bcc-9a2D-57960603c7d9.457.PP.ua
+    tls: true
+  - type: vmess
+    name: 美国_16
+    server: 7eBc-47EA-84f0-EBcFbEF3329b.457.Pp.ua
+    port: 443
+    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 7EBc-47ea-84F0-EbCFbEf3329b.457.pP.ua
+    tls: true
+  - type: vmess
+    name: 美国_17
+    server: 44ce-8817-7d9a13aa9eb0.457.pp.ua
+    port: 443
+    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 44ce-8817-7d9a13aa9eb0.457.pp.ua
+    tls: true
+  - type: vmess
+    name: 美国_18
+    server: 49b1-A868-94bD7631Bf5b.457.pP.ua
+    port: 443
+    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 49B1-A868-94bd7631bf5b.457.PP.Ua
+    tls: true
+  - type: vmess
+    name: 美国_19
+    server: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+    port: 443
+    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+    tls: true
+  - type: vmess
+    name: 美国_20
+    server: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+    port: 443
+    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
+    alterId: 0
+    network: xhttp
+    cipher: auto
+    servername: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+    tls: true
   - type: ss
     name: 🇯🇵 日本4|@ripaojiedian
     server: 103.219.103.217
     port: 21712
     cipher: aes-128-gcm
     password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74
-  - type: trojan
-    name: 香港5|@ripaojiedian
-    server: 58.152.25.241
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: trojan
-    name: 香港3|@ripaojiedian
-    server: 58.152.18.124
-    port: 443
-    password: dd2f25b4c70689de8bc0f7fa9d6591cb
-    network: tcp
-    sni: www.nintendogames.net
-    tls: true
   - type: ss
     name: 🇭🇰 香港 33
     server: slur.izenny.com
     port: 55407
     cipher: chacha20-ietf-poly1305
     password: db8a0e6b-5fd7-435d-9558-5c86b0679c4d
+  - type: ss
+    name: 亚太地区 V2CROSS.COM
+    server: 103.219.103.217
+    port: 21712
+    cipher: aes-128-gcm
+    password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74
+  - type: ss
+    name: 🇯🇵 日本4|@stairnode
+    server: 103.219.103.217
+    port: 21712
+    cipher: aes-128-gcm
+    password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74
+  - type: ss
+    name: 🇯🇵 日本4|@ripaojiedian_1
+    server: 103.219.103.217
+    port: 21712
+    cipher: aes-128-gcm
+    password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74
+  - type: ss
+    name: 01(TG:@tccjd)
+    server: 45.87.175.174
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - type: ss
+    name: 美国_21
+    server: sl.fgmcx.top
+    port: 41047
+    cipher: chacha20-ietf-poly1305
+    password: 014e90df-a3ee-4654-a9f6-d118e02dd02a
+  - type: ss
+    name: 美国_22
+    server: sl.fgmcx.top
+    port: 41047
+    cipher: chacha20-ietf-poly1305
+    password: 014e90df-a3ee-4654-a9f6-d118e02dd02a
   - type: vless
     name: 🇰🇷 韩国 02
     server: 218.152.224.10
@@ -97,7 +325,7 @@ proxies:
         Host: miku.mikuru.ip-ddns.com
     client-fingerprint: chrome
   - type: vless
-    name: 01(TG:@tccjd)
+    name: 01(TG:@tccjd)_1
     server: snapp.ir
     port: 80
     uuid: 204feb05-f696-4bc6-bd9f-8d92a3306f06
@@ -108,47 +336,6 @@ proxies:
       path: /
       headers:
         Host: blog.pushappvp.com
-  - type: ss
-    name: 亚太地区 V2CROSS.COM
-    server: 103.219.103.217
-    port: 21712
-    cipher: aes-128-gcm
-    password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74
-  - type: trojan
-    name: 🇭🇰 香港 电讯盈科有限公司
-    server: 219.79.165.55
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: trojan
-    name: _CN_中国
-    server: 219.79.165.55
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: trojan
-    name: 🇭🇰 香港5|@stairnode
-    server: 58.152.25.241
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: trojan
-    name: 🇭🇰 香港3|@ripaojiedian
-    server: 58.152.18.124
-    port: 443
-    password: dd2f25b4c70689de8bc0f7fa9d6591cb
-    network: tcp
-    sni: www.nintendogames.net
-    tls: true
   - type: vless
     name: 02(TG:@tccjd)
     server: 78.47.80.152
@@ -156,58 +343,6 @@ proxies:
     uuid: Warpi-Free-Vpn-In-GooglePlay
     network: tcp
     encryption: none
-  - type: trojan
-    name: 🇭🇰 香港5|@ripaojiedian
-    server: 58.152.25.241
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: ss
-    name: 🇯🇵 日本4|@stairnode
-    server: 103.219.103.217
-    port: 21712
-    cipher: aes-128-gcm
-    password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74
-  - type: ss
-    name: 🇯🇵 日本4|@ripaojiedian_1
-    server: 103.219.103.217
-    port: 21712
-    cipher: aes-128-gcm
-    password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74
-  - type: trojan
-    name: 🇭🇰 香港3|@stairnode
-    server: 58.152.18.124
-    port: 443
-    password: dd2f25b4c70689de8bc0f7fa9d6591cb
-    network: tcp
-    sni: www.nintendogames.net
-    tls: true
-  - type: trojan
-    name: 香港3|@ripaojiedian_1
-    server: 58.152.18.124
-    port: 443
-    password: dd2f25b4c70689de8bc0f7fa9d6591cb
-    network: tcp
-    sni: www.nintendogames.net
-    tls: true
-  - type: trojan
-    name: 香港5|@ripaojiedian_1
-    server: 58.152.25.241
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: ss
-    name: 01(TG:@tccjd)_1
-    server: 45.87.175.174
-    port: 8080
-    cipher: chacha20-ietf-poly1305
-    password: k1dBOmOB4oqi7Ump37a1bQ
   - type: vless
     name: 01(TG:@tccjd)_2
     server: 151.236.93.102
@@ -261,21 +396,6 @@ proxies:
     ws-opts:
       path: /
   - type: vless
-    name: 05(TG:@tccjd)
-    server: v2ngnet.huqpmfood.ir
-    port: 4455
-    uuid: 024a2dfa-993e-4d68-88fc-969b6571e7c2
-    network: http
-    servername: stackoverflow.com
-    tls: true
-    encryption: none
-    http-opts:
-      path: /@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet
-    reality-opts:
-      public-key: 18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew
-      short-id: 077dc29a23d311f2
-    client-fingerprint: chrome
-  - type: vless
     name: 01(TG:@tccjd)_3
     server: 172.67.155.121
     port: 2095
@@ -310,21 +430,6 @@ proxies:
       - http/1.1
   - type: vless
     name: 01(TG:@tccjd)_4
-    server: v2ngfast.huqpmfood.ir
-    port: 1146
-    uuid: 4af76454-f6d5-4e48-9ef1-7e4f5ebebcc0
-    network: http
-    servername: stackoverflow.com
-    tls: true
-    encryption: none
-    http-opts:
-      path: /@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast
-    reality-opts:
-      public-key: 18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew
-      short-id: 077dc29a23d311f2
-    client-fingerprint: chrome
-  - type: vless
-    name: 01(TG:@tccjd)_5
     server: 77.37.33.39
     port: 443
     uuid: 5ec3a039-ea63-4bf9-a848-a65c9bfa66f5
@@ -337,52 +442,6 @@ proxies:
       headers:
         Host: gb-8981.shenzogmbh.com
     client-fingerprint: chrome
-  - type: vmess
-    name: 美国
-    server: 49b1-A868-94bD7631Bf5b.457.pP.ua
-    port: 443
-    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 49B1-A868-94bd7631bf5b.457.PP.Ua
-    tls: true
-  - type: vmess
-    name: 美国_1
-    server: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
-    port: 443
-    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
-    tls: true
-  - type: vmess
-    name: 美国_2
-    server: 479b-b511-7D5B7828DbEb.457.PP.ua
-    port: 443
-    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 479B-B511-7d5B7828DbEb.457.pp.UA
-    tls: true
-  - type: vmess
-    name: 美国_3
-    server: 4120-BE04-13ef56096989.457.pp.uA
-    port: 443
-    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 4120-BE04-13Ef56096989.457.Pp.Ua
-    tls: true
-  - type: hysteria2
-    name: 美国_4
-    server: 62.72.163.251
-    port: 30102
-    password: 338ce171-d764-4610-8fd5-6688b0d321f0
-    skip-cert-verify: true
   - type: vless
     name: 德国
     server: 94.131.110.117
@@ -418,22 +477,6 @@ proxies:
       public-key: vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng
       short-id: 69a2
     client-fingerprint: chrome
-  - type: hysteria2
-    name: 法國
-    server: 195.154.206.231
-    port: 33880
-    password: dongtaiwang.com
-    alpn:
-      - h3
-    skip-cert-verify: true
-    sni: apple.com
-  - type: hysteria2
-    name: 法國_1
-    server: 195.154.206.231
-    port: 33880
-    password: dongtaiwang.com
-    skip-cert-verify: true
-    sni: apple.com
   - type: vless
     name: 俄罗斯
     server: 45.134.12.47
@@ -448,15 +491,6 @@ proxies:
       short-id: ab12cd34
     client-fingerprint: chrome
     flow: xtls-rprx-vision
-  - type: trojan
-    name: 02(TG:@tccjd)_3
-    server: 206.206.77.237
-    port: 51469
-    password: LxJCPOP40a
-    network: grpc
-    sni: cloudflare.com
-    fingerprint: chrome
-    tls: true
   - type: vless
     name: 俄罗斯_1
     server: 77.110.119.225
@@ -497,15 +531,8 @@ proxies:
       public-key: hnec5SxCD6Os-u0FNi_YS5CML1a_oWb0niZJ1mGuFBo
       short-id: 07e904766d29b958
     flow: xtls-rprx-vision
-  - type: hysteria2
-    name: 英国
-    server: de1.oomz.ru
-    port: 30000
-    password: e7965e64-e001-4e8c-8273-39c61ff4a094
-    skip-cert-verify: true
-    sni: bing.com
   - type: vless
-    name: 美国_5
+    name: 美国_23
     server: 178.239.123.216
     port: 24443
     uuid: aa7f42cc-616f-4550-9a87-4b85bb409121
@@ -518,7 +545,7 @@ proxies:
       headers:
         Host: vless3.datatestvless.click
   - type: vless
-    name: 美国_6
+    name: 美国_24
     server: 178.239.123.216
     port: 24443
     uuid: aa7f42cc-616f-4550-9a87-4b85bb409121
@@ -531,7 +558,7 @@ proxies:
       headers:
         Host: vless3.datatestvless.click
   - type: vless
-    name: 美国_7
+    name: 美国_25
     server: 178.239.123.216
     port: 24443
     uuid: aa7f42cc-616f-4550-9a87-4b85bb409121
@@ -544,7 +571,7 @@ proxies:
       headers:
         Host: vless3.datatestvless.click
   - type: vless
-    name: 01(TG:@tccjd)_6
+    name: 01(TG:@tccjd)_5
     server: 178.239.123.216
     port: 24443
     uuid: aa7f42cc-616f-4550-9a87-4b85bb409121
@@ -556,1349 +583,6 @@ proxies:
       path: /
       headers:
         Host: vless3.datatestvless.click
-  - type: ss
-    name: 美国_8
-    server: sl.fgmcx.top
-    port: 41047
-    cipher: chacha20-ietf-poly1305
-    password: 014e90df-a3ee-4654-a9f6-d118e02dd02a
-  - type: trojan
-    name: 香港
-    server: 219.79.165.55
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: vless
-    name: 德國_1
-    server: wangcai194.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_2
-    server: wangcai219.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_3
-    server: wangcai62.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
-    name: 美国_9
-    server: bCE5-3ebfED0a18F2.008880888.Xyz
-    port: 80
-    uuid: 55821780-6970-49df-8a23-800c2c9b7d3a
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: bcE5-3EBFeD0A18F2.008880888.XYz
-  - type: vless
-    name: 德國_4
-    server: wangcai190.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_5
-    server: wangcai118.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_6
-    server: wangcai252.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_7
-    server: wangcai61.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_8
-    server: wangcai198.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_9
-    server: wangcai4.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_10
-    server: wangcai204.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_11
-    server: wangcai233.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_12
-    server: wangcai162.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_13
-    server: wangcai18.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_14
-    server: wangcai177.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_15
-    server: 104.19.196.57
-    port: 443
-    uuid: 0dbad6ba-be87-46e1-ab90-30c53ef1878d
-    network: http
-    servername: drive.speegy.club
-    tls: true
-    encryption: none
-    http-opts:
-      path: /sreztjsterw4j
-    client-fingerprint: chrome
-    alpn:
-      - h2
-  - type: vless
-    name: 德國_16
-    server: wangcai75.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_17
-    server: wangcai88.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_18
-    server: wangcai98.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_19
-    server: wangcai230.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_20
-    server: wangcai235.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_21
-    server: wangcai152.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_22
-    server: wangcai120.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_23
-    server: wangcai225.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_24
-    server: wangcai36.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_25
-    server: wangcai232.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_26
-    server: wangcai142.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_27
-    server: wangcai151.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_28
-    server: wangcai218.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_29
-    server: wangcai191.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_30
-    server: wangcai166.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
-    name: 美国_10
-    server: 4250-b39D-f24D0c6B4cea.457.Pp.ua
-    port: 443
-    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 4250-b39D-f24D0C6B4CEA.457.pp.Ua
-    tls: true
-  - type: vless
-    name: 德國_31
-    server: wangcai186.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_32
-    server: wangcai134.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_33
-    server: wangcai188.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_34
-    server: wangcai128.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_35
-    server: wangcai214.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_36
-    server: wangcai222.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_37
-    server: wangcai148.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_38
-    server: wangcai92.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_39
-    server: wangcai35.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_40
-    server: wangcai130.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_41
-    server: wangcai2.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_42
-    server: wangcai50.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_43
-    server: wangcai42.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_44
-    server: wangcai248.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_45
-    server: wangcai37.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_46
-    server: wangcai249.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_47
-    server: wangcai21.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_48
-    server: wangcai140.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_49
-    server: wangcai209.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_50
-    server: wangcai39.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_51
-    server: wangcai69.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_52
-    server: 104.21.48.1
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_53
-    server: wangcai82.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_54
-    server: wangcai114.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_55
-    server: wangcai124.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_56
-    server: wangcai96.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_57
-    server: wangcai73.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_58
-    server: wangcai250.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_59
-    server: wangcai112.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_60
-    server: wangcai90.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_61
-    server: wangcai215.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_62
-    server: wangcai122.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_63
-    server: wangcai44.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_64
-    server: wangcai83.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_65
-    server: wangcai6.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_66
-    server: wangcai168.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_67
-    server: wangcai0.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_68
-    server: wangcai59.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_69
-    server: wangcai123.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_70
-    server: wangcai55.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_71
-    server: wangcai160.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_72
-    server: wangcai185.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_73
-    server: wangcai34.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_74
-    server: wangcai193.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_75
-    server: wangcai38.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_76
-    server: wangcai43.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_77
-    server: wangcai137.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_78
-    server: wangcai89.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_79
-    server: wangcai147.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_80
-    server: wangcai181.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_81
-    server: wangcai149.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_82
-    server: wangcai17.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_83
-    server: wangcai41.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_84
-    server: wangcai229.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_85
-    server: wangcai189.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_86
-    server: wangcai125.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_87
-    server: wangcai65.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_88
-    server: wangcai203.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_89
-    server: wangcai247.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_90
-    server: wangcai99.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_91
-    server: wangcai187.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_92
-    server: wangcai15.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: trojan
-    name: 香港_1
-    server: 219.79.165.55
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: ss
-    name: 美国_11
-    server: sl.fgmcx.top
-    port: 41047
-    cipher: chacha20-ietf-poly1305
-    password: 014e90df-a3ee-4654-a9f6-d118e02dd02a
-  - type: hysteria2
-    name: US
-    server: 74.48.56.139
-    port: 30102
-    password: 338ce171-d764-4610-8fd5-6688b0d321f0
-    skip-cert-verify: true
   - type: vless
     name: 德国_1
     server: 94.131.110.117
@@ -1906,13 +590,6 @@ proxies:
     uuid: df0680ca-e43c-498d-ed86-8e196eedd012
     network: grpc
     encryption: none
-  - type: hysteria2
-    name: 英国_1
-    server: de1.oomz.ru
-    port: 30000
-    password: e7965e64-e001-4e8c-8273-39c61ff4a094
-    skip-cert-verify: true
-    sni: bing.com
   - type: vless
     name: 英國
     server: ls-api.hyun.cc
@@ -1958,22 +635,6 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 01(TG:@tccjd)_7
-    server: 212.129.2.4
-    port: 33550
-    uuid: 3096e584-f1c9-4841-98a2-3a7bb06d0665
-    network: http
-    servername: tidal.com
-    tls: true
-    encryption: none
-    http-opts:
-      path: /github.com/Alvin9999
-    reality-opts:
-      public-key: GgKubkenTMtjJFyReTev4XoMBHNZVik9YBOiXbfXYCo
-      short-id: ce352eaf7159bdc4
-      spider-x: /
-    client-fingerprint: chrome
-  - type: vless
     name: 俄罗斯_4
     server: 77.110.119.225
     port: 443
@@ -2000,74 +661,6 @@ proxies:
       short-id: aabbccdd
     client-fingerprint: chrome
     flow: xtls-rprx-vision
-  - type: vmess
-    name: 美国_12
-    server: 2237-4Ce3-8698-CfD1B622333A.457.Pp.uA
-    port: 443
-    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 2237-4Ce3-8698-CFd1B622333A.457.PP.ua
-    tls: true
-  - type: vless
-    name: 德國_93
-    server: wangcai223.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
-    name: 美国_13
-    server: 479b-b511-7D5B7828DbEb.457.PP.ua
-    port: 443
-    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 479B-B511-7d5B7828DbEb.457.pp.UA
-    tls: true
-  - type: vmess
-    name: 美国_14
-    server: 4120-bE04-13eF56096989.457.pp.UA
-    port: 443
-    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 4120-Be04-13Ef56096989.457.PP.ua
-    tls: true
-  - type: vless
-    name: 德國_94
-    server: wangcai179.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
-    name: 美国_15
-    server: B70-B127-17F0Dc22455E.457.Pp.Ua
-    port: 443
-    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: b70-B127-17f0Dc22455E.457.pP.ua
-    tls: true
   - type: vless
     name: 哈薩克斯坦
     server: 151.236.93.102
@@ -2095,38 +688,8 @@ proxies:
       public-key: vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng
       short-id: 69a2
     client-fingerprint: chrome
-  - type: hysteria2
-    name: 美国_16
-    server: 62.72.163.251
-    port: 30102
-    password: 338ce171-d764-4610-8fd5-6688b0d321f0
-    skip-cert-verify: true
   - type: vless
-    name: 德國_95
-    server: wangcai21.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
-    name: 美国_17
-    server: 920a-4bcC-9a2D-57960603C7d9.457.Pp.UA
-    port: 443
-    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 920a-4bCc-9a2D-57960603c7D9.457.Pp.uA
-    tls: true
-  - type: vless
-    name: 德國_96
+    name: 德國_1
     server: 194.61.31.126
     port: 443
     uuid: 5f39f871-2fae-446e-99ad-719fa8be687c
@@ -2140,1369 +703,323 @@ proxies:
     grpc-opts:
       grpc-service-name: 78e691d782c9b9b2cd3c5621
     client-fingerprint: safari
-  - type: vless
-    name: 德國_97
-    server: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+  - type: trojan
+    name: 香港5|@ripaojiedian
+    server: 58.152.25.241
     port: 443
-    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
-    network: http
-    servername: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
     tls: true
-    encryption: none
-    http-opts:
-      path: /dgK6j67SvaPqspF7njNFy6
-      headers:
-        Host: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_98
-    server: 104.19.196.57
+  - type: trojan
+    name: 香港3|@ripaojiedian
+    server: 58.152.18.124
     port: 443
-    uuid: 0dbad6ba-be87-46e1-ab90-30c53ef1878d
-    network: http
-    servername: drive.speegy.club
+    password: dd2f25b4c70689de8bc0f7fa9d6591cb
+    network: tcp
+    sni: www.nintendogames.net
     tls: true
-    encryption: none
-    http-opts:
-      path: /sreztjsterw4j
-    client-fingerprint: chrome
-    alpn:
-      - h2
-  - type: vless
-    name: 德國_99
-    server: wangcai33.cloudflare.182682.xyz
+  - type: trojan
+    name: 🇭🇰 香港 电讯盈科有限公司
+    server: 219.79.165.55
     port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
     tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: US_1
-    server: speedtest.net
-    port: 80
-    uuid: 834d4207-c3bd-48ae-923f-e5df7fe3a71d
-    network: http
-    servername: coolpp_lool0909.global.ssl.fastly.net
-    encryption: none
-    http-opts:
-      path: /@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF?ed=2048
-      headers:
-        Host: coolpp_lool0909.global.ssl.fastly.net
-  - type: vmess
-    name: 美国_18
-    server: 920A-4bCC-9A2d-57960603c7D9.457.Pp.ua
+  - type: trojan
+    name: _CN_中国
+    server: 219.79.165.55
     port: 443
-    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 920a-4bcc-9a2d-57960603c7d9.457.pp.UA
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
     tls: true
-  - type: vmess
-    name: 美国_19
-    server: 479b-B511-7d5b7828dbeB.457.PP.ua
+  - type: trojan
+    name: 🇭🇰 香港5|@stairnode
+    server: 58.152.25.241
     port: 443
-    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 479B-b511-7d5b7828dbEB.457.Pp.uA
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
     tls: true
-  - type: vmess
-    name: 美国_20
-    server: 2237-4Ce3-8698-cfD1B622333a.457.Pp.ua
+  - type: trojan
+    name: 🇭🇰 香港3|@ripaojiedian
+    server: 58.152.18.124
     port: 443
-    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 2237-4CE3-8698-CFD1B622333A.457.pP.uA
+    password: dd2f25b4c70689de8bc0f7fa9d6591cb
+    network: tcp
+    sni: www.nintendogames.net
     tls: true
-  - type: vmess
-    name: 美国_21
-    server: 2237-4cE3-8698-cfD1b622333A.457.pp.uA
+  - type: trojan
+    name: 🇭🇰 香港5|@ripaojiedian
+    server: 58.152.25.241
     port: 443
-    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 2237-4CE3-8698-CFd1b622333a.457.pP.UA
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
     tls: true
-  - type: vless
-    name: 德國_100
-    server: 44ce-8817-7d9a13aa9eb0.457.pp.ua
+  - type: trojan
+    name: 🇭🇰 香港3|@stairnode
+    server: 58.152.18.124
     port: 443
-    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
-    network: http
-    servername: 44ce-8817-7d9a13aa9eb0.457.pp.ua
+    password: dd2f25b4c70689de8bc0f7fa9d6591cb
+    network: tcp
+    sni: www.nintendogames.net
     tls: true
-    encryption: none
-    http-opts:
-      path: /dgK6j67SvaPqspF7njNFy6
-      headers:
-        Host: 44ce-8817-7d9a13aa9eb0.457.pp.ua
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
-    name: 美国_22
-    server: 920a-4bCc-9a2D-57960603c7D9.457.pp.ua
+  - type: trojan
+    name: 香港3|@ripaojiedian_1
+    server: 58.152.18.124
     port: 443
-    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 920A-4Bcc-9a2D-57960603c7d9.457.PP.ua
+    password: dd2f25b4c70689de8bc0f7fa9d6591cb
+    network: tcp
+    sni: www.nintendogames.net
     tls: true
-  - type: vless
-    name: 德國_101
-    server: wangcai125.cloudflare.182682.xyz
+  - type: trojan
+    name: 香港5|@ripaojiedian_1
+    server: 58.152.25.241
     port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
     tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_102
-    server: wangcai196.000444.cn
+  - type: trojan
+    name: 香港
+    server: 219.79.165.55
     port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
     tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_103
-    server: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+  - type: trojan
+    name: 香港_1
+    server: 219.79.165.55
     port: 443
-    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
-    network: http
-    servername: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
     tls: true
-    encryption: none
-    http-opts:
-      path: /dgK6j67SvaPqspF7njNFy6
-      headers:
-        Host: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
-    name: 美国_23
-    server: 7eBc-47EA-84f0-EBcFbEF3329b.457.Pp.ua
-    port: 443
-    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 7EBc-47ea-84F0-EbCFbEf3329b.457.pP.ua
-    tls: true
-  - type: vmess
-    name: 美国_24
-    server: 44ce-8817-7d9a13aa9eb0.457.pp.ua
-    port: 443
-    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 44ce-8817-7d9a13aa9eb0.457.pp.ua
-    tls: true
-  - type: vless
-    name: 德國_104
-    server: wangcai93.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
-    name: 美国_25
-    server: 49b1-A868-94bD7631Bf5b.457.pP.ua
-    port: 443
-    uuid: a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 49B1-A868-94bd7631bf5b.457.PP.Ua
-    tls: true
-  - type: vless
-    name: 德國_105
-    server: wangcai61.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_106
-    server: wangcai180.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_107
-    server: wangcai172.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_108
-    server: 104.21.48.1
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_109
-    server: wangcai215.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_110
-    server: wangcai102.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_111
-    server: wangcai88.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
+  - type: hysteria2
     name: 美国_26
-    server: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
-    port: 443
-    uuid: 75b55ef6-7a78-4020-8540-df4e1a533895
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
-    tls: true
-  - type: vless
-    name: 德國_112
-    server: wangcai83.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
+    server: 62.72.163.251
+    port: 30102
+    password: 338ce171-d764-4610-8fd5-6688b0d321f0
+    skip-cert-verify: true
+  - type: hysteria2
+    name: 法國
+    server: 195.154.206.231
+    port: 33880
+    password: dongtaiwang.com
     alpn:
       - h3
-  - type: vless
-    name: 德國_113
-    server: wangcai98.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_114
-    server: wangcai27.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_115
-    server: wangcai135.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_116
-    server: wangcai91.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_117
-    server: wangcai248.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_118
-    server: wangcai149.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_119
-    server: wangcai238.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_120
-    server: wangcai109.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_121
-    server: wangcai76.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_122
-    server: wangcai59.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_123
-    server: wangcai130.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_124
-    server: wangcai36.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_125
-    server: wangcai101.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_126
-    server: wangcai202.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_127
-    server: wangcai214.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_128
-    server: wangcai212.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_129
-    server: wangcai14.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_130
-    server: wangcai70.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_131
-    server: wangcai17.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_132
-    server: wangcai177.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_133
-    server: wangcai19.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vmess
+    skip-cert-verify: true
+    sni: apple.com
+  - type: hysteria2
+    name: 法國_1
+    server: 195.154.206.231
+    port: 33880
+    password: dongtaiwang.com
+    skip-cert-verify: true
+    sni: apple.com
+  - type: hysteria2
+    name: 英国
+    server: de1.oomz.ru
+    port: 30000
+    password: e7965e64-e001-4e8c-8273-39c61ff4a094
+    skip-cert-verify: true
+    sni: bing.com
+  - type: hysteria2
+    name: US
+    server: 74.48.56.139
+    port: 30102
+    password: 338ce171-d764-4610-8fd5-6688b0d321f0
+    skip-cert-verify: true
+  - type: hysteria2
+    name: 英国_1
+    server: de1.oomz.ru
+    port: 30000
+    password: e7965e64-e001-4e8c-8273-39c61ff4a094
+    skip-cert-verify: true
+    sni: bing.com
+  - type: hysteria2
     name: 美国_27
-    server: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
-    port: 443
-    uuid: 0cd3c9d1-68e5-4917-8a0a-c62f1a52de56
-    alterId: 0
-    network: xhttp
-    cipher: auto
-    servername: 4cc8-a2d8-a34a20d2e7e5.457.pp.ua
-    tls: true
-  - type: vless
-    name: 德國_134
-    server: wangcai50.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_135
-    server: wangcai225.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_136
-    server: wangcai100.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_137
-    server: wangcai117.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_138
-    server: wangcai0.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_139
-    server: wangcai165.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_140
-    server: wangcai203.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_141
-    server: wangcai10.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_142
-    server: wangcai62.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_143
-    server: wangcai173.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_144
-    server: wangcai220.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_145
-    server: wangcai66.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_146
-    server: wangcai132.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_147
-    server: wangcai24.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_148
-    server: wangcai246.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_149
-    server: wangcai139.cloudflare.182682.xyz
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_150
-    server: wangcai210.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
-  - type: vless
-    name: 德國_151
-    server: wangcai252.000444.cn
-    port: 443
-    uuid: 9d847ad3-1896-48f9-b89c-13fe345e2bff
-    network: http
-    servername: cho.chonon.sbs
-    tls: true
-    encryption: none
-    http-opts:
-      path: /gdsthjjjvfxsstyy؟ed=443
-    client-fingerprint: chrome
-    alpn:
-      - h3
+    server: 62.72.163.251
+    port: 30102
+    password: 338ce171-d764-4610-8fd5-6688b0d321f0
+    skip-cert-verify: true
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇯🇵 日本4|@ripaojiedian
-      - 香港5|@ripaojiedian
-      - 香港3|@ripaojiedian
-      - 🇭🇰 香港 33
-      - 🇰🇷 韩国 02
-      - 01(TG:@tccjd)
-      - 亚太地区 V2CROSS.COM
-      - 🇭🇰 香港 电讯盈科有限公司
-      - _CN_中国
-      - 🇭🇰 香港5|@stairnode
-      - 🇭🇰 香港3|@ripaojiedian
-      - 02(TG:@tccjd)
-      - 🇭🇰 香港5|@ripaojiedian
-      - 🇯🇵 日本4|@stairnode
-      - 🇯🇵 日本4|@ripaojiedian_1
-      - 🇭🇰 香港3|@stairnode
-      - 香港3|@ripaojiedian_1
-      - 香港5|@ripaojiedian_1
-      - 01(TG:@tccjd)_1
-      - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 01(TG:@tccjd)_3
-      - 02(TG:@tccjd)_2
-      - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
       - 美国
       - 美国_1
       - 美国_2
       - 美国_3
       - 美国_4
-      - 德国
-      - 德國
-      - 哈萨克斯坦
-      - 法國
-      - 法國_1
-      - 俄罗斯
-      - 02(TG:@tccjd)_3
-      - 俄罗斯_1
-      - 加拿大
-      - 俄罗斯_2
-      - 英国
       - 美国_5
       - 美国_6
       - 美国_7
-      - 01(TG:@tccjd)_6
       - 美国_8
-      - 香港
-      - 德國_1
-      - 德國_2
-      - 德國_3
       - 美国_9
-      - 德國_4
-      - 德國_5
-      - 德國_6
-      - 德國_7
-      - 德國_8
-      - 德國_9
-      - 德國_10
-      - 德國_11
-      - 德國_12
-      - 德國_13
-      - 德國_14
-      - 德國_15
-      - 德國_16
-      - 德國_17
-      - 德國_18
-      - 德國_19
-      - 德國_20
-      - 德國_21
-      - 德國_22
-      - 德國_23
-      - 德國_24
-      - 德國_25
-      - 德國_26
-      - 德國_27
-      - 德國_28
-      - 德國_29
-      - 德國_30
       - 美国_10
-      - 德國_31
-      - 德國_32
-      - 德國_33
-      - 德國_34
-      - 德國_35
-      - 德國_36
-      - 德國_37
-      - 德國_38
-      - 德國_39
-      - 德國_40
-      - 德國_41
-      - 德國_42
-      - 德國_43
-      - 德國_44
-      - 德國_45
-      - 德國_46
-      - 德國_47
-      - 德國_48
-      - 德國_49
-      - 德國_50
-      - 德國_51
-      - 德國_52
-      - 德國_53
-      - 德國_54
-      - 德國_55
-      - 德國_56
-      - 德國_57
-      - 德國_58
-      - 德國_59
-      - 德國_60
-      - 德國_61
-      - 德國_62
-      - 德國_63
-      - 德國_64
-      - 德國_65
-      - 德國_66
-      - 德國_67
-      - 德國_68
-      - 德國_69
-      - 德國_70
-      - 德國_71
-      - 德國_72
-      - 德國_73
-      - 德國_74
-      - 德國_75
-      - 德國_76
-      - 德國_77
-      - 德國_78
-      - 德國_79
-      - 德國_80
-      - 德國_81
-      - 德國_82
-      - 德國_83
-      - 德國_84
-      - 德國_85
-      - 德國_86
-      - 德國_87
-      - 德國_88
-      - 德國_89
-      - 德國_90
-      - 德國_91
-      - 德國_92
-      - 香港_1
       - 美国_11
-      - US
-      - 德国_1
-      - 英国_1
-      - 英國
-      - 加拿大_1
-      - 俄罗斯_3
-      - 01(TG:@tccjd)_7
-      - 俄罗斯_4
-      - 伊朗
       - 美国_12
-      - 德國_93
       - 美国_13
       - 美国_14
-      - 德國_94
       - 美国_15
-      - 哈薩克斯坦
-      - 哈薩克斯坦_1
       - 美国_16
-      - 德國_95
       - 美国_17
-      - 德國_96
-      - 德國_97
-      - 德國_98
-      - 德國_99
-      - US_1
       - 美国_18
       - 美国_19
       - 美国_20
+      - 🇯🇵 日本4|@ripaojiedian
+      - 🇭🇰 香港 33
+      - 亚太地区 V2CROSS.COM
+      - 🇯🇵 日本4|@stairnode
+      - 🇯🇵 日本4|@ripaojiedian_1
+      - 01(TG:@tccjd)
       - 美国_21
-      - 德國_100
       - 美国_22
-      - 德國_101
-      - 德國_102
-      - 德國_103
+      - 🇰🇷 韩国 02
+      - 01(TG:@tccjd)_1
+      - 02(TG:@tccjd)
+      - 01(TG:@tccjd)_2
+      - 02(TG:@tccjd)_1
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 01(TG:@tccjd)_3
+      - 02(TG:@tccjd)_2
+      - 01(TG:@tccjd)_4
+      - 德国
+      - 德國
+      - 哈萨克斯坦
+      - 俄罗斯
+      - 俄罗斯_1
+      - 加拿大
+      - 俄罗斯_2
       - 美国_23
       - 美国_24
-      - 德國_104
       - 美国_25
-      - 德國_105
-      - 德國_106
-      - 德國_107
-      - 德國_108
-      - 德國_109
-      - 德國_110
-      - 德國_111
+      - 01(TG:@tccjd)_5
+      - 德国_1
+      - 英國
+      - 加拿大_1
+      - 俄罗斯_3
+      - 俄罗斯_4
+      - 伊朗
+      - 哈薩克斯坦
+      - 哈薩克斯坦_1
+      - 德國_1
+      - 香港5|@ripaojiedian
+      - 香港3|@ripaojiedian
+      - 🇭🇰 香港 电讯盈科有限公司
+      - _CN_中国
+      - 🇭🇰 香港5|@stairnode
+      - 🇭🇰 香港3|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
+      - 🇭🇰 香港3|@stairnode
+      - 香港3|@ripaojiedian_1
+      - 香港5|@ripaojiedian_1
+      - 香港
+      - 香港_1
       - 美国_26
-      - 德國_112
-      - 德國_113
-      - 德國_114
-      - 德國_115
-      - 德國_116
-      - 德國_117
-      - 德國_118
-      - 德國_119
-      - 德國_120
-      - 德國_121
-      - 德國_122
-      - 德國_123
-      - 德國_124
-      - 德國_125
-      - 德國_126
-      - 德國_127
-      - 德國_128
-      - 德國_129
-      - 德國_130
-      - 德國_131
-      - 德國_132
-      - 德國_133
+      - 法國
+      - 法國_1
+      - 英国
+      - US
+      - 英国_1
       - 美国_27
-      - 德國_134
-      - 德國_135
-      - 德國_136
-      - 德國_137
-      - 德國_138
-      - 德國_139
-      - 德國_140
-      - 德國_141
-      - 德國_142
-      - 德國_143
-      - 德國_144
-      - 德國_145
-      - 德國_146
-      - 德國_147
-      - 德國_148
-      - 德國_149
-      - 德國_150
-      - 德國_151
   - name: ♻️ 自动选择
     type: url-test
     proxies:
-      - 🇯🇵 日本4|@ripaojiedian
-      - 香港5|@ripaojiedian
-      - 香港3|@ripaojiedian
-      - 🇭🇰 香港 33
-      - 🇰🇷 韩国 02
-      - 01(TG:@tccjd)
-      - 亚太地区 V2CROSS.COM
-      - 🇭🇰 香港 电讯盈科有限公司
-      - _CN_中国
-      - 🇭🇰 香港5|@stairnode
-      - 🇭🇰 香港3|@ripaojiedian
-      - 02(TG:@tccjd)
-      - 🇭🇰 香港5|@ripaojiedian
-      - 🇯🇵 日本4|@stairnode
-      - 🇯🇵 日本4|@ripaojiedian_1
-      - 🇭🇰 香港3|@stairnode
-      - 香港3|@ripaojiedian_1
-      - 香港5|@ripaojiedian_1
-      - 01(TG:@tccjd)_1
-      - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 01(TG:@tccjd)_3
-      - 02(TG:@tccjd)_2
-      - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
       - 美国
       - 美国_1
       - 美国_2
       - 美国_3
       - 美国_4
-      - 德国
-      - 德國
-      - 哈萨克斯坦
-      - 法國
-      - 法國_1
-      - 俄罗斯
-      - 02(TG:@tccjd)_3
-      - 俄罗斯_1
-      - 加拿大
-      - 俄罗斯_2
-      - 英国
       - 美国_5
       - 美国_6
       - 美国_7
-      - 01(TG:@tccjd)_6
       - 美国_8
-      - 香港
-      - 德國_1
-      - 德國_2
-      - 德國_3
       - 美国_9
-      - 德國_4
-      - 德國_5
-      - 德國_6
-      - 德國_7
-      - 德國_8
-      - 德國_9
-      - 德國_10
-      - 德國_11
-      - 德國_12
-      - 德國_13
-      - 德國_14
-      - 德國_15
-      - 德國_16
-      - 德國_17
-      - 德國_18
-      - 德國_19
-      - 德國_20
-      - 德國_21
-      - 德國_22
-      - 德國_23
-      - 德國_24
-      - 德國_25
-      - 德國_26
-      - 德國_27
-      - 德國_28
-      - 德國_29
-      - 德國_30
       - 美国_10
-      - 德國_31
-      - 德國_32
-      - 德國_33
-      - 德國_34
-      - 德國_35
-      - 德國_36
-      - 德國_37
-      - 德國_38
-      - 德國_39
-      - 德國_40
-      - 德國_41
-      - 德國_42
-      - 德國_43
-      - 德國_44
-      - 德國_45
-      - 德國_46
-      - 德國_47
-      - 德國_48
-      - 德國_49
-      - 德國_50
-      - 德國_51
-      - 德國_52
-      - 德國_53
-      - 德國_54
-      - 德國_55
-      - 德國_56
-      - 德國_57
-      - 德國_58
-      - 德國_59
-      - 德國_60
-      - 德國_61
-      - 德國_62
-      - 德國_63
-      - 德國_64
-      - 德國_65
-      - 德國_66
-      - 德國_67
-      - 德國_68
-      - 德國_69
-      - 德國_70
-      - 德國_71
-      - 德國_72
-      - 德國_73
-      - 德國_74
-      - 德國_75
-      - 德國_76
-      - 德國_77
-      - 德國_78
-      - 德國_79
-      - 德國_80
-      - 德國_81
-      - 德國_82
-      - 德國_83
-      - 德國_84
-      - 德國_85
-      - 德國_86
-      - 德國_87
-      - 德國_88
-      - 德國_89
-      - 德國_90
-      - 德國_91
-      - 德國_92
-      - 香港_1
       - 美国_11
-      - US
-      - 德国_1
-      - 英国_1
-      - 英國
-      - 加拿大_1
-      - 俄罗斯_3
-      - 01(TG:@tccjd)_7
-      - 俄罗斯_4
-      - 伊朗
       - 美国_12
-      - 德國_93
       - 美国_13
       - 美国_14
-      - 德國_94
       - 美国_15
-      - 哈薩克斯坦
-      - 哈薩克斯坦_1
       - 美国_16
-      - 德國_95
       - 美国_17
-      - 德國_96
-      - 德國_97
-      - 德國_98
-      - 德國_99
-      - US_1
       - 美国_18
       - 美国_19
       - 美国_20
+      - 🇯🇵 日本4|@ripaojiedian
+      - 🇭🇰 香港 33
+      - 亚太地区 V2CROSS.COM
+      - 🇯🇵 日本4|@stairnode
+      - 🇯🇵 日本4|@ripaojiedian_1
+      - 01(TG:@tccjd)
       - 美国_21
-      - 德國_100
       - 美国_22
-      - 德國_101
-      - 德國_102
-      - 德國_103
+      - 🇰🇷 韩国 02
+      - 01(TG:@tccjd)_1
+      - 02(TG:@tccjd)
+      - 01(TG:@tccjd)_2
+      - 02(TG:@tccjd)_1
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 01(TG:@tccjd)_3
+      - 02(TG:@tccjd)_2
+      - 01(TG:@tccjd)_4
+      - 德国
+      - 德國
+      - 哈萨克斯坦
+      - 俄罗斯
+      - 俄罗斯_1
+      - 加拿大
+      - 俄罗斯_2
       - 美国_23
       - 美国_24
-      - 德國_104
       - 美国_25
-      - 德國_105
-      - 德國_106
-      - 德國_107
-      - 德國_108
-      - 德國_109
-      - 德國_110
-      - 德國_111
+      - 01(TG:@tccjd)_5
+      - 德国_1
+      - 英國
+      - 加拿大_1
+      - 俄罗斯_3
+      - 俄罗斯_4
+      - 伊朗
+      - 哈薩克斯坦
+      - 哈薩克斯坦_1
+      - 德國_1
+      - 香港5|@ripaojiedian
+      - 香港3|@ripaojiedian
+      - 🇭🇰 香港 电讯盈科有限公司
+      - _CN_中国
+      - 🇭🇰 香港5|@stairnode
+      - 🇭🇰 香港3|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
+      - 🇭🇰 香港3|@stairnode
+      - 香港3|@ripaojiedian_1
+      - 香港5|@ripaojiedian_1
+      - 香港
+      - 香港_1
       - 美国_26
-      - 德國_112
-      - 德國_113
-      - 德國_114
-      - 德國_115
-      - 德國_116
-      - 德國_117
-      - 德國_118
-      - 德國_119
-      - 德國_120
-      - 德國_121
-      - 德國_122
-      - 德國_123
-      - 德國_124
-      - 德國_125
-      - 德國_126
-      - 德國_127
-      - 德國_128
-      - 德國_129
-      - 德國_130
-      - 德國_131
-      - 德國_132
-      - 德國_133
+      - 法國
+      - 法國_1
+      - 英国
+      - US
+      - 英国_1
       - 美国_27
-      - 德國_134
-      - 德國_135
-      - 德國_136
-      - 德國_137
-      - 德國_138
-      - 德國_139
-      - 德國_140
-      - 德國_141
-      - 德國_142
-      - 德國_143
-      - 德國_144
-      - 德國_145
-      - 德國_146
-      - 德國_147
-      - 德國_148
-      - 德國_149
-      - 德國_150
-      - 德國_151
     url: http://www.gstatic.com/generate_204
     interval: 300
   - name: 🎯 全球直连
@@ -3522,239 +1039,84 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇯🇵 日本4|@ripaojiedian
-      - 香港5|@ripaojiedian
-      - 香港3|@ripaojiedian
-      - 🇭🇰 香港 33
-      - 🇰🇷 韩国 02
-      - 01(TG:@tccjd)
-      - 亚太地区 V2CROSS.COM
-      - 🇭🇰 香港 电讯盈科有限公司
-      - _CN_中国
-      - 🇭🇰 香港5|@stairnode
-      - 🇭🇰 香港3|@ripaojiedian
-      - 02(TG:@tccjd)
-      - 🇭🇰 香港5|@ripaojiedian
-      - 🇯🇵 日本4|@stairnode
-      - 🇯🇵 日本4|@ripaojiedian_1
-      - 🇭🇰 香港3|@stairnode
-      - 香港3|@ripaojiedian_1
-      - 香港5|@ripaojiedian_1
-      - 01(TG:@tccjd)_1
-      - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 01(TG:@tccjd)_3
-      - 02(TG:@tccjd)_2
-      - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
       - 美国
       - 美国_1
       - 美国_2
       - 美国_3
       - 美国_4
-      - 德国
-      - 德國
-      - 哈萨克斯坦
-      - 法國
-      - 法國_1
-      - 俄罗斯
-      - 02(TG:@tccjd)_3
-      - 俄罗斯_1
-      - 加拿大
-      - 俄罗斯_2
-      - 英国
       - 美国_5
       - 美国_6
       - 美国_7
-      - 01(TG:@tccjd)_6
       - 美国_8
-      - 香港
-      - 德國_1
-      - 德國_2
-      - 德國_3
       - 美国_9
-      - 德國_4
-      - 德國_5
-      - 德國_6
-      - 德國_7
-      - 德國_8
-      - 德國_9
-      - 德國_10
-      - 德國_11
-      - 德國_12
-      - 德國_13
-      - 德國_14
-      - 德國_15
-      - 德國_16
-      - 德國_17
-      - 德國_18
-      - 德國_19
-      - 德國_20
-      - 德國_21
-      - 德國_22
-      - 德國_23
-      - 德國_24
-      - 德國_25
-      - 德國_26
-      - 德國_27
-      - 德國_28
-      - 德國_29
-      - 德國_30
       - 美国_10
-      - 德國_31
-      - 德國_32
-      - 德國_33
-      - 德國_34
-      - 德國_35
-      - 德國_36
-      - 德國_37
-      - 德國_38
-      - 德國_39
-      - 德國_40
-      - 德國_41
-      - 德國_42
-      - 德國_43
-      - 德國_44
-      - 德國_45
-      - 德國_46
-      - 德國_47
-      - 德國_48
-      - 德國_49
-      - 德國_50
-      - 德國_51
-      - 德國_52
-      - 德國_53
-      - 德國_54
-      - 德國_55
-      - 德國_56
-      - 德國_57
-      - 德國_58
-      - 德國_59
-      - 德國_60
-      - 德國_61
-      - 德國_62
-      - 德國_63
-      - 德國_64
-      - 德國_65
-      - 德國_66
-      - 德國_67
-      - 德國_68
-      - 德國_69
-      - 德國_70
-      - 德國_71
-      - 德國_72
-      - 德國_73
-      - 德國_74
-      - 德國_75
-      - 德國_76
-      - 德國_77
-      - 德國_78
-      - 德國_79
-      - 德國_80
-      - 德國_81
-      - 德國_82
-      - 德國_83
-      - 德國_84
-      - 德國_85
-      - 德國_86
-      - 德國_87
-      - 德國_88
-      - 德國_89
-      - 德國_90
-      - 德國_91
-      - 德國_92
-      - 香港_1
       - 美国_11
-      - US
-      - 德国_1
-      - 英国_1
-      - 英國
-      - 加拿大_1
-      - 俄罗斯_3
-      - 01(TG:@tccjd)_7
-      - 俄罗斯_4
-      - 伊朗
       - 美国_12
-      - 德國_93
       - 美国_13
       - 美国_14
-      - 德國_94
       - 美国_15
-      - 哈薩克斯坦
-      - 哈薩克斯坦_1
       - 美国_16
-      - 德國_95
       - 美国_17
-      - 德國_96
-      - 德國_97
-      - 德國_98
-      - 德國_99
-      - US_1
       - 美国_18
       - 美国_19
       - 美国_20
+      - 🇯🇵 日本4|@ripaojiedian
+      - 🇭🇰 香港 33
+      - 亚太地区 V2CROSS.COM
+      - 🇯🇵 日本4|@stairnode
+      - 🇯🇵 日本4|@ripaojiedian_1
+      - 01(TG:@tccjd)
       - 美国_21
-      - 德國_100
       - 美国_22
-      - 德國_101
-      - 德國_102
-      - 德國_103
+      - 🇰🇷 韩国 02
+      - 01(TG:@tccjd)_1
+      - 02(TG:@tccjd)
+      - 01(TG:@tccjd)_2
+      - 02(TG:@tccjd)_1
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 01(TG:@tccjd)_3
+      - 02(TG:@tccjd)_2
+      - 01(TG:@tccjd)_4
+      - 德国
+      - 德國
+      - 哈萨克斯坦
+      - 俄罗斯
+      - 俄罗斯_1
+      - 加拿大
+      - 俄罗斯_2
       - 美国_23
       - 美国_24
-      - 德國_104
       - 美国_25
-      - 德國_105
-      - 德國_106
-      - 德國_107
-      - 德國_108
-      - 德國_109
-      - 德國_110
-      - 德國_111
+      - 01(TG:@tccjd)_5
+      - 德国_1
+      - 英國
+      - 加拿大_1
+      - 俄罗斯_3
+      - 俄罗斯_4
+      - 伊朗
+      - 哈薩克斯坦
+      - 哈薩克斯坦_1
+      - 德國_1
+      - 香港5|@ripaojiedian
+      - 香港3|@ripaojiedian
+      - 🇭🇰 香港 电讯盈科有限公司
+      - _CN_中国
+      - 🇭🇰 香港5|@stairnode
+      - 🇭🇰 香港3|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
+      - 🇭🇰 香港3|@stairnode
+      - 香港3|@ripaojiedian_1
+      - 香港5|@ripaojiedian_1
+      - 香港
+      - 香港_1
       - 美国_26
-      - 德國_112
-      - 德國_113
-      - 德國_114
-      - 德國_115
-      - 德國_116
-      - 德國_117
-      - 德國_118
-      - 德國_119
-      - 德國_120
-      - 德國_121
-      - 德國_122
-      - 德國_123
-      - 德國_124
-      - 德國_125
-      - 德國_126
-      - 德國_127
-      - 德國_128
-      - 德國_129
-      - 德國_130
-      - 德國_131
-      - 德國_132
-      - 德國_133
+      - 法國
+      - 法國_1
+      - 英国
+      - US
+      - 英国_1
       - 美国_27
-      - 德國_134
-      - 德國_135
-      - 德國_136
-      - 德國_137
-      - 德國_138
-      - 德國_139
-      - 德國_140
-      - 德國_141
-      - 德國_142
-      - 德國_143
-      - 德國_144
-      - 德國_145
-      - 德國_146
-      - 德國_147
-      - 德國_148
-      - 德國_149
-      - 德國_150
-      - 德國_151
 rule-providers:
   LocalAreaNetwork:
     type: http
