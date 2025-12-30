@@ -53,6 +53,251 @@ tun:
 
 
 proxies:
+  - type: vmess
+    name: 🇺🇸 美国4|@ripaojiedian
+    server: 82.198.246.97
+    port: 180
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+    alterId: 0
+    network: tcp
+    cipher: auto
+  - type: vmess
+    name: 03(TG:@tccjd)
+    server: 82.198.246.97
+    port: 180
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+    alterId: 0
+    network: tcp
+    cipher: auto
+  - type: vmess
+    name: 04(TG:@tccjd)
+    server: 82.198.246.97
+    port: 180
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+    alterId: 0
+    network: tcp
+    cipher: auto
+  - type: vmess
+    name: 05(TG:@tccjd)
+    server: 82.198.246.97
+    port: 180
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: img14.360buyimg.com
+  - type: vmess
+    name: 美国
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: 4120-BE04-13ef56096989.457.PP.ua
+  - type: vmess
+    name: 美国_1
+    server: 202.85.53.179
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: 08071ec6f38bfb263ee89b1bb0c3ca1b.mobgslb.tbcache.com
+  - type: vmess
+    name: 美国_2
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: t.me%2Fripaojiedian
+  - type: vmess
+    name: 美国_3
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: www.bing.com
+  - type: vmess
+    name: 美国_4
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: one.cf.cdn.hyli.xyz
+  - type: vmess
+    name: 美国_5
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: 2001:bc8:32d7:302::10
+  - type: vmess
+    name: 美国_6
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: dDdCCVFg.922922.SHOP
+  - type: vmess
+    name: 美国_7
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: mfyousheng.nl.eu.org
+  - type: vmess
+    name: 美国_8
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: 5e4f31de-sv0xs0-sv0wpw-17xo8.hk3.p5pv.com
+  - type: vmess
+    name: 美国_9
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: 4bb6-B667-F88608d19FD5.664.QZz.IO
+  - type: vmess
+    name: 美国_10
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: sssssssxxxx.2032.pp.ua
+  - type: vmess
+    name: 美国_11
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: t.me%252Fripaojiedian
+  - type: vmess
+    name: 美国_12
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: green2.cdntencentmusic.com
+  - type: vmess
+    name: 美国_13
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: asuka.0061.my
+  - type: vmess
+    name: 美国_14
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: t.me/ripaojiedian
+  - type: vmess
+    name: 美国_15
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: n1744454498.lie5d.cyou
+  - type: vmess
+    name: 美国_16
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: ddDFHhj.922922.Shop
+  - type: vmess
+    name: 美国_17
+    server: v12.hdacd.com
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+  - type: vmess
+    name: 美国_18
+    server: 202.85.53.179
+    port: 30812
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    network: tcp
+    cipher: auto
+    servername: 202.85.53.179
+  - type: ss
+    name: 11(TG:@tccjd)
+    server: 144.31.84.76
+    port: 2050
+    cipher: chacha20-ietf-poly1305
+    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
+  - type: ss
+    name: 12(TG:@tccjd)
+    server: 144.31.84.76
+    port: 2050
+    cipher: chacha20-ietf-poly1305
+    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
+  - type: ss
+    name: 13(TG:@tccjd)
+    server: 144.31.84.76
+    port: 2050
+    cipher: chacha20-ietf-poly1305
+    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
+  - type: ss
+    name: 01(TG:@tccjd)
+    server: 62.133.63.154
+    port: 20255
+    cipher: chacha20-ietf-poly1305
+    password: ZFqZH1cIw5jPRChWxlX36F
+  - type: ss
+    name: 德國
+    server: 144.31.84.76
+    port: 2050
+    cipher: chacha20-ietf-poly1305
+    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
+  - type: ss
+    name: 德國_1
+    server: 144.31.84.76
+    port: 2050
+    cipher: chacha20-ietf-poly1305
+    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
+  - type: ss
+    name: 美國
+    server: 144.31.84.76
+    port: 2050
+    cipher: chacha20-ietf-poly1305
+    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
   - type: vless
     name: defaultName
     server: 190.93.245.23
@@ -81,23 +326,8 @@ proxies:
       headers:
         Host: 3-27-6rr.pages.dev
     client-fingerprint: random
-  - type: hysteria2
-    name: 🇹🇼 🇨🇳 台湾 | TWN
-    server: zz.9966663.xyz
-    port: 50020
-    password: c8962740-02d1-4d3f-ba03-cad8e801c600
-    skip-cert-verify: true
-    sni: do-vnyear.9966663.xyz
-  - type: trojan
-    name: 🇭🇰 香港3|@stairnode
-    server: 58.152.18.48
-    port: 443
-    password: f36f4495b4b26cc2fe346cfa23e05b1b
-    network: tcp
-    sni: www.nintendogames.net
-    tls: true
   - type: vless
-    name: 01(TG:@tccjd)
+    name: 01(TG:@tccjd)_1
     server: www.wto.org
     port: 2095
     uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
@@ -108,14 +338,6 @@ proxies:
       path: /
       headers:
         Host: fuckingfangbinxing.pusytroller.cf
-  - type: vmess
-    name: 🇺🇸 美国4|@ripaojiedian
-    server: 82.198.246.97
-    port: 180
-    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-    alterId: 0
-    network: tcp
-    cipher: auto
   - type: vless
     name: defaultName_2
     server: notion.site
@@ -130,17 +352,8 @@ proxies:
       headers:
         Host: sni.111000.dynv6.net
     client-fingerprint: chrome
-  - type: trojan
-    name: 🇭🇰 香港4|@stairnode
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
   - type: vless
-    name: 03(TG:@tccjd)
+    name: 03(TG:@tccjd)_1
     server: 185.92.183.112
     port: 443
     uuid: eb162ab1-a006-4931-b1b3-8fc88a22b10e
@@ -152,16 +365,8 @@ proxies:
       public-key: aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY
     client-fingerprint: chrome
     flow: xtls-rprx-vision
-  - type: trojan
-    name: 🇭🇰 香港3|@ripaojiedian
-    server: 58.152.18.48
-    port: 443
-    password: f36f4495b4b26cc2fe346cfa23e05b1b
-    network: tcp
-    sni: www.nintendogames.net
-    tls: true
   - type: vless
-    name: 04(TG:@tccjd)
+    name: 04(TG:@tccjd)_1
     server: 144.124.228.129
     port: 4443
     uuid: ddffda27-8c5f-4f53-8450-4d11a1e0b368
@@ -174,17 +379,8 @@ proxies:
       short-id: aa7e96542880027a
     client-fingerprint: chrome
     flow: xtls-rprx-vision
-  - type: trojan
-    name: 🇭🇰 香港 电讯盈科有限公司
-    server: 203.198.84.221
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
   - type: vless
-    name: 05(TG:@tccjd)
+    name: 05(TG:@tccjd)_1
     server: tbankru.outlinekeys.net
     port: 443
     uuid: eb162ab1-a006-4931-b1b3-8fc88a22b10e
@@ -209,34 +405,6 @@ proxies:
       headers:
         Host: azizoarjmand.info
     client-fingerprint: chrome
-  - type: vless
-    name: 07(TG:@tccjd)
-    server: plb.tunnelguard.ru
-    port: 443
-    uuid: 195573b7-ea63-485e-b2a5-58dd7bbfc9f7
-    network: http
-    servername: plb.tunnelguard.ru
-    tls: true
-    encryption: none
-    http-opts:
-      path: /
-    alpn:
-      - h2
-      - http/1.1
-  - type: vless
-    name: 08(TG:@tccjd)
-    server: plb.tunnelguard.ru
-    port: 443
-    uuid: 195573b7-ea63-485e-b2a5-58dd7bbfc9f7
-    network: http
-    servername: plb.tunnelguard.ru
-    tls: true
-    encryption: none
-    http-opts:
-      path: /
-    alpn:
-      - h2
-      - http/1.1
   - type: vless
     name: 09(TG:@tccjd)
     server: 51.250.25.119
@@ -265,7 +433,7 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 11(TG:@tccjd)
+    name: 11(TG:@tccjd)_1
     server: 51.250.104.85
     port: 1488
     uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
@@ -279,7 +447,7 @@ proxies:
     client-fingerprint: chrome
     flow: xtls-rprx-vision
   - type: vless
-    name: 12(TG:@tccjd)
+    name: 12(TG:@tccjd)_1
     server: 172.66.40.99
     port: 80
     uuid: 3694b5d0-31d3-471f-9c2a-49924cec748f
@@ -291,7 +459,7 @@ proxies:
       headers:
         Host: websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.Shahin.vegaskala.com.
   - type: vless
-    name: 13(TG:@tccjd)
+    name: 13(TG:@tccjd)_1
     server: 89.169.137.193
     port: 443
     uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
@@ -372,6 +540,708 @@ proxies:
       spider-x: /
     client-fingerprint: chrome
     flow: xtls-rprx-vision
+  - type: vless
+    name: 05(TG:@tccjd)_2
+    server: arshiavpn.sefryasad.ir
+    port: 31095
+    uuid: 0fe18ae6-003c-49c4-9a19-894a26a6b3a9
+    network: grpc
+    servername: refersion.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: MhGXsOSUcvAVD7M1AHbHWFrV9EMbg1c7iuB_CiHNfwU
+      short-id: 5f1e
+      spider-x: /
+    grpc-opts:
+      grpc-service-name: Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12
+      grpc-authority: "@Arshiavpn12"
+    client-fingerprint: chrome
+  - type: vless
+    name: 01(TG:@tccjd)_2
+    server: 104.19.113.54
+    port: 80
+    uuid: 29187857-4a1f-4d1e-88eb-0016771e0dbb
+    network: ws
+    servername: vless.hubp.de
+    encryption: none
+    ws-opts:
+      path: t.me/v2Line
+      headers:
+        Host: vless.hubp.de
+    client-fingerprint: chrome
+    alpn:
+      - h2
+      - http/1.1
+  - type: vless
+    name: defaultName_3
+    server: 77.37.33.169
+    port: 80
+    uuid: 29187857-4a1f-4d1e-88eb-0016771e0dbb
+    network: ws
+    servername: vless.hubp.de
+    encryption: none
+    ws-opts:
+      path: /
+      headers:
+        Host: vless.hubp.de
+    client-fingerprint: chrome
+    alpn:
+      - h2
+      - http/1.1
+  - type: vless
+    name: defaultName_4
+    server: 104.19.113.54
+    port: 80
+    uuid: 29187857-4a1f-4d1e-88eb-0016771e0dbb
+    network: ws
+    servername: vless.hubp.de
+    encryption: none
+    ws-opts:
+      path: /
+      headers:
+        Host: vless.hubp.de
+    client-fingerprint: chrome
+    alpn:
+      - h2
+      - http/1.1
+  - type: vless
+    name: 04(TG:@tccjd)_2
+    server: 89.169.137.193
+    port: 443
+    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
+      short-id: d1579a8745398e34
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 05(TG:@tccjd)_3
+    server: 89.169.137.193
+    port: 443
+    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
+      short-id: d1579a8745398e34
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 06(TG:@tccjd)_1
+    server: 89.169.137.193
+    port: 443
+    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
+      short-id: d1579a8745398e34
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 07(TG:@tccjd)
+    server: 89.169.137.193
+    port: 443
+    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
+      short-id: d1579a8745398e34
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 01(TG:@tccjd)_3
+    server: 172.66.40.99
+    port: 80
+    uuid: 3694b5d0-31d3-471f-9c2a-49924cec748f
+    network: ws
+    servername: websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.Shahin.vegaskala.com.
+    encryption: none
+    ws-opts:
+      path: /@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN
+      headers:
+        Host: websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.Shahin.vegaskala.com.
+  - type: vless
+    name: 韓國
+    server: 121.154.180.50
+    port: 51698
+    uuid: 5d42cfef-0556-4f0c-bfb7-161aef500ab5
+    network: grpc
+    servername: lenovoglobal.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo
+      short-id: "34"
+    client-fingerprint: chrome
+  - type: vless
+    name: 美國_1
+    server: 38.22.92.72
+    port: 34045
+    uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+    network: tcp
+    servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+      short-id: e8ab71d0
+    client-fingerprint: safari
+  - type: vless
+    name: defaultName_5
+    server: 45.131.4.192
+    port: 80
+    uuid: 5f4845b4-11dc-41d6-9508-4ff6a02e36c1
+    network: ws
+    servername: silent-paper-fa57.fipiyag989.workers.dev
+    encryption: none
+    ws-opts:
+      path: /Cczu8jOo6HDo
+      headers:
+        Host: silent-paper-fa57.fipiyag989.workers.dev
+  - type: vless
+    name: 美國_2
+    server: 45.131.4.192
+    port: 80
+    uuid: 5f4845b4-11dc-41d6-9508-4ff6a02e36c1
+    network: ws
+    servername: silent-paper-fa57.fipiyag989.workers.dev
+    encryption: none
+    ws-opts:
+      path: /Cczu8jOo6HDo
+      headers:
+        Host: silent-paper-fa57.fipiyag989.workers.dev
+  - type: vless
+    name: defaultName_6
+    server: 45.131.4.192
+    port: 80
+    uuid: 5f4845b4-11dc-41d6-9508-4ff6a02e36c1
+    network: ws
+    servername: silent-paper-fa57.fipiyag989.workers.dev
+    encryption: none
+    ws-opts:
+      path: /Cczu8jOo6HDo
+      headers:
+        Host: silent-paper-fa57.fipiyag989.workers.dev
+  - type: vless
+    name: 香港
+    server: 38.22.92.72
+    port: 34045
+    uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+    network: tcp
+    servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+      short-id: e8ab71d0
+    client-fingerprint: safari
+  - type: vless
+    name: 美國_3
+    server: blackshadow.dpdns.org
+    port: 443
+    uuid: 2bcfbfba-b446-4ad5-93ad-72af9e008f61
+    network: ws
+    servername: blackshadow.dpdns.org
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /44.209.52.7-443
+      headers:
+        Host: blackshadow.dpdns.org
+  - type: vless
+    name: 摩爾多瓦
+    server: 185.218.3.31
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 德國_2
+    server: 185.235.241.117
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 摩爾多瓦_1
+    server: 185.235.241.155
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 摩爾多瓦_2
+    server: 185.218.3.9
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 英國
+    server: 146.19.230.83
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 希臘
+    server: 185.235.241.155
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    servername: m.vk.com
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 土耳其
+    server: 185.212.113.56
+    port: 2050
+    uuid: 00000000-0000-4000-8000-000000000000
+    network: ws
+    servername: ennyfe.zipgd3vx91o.ddns-ip.net
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /@Marisa_kristi
+      headers:
+        Host: ennyfe.zipgd3vx91o.ddns-ip.net
+    client-fingerprint: chrome
+  - type: vless
+    name: 摩爾多瓦_3
+    server: 185.235.241.124
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 美國_4
+    server: sakura.bunnywaffle.org
+    port: 26978
+    uuid: 9042affd-0ad3-4014-adbc-e52f00891ea2
+    network: tcp
+    servername: tesla.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE
+      short-id: 28bf
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 俄羅斯
+    server: 89.169.137.193
+    port: 443
+    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
+      short-id: d1579a8745398e34
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 俄羅斯_1
+    server: 51.250.4.181
+    port: 443
+    uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
+      short-id: 4d4421a0bac569
+    client-fingerprint: chrome
+  - type: vless
+    name: 俄羅斯_2
+    server: 51.250.30.236
+    port: 8443
+    uuid: 61ca1f55-8cc8-4be4-9bf5-12495e38c96a
+    network: tcp
+    servername: sun6-22.userapi.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: YLMwM-5UbvqEgVWpg3z9Q3W5nCXscRdKV285z_Vmr0Y
+      short-id: a4fae7ee08c43ade
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 香港_1
+    server: 156.224.78.8
+    port: 10001
+    uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da
+    network: tcp
+    servername: www.icloud.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls
+      short-id: f7223dab
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 韓國_1
+    server: 121.154.180.50
+    port: 51698
+    uuid: 5d42cfef-0556-4f0c-bfb7-161aef500ab5
+    network: grpc
+    servername: lenovoglobal.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo
+      short-id: "34"
+    client-fingerprint: chrome
+  - type: vless
+    name: 摩爾多瓦_4
+    server: 185.218.3.31
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 摩爾多瓦_5
+    server: 185.235.241.124
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 英國_1
+    server: 146.19.230.224
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 摩爾多瓦_6
+    server: 185.235.241.117
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 希臘_1
+    server: 185.235.241.155
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 英國_2
+    server: 146.19.230.83
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 摩爾多瓦_7
+    server: 185.218.3.9
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 俄羅斯_3
+    server: 45.139.26.152
+    port: 7443
+    uuid: 7fc953d6-ae75-46fb-a970-10b57d513487
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA
+      short-id: fd88bd27db4cc661
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 美國_5
+    server: sakura.bunnywaffle.org
+    port: 26978
+    uuid: 9042affd-0ad3-4014-adbc-e52f00891ea2
+    network: tcp
+    servername: tesla.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE
+      short-id: 28bf
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 俄羅斯_4
+    server: 89.169.137.193
+    port: 443
+    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
+      short-id: d1579a8745398e34
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 俄羅斯_5
+    server: 51.250.4.181
+    port: 443
+    uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
+      short-id: 4d4421a0bac569
+    client-fingerprint: chrome
+  - type: vless
+    name: 伊朗
+    server: 94.182.137.12
+    port: 20532
+    uuid: 8496c102-4094-4dd3-ad63-7bb7a35cbaee
+    network: tcp
+    servername: Telewebion.com
+    encryption: none
+  - type: vless
+    name: 希臘_2
+    server: 185.235.241.155
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    servername: m.vk.com
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 摩爾多瓦_8
+    server: 185.235.241.124
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 英國_3
+    server: 146.19.230.224
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 英國_4
+    server: 146.19.230.83
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 摩爾多瓦_9
+    server: 185.218.3.31
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 希臘_3
+    server: 185.235.241.155
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 🇨🇦_CA_加拿大
+    server: 167.17.70.16
+    port: 8443
+    uuid: 55975415-43c0-461c-8752-d5b8013364e3
+    network: tcp
+    servername: www.microsoft.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: 8W9r2aXGhKNtvPxnL6EiPpQuSm9OJT17x2xyxwxIo30
+      short-id: 84f70f1177981563
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 德國_3
+    server: 185.235.241.117
+    port: 443
+    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+    network: ws
+    tls: true
+    encryption: none
+    ws-opts:
+      path: /hormoz
+  - type: vless
+    name: 韓國_2
+    server: 121.154.180.50
+    port: 51698
+    uuid: 5d42cfef-0556-4f0c-bfb7-161aef500ab5
+    network: grpc
+    servername: lenovoglobal.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo
+      short-id: "34"
+    client-fingerprint: chrome
+  - type: vless
+    name: 俄羅斯_6
+    server: 45.139.26.152
+    port: 7443
+    uuid: 7fc953d6-ae75-46fb-a970-10b57d513487
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA
+      short-id: fd88bd27db4cc661
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 俄羅斯_7
+    server: 89.169.137.193
+    port: 443
+    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
+      short-id: d1579a8745398e34
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 俄羅斯_8
+    server: 51.250.4.181
+    port: 443
+    uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
+    network: tcp
+    servername: eh.vk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
+      short-id: 4d4421a0bac569
+    client-fingerprint: chrome
+  - type: vless
+    name: 伊朗_1
+    server: 94.182.137.12
+    port: 20532
+    uuid: 8496c102-4094-4dd3-ad63-7bb7a35cbaee
+    network: tcp
+    servername: Telewebion.com
+    encryption: none
+  - type: trojan
+    name: 🇭🇰 香港3|@stairnode
+    server: 58.152.18.48
+    port: 443
+    password: f36f4495b4b26cc2fe346cfa23e05b1b
+    network: tcp
+    sni: www.nintendogames.net
+    tls: true
+  - type: trojan
+    name: 🇭🇰 香港4|@stairnode
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 🇭🇰 香港3|@ripaojiedian
+    server: 58.152.18.48
+    port: 443
+    password: f36f4495b4b26cc2fe346cfa23e05b1b
+    network: tcp
+    sni: www.nintendogames.net
+    tls: true
+  - type: trojan
+    name: 🇭🇰 香港 电讯盈科有限公司
+    server: 203.198.84.221
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
   - type: trojan
     name: 🇭🇰 香港4|@ripaojiedian
     server: 58.152.46.60
@@ -390,8 +1260,2346 @@ proxies:
     sni: t.me/ripaojiedian
     skip-cert-verify: true
     tls: true
+  - type: trojan
+    name: 01(TG:@tccjd)_4
+    server: www.shopify.com
+    port: 2096
+    password: f52d0a04-94ad-4f9e-9945-4c3d43374e36
+    network: ws
+    sni: ts888.yumige.dpdns.org
+    alpn:
+      - h3
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /http://45.32.19.198:30005/
+      headers:
+        Host: ts888.yumige.dpdns.org
+  - type: trojan
+    name: 02(TG:@tccjd)
+    server: 109.234.211.66
+    port: 2087
+    password: trojan
+    network: ws
+    sni: store.timimi.dpdns.org
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 03(TG:@tccjd)_2
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 06(TG:@tccjd)_2
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 11(TG:@tccjd)_2
+    server: ivory.qzz.io
+    port: 443
+    password: e2e3b171-33a8-4c8f-9e5f-ae6e92299e40
+    network: ws
+    sni: ivory.qzz.io
+    tls: true
+    ws-opts:
+      path: /46.232.122.240:8000
+      headers:
+        Host: ivory.qzz.io
+  - type: trojan
+    name: 01(TG:@tccjd)_5
+    server: 104.17.162.3
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 02(TG:@tccjd)_1
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_6
+    server: 172.64.229.43
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_7
+    server: 172.64.229.27
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_8
+    server: 172.64.229.177
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 法國
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_9
+    server: 172.64.229.65
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_10
+    server: 172.64.229.113
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_11
+    server: 172.64.229.85
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_12
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_13
+    server: 172.64.229.131
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_14
+    server: 172.64.229.150
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_15
+    server: 162.159.24.131
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_16
+    server: 172.64.229.86
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_17
+    server: 172.64.229.25
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_18
+    server: 172.64.229.5
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_19
+    server: 172.64.229.65
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_20
+    server: 172.64.229.169
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_21
+    server: 172.64.229.3
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_22
+    server: 172.64.229.86
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 香港_2
+    server: 172.64.229.83
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_23
+    server: 172.64.229.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_24
+    server: 172.64.229.73
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_25
+    server: 172.64.229.103
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_26
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_27
+    server: 172.64.229.135
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_28
+    server: 172.64.229.21
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_29
+    server: 172.64.229.44
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_30
+    server: 172.64.229.69
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_31
+    server: 172.64.229.127
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_32
+    server: 172.64.229.47
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_33
+    server: freeyx.cloudflare88.eu.org
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_34
+    server: 172.64.229.6
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_35
+    server: 172.64.229.33
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_36
+    server: 172.64.229.10
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_37
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_38
+    server: 172.64.229.82
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_39
+    server: 162.159.24.131
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_40
+    server: 172.64.229.64
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_41
+    server: freeyx.cloudflare88.eu.org
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_42
+    server: 162.159.24.131
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_43
+    server: 172.64.229.33
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_44
+    server: 172.64.229.6
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_45
+    server: 172.64.229.2
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_46
+    server: 104.17.162.3
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_47
+    server: 104.16.245.77
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_48
+    server: 104.16.246.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_49
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_50
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_51
+    server: 104.17.167.134
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_52
+    server: 104.16.246.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_53
+    server: 104.17.237.219
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_54
+    server: 104.17.167.134
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_55
+    server: 104.17.162.3
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_56
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_57
+    server: 104.19.220.22
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_58
+    server: 104.19.220.22
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_59
+    server: 104.17.167.134
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_60
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_61
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 西班牙
+    server: 109.234.211.66
+    port: 2087
+    password: trojan
+    network: ws
+    sni: store.timimi.dpdns.org
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_62
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_63
+    server: 104.16.246.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_64
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_65
+    server: 162.159.128.253
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_66
+    server: 104.17.167.134
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: //
+  - type: trojan
+    name: 美國_67
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 香港_3
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 美國_68
+    server: 162.159.128.253
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_69
+    server: 104.21.94.161
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_70
+    server: 104.26.1.110
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: //
+  - type: trojan
+    name: 香港_4
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: "       [By DukeMehdi] trojan-HK "
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 美國_71
+    server: 162.159.128.253
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: //
+  - type: trojan
+    name: 美國_72
+    server: 104.26.1.110
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 英國_5
+    server: 5.144.182.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 英國_6
+    server: 57.129.137.55
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 英國_7
+    server: 5.144.182.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 印度
+    server: hyfuuf6.wsone.icu
+    port: 443
+    password: M7v%w11Se*
+    network: tcp
+    sni: hyfuuf6.wsone.icu
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 香港_5
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: "       [By DukeMehdi] trojan-HK "
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+  - type: trojan
+    name: 美國（2025.12.30更新）
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_73
+    server: 172.64.229.65
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_74
+    server: freeyx.cloudflare88.eu.org
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_75
+    server: 172.64.229.65
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_76
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_77
+    server: 172.64.229.33
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_78
+    server: 172.64.229.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_79
+    server: freeyx.cloudflare88.eu.org
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_80
+    server: 172.64.229.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_81
+    server: 172.64.229.33
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_82
+    server: 172.64.229.33
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_83
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_84
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_85
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美国_19
+    server: 104.19.220.22
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_86
+    server: 104.19.220.22
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_87
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_88
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 西班牙_1
+    server: 109.234.211.66
+    port: 2087
+    password: trojan
+    network: ws
+    sni: store.timimi.dpdns.org
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_89
+    server: 104.16.246.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_90
+    server: 104.19.220.22
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_91
+    server: 104.16.246.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 俄羅斯_9
+    server: 109.234.211.66
+    port: 2087
+    password: trojan
+    network: ws
+    sni: store.timimi.dpdns.org
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_92
+    server: 162.159.128.253
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_93
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_94
+    server: 162.159.128.253
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_95
+    server: 104.26.1.110
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_96
+    server: 104.26.1.110
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 香港_6
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 香港_7
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: "       [By EbraSha] trojan-HK "
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+  - type: trojan
+    name: 香港_8
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 香港_9
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: " [By DukeMehdi] trojan-HK "
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+  - type: trojan
+    name: 香港_10
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: " [By EbraSha] trojan-HK "
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+  - type: trojan
+    name: 香港_11
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 美國_97
+    server: 172.64.229.64
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_98
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_99
+    server: 172.64.229.32
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_100
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 香港_12
+    server: 172.64.229.83
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_101
+    server: 172.64.229.131
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_102
+    server: 172.64.229.44
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_103
+    server: 162.159.24.131
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_104
+    server: 172.64.229.10
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_105
+    server: 162.159.24.131
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_106
+    server: 172.64.229.127
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_107
+    server: 172.64.229.39
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_108
+    server: 172.64.229.103
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_109
+    server: 172.64.229.3
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_110
+    server: 172.64.229.65
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_111
+    server: 162.159.24.131
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_112
+    server: 172.64.229.73
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_113
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_114
+    server: 172.64.229.86
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_115
+    server: 172.64.229.65
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_116
+    server: 172.64.229.33
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_117
+    server: freeyx.cloudflare88.eu.org
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_118
+    server: 172.64.229.150
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_119
+    server: 172.64.229.64
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_120
+    server: 172.64.229.113
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_121
+    server: 172.64.229.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_122
+    server: 172.64.229.135
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_123
+    server: 172.64.229.6
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_124
+    server: 172.64.229.69
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_125
+    server: 172.64.229.86
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_126
+    server: 172.64.229.177
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_127
+    server: 172.64.229.27
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_128
+    server: 172.64.229.25
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_129
+    server: freeyx.cloudflare88.eu.org
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_130
+    server: 172.64.229.33
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_131
+    server: 172.64.229.21
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_132
+    server: cf.130519.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_133
+    server: 172.64.229.169
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_134
+    server: 172.64.229.6
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_135
+    server: 172.64.229.5
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_136
+    server: 172.64.229.2
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_137
+    server: 172.64.229.82
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_138
+    server: 104.17.167.134
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_139
+    server: 104.19.220.22
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_140
+    server: 104.19.220.22
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_141
+    server: 104.17.167.134
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 香港_13
+    server: 109.234.211.66
+    port: 2087
+    password: trojan
+    network: ws
+    sni: store.timimi.dpdns.org
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 西班牙_2
+    server: 109.234.211.66
+    port: 2087
+    password: trojan
+    network: ws
+    sni: store.timimi.dpdns.org
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_142
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_143
+    server: 104.17.167.134
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: //
+  - type: trojan
+    name: 美國_144
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_145
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_146
+    server: 104.17.237.219
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_147
+    server: 104.16.246.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_148
+    server: 104.16.246.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_149
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_150
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_151
+    server: 104.17.162.3
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_152
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_153
+    server: 104.16.246.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_154
+    server: 162.159.128.253
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 美國_155
+    server: 104.17.167.134
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_156
+    server: 104.17.162.3
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_157
+    server: 104.26.1.110
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_158
+    server: one.cf.cdn.hyli.xyz
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_159
+    server: 104.19.55.205
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: //
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_160
+    server: 162.159.128.253
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: //
+  - type: trojan
+    name: 美國_161
+    server: 162.159.128.253
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 英國_8
+    server: 57.129.137.55
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 美國_162
+    server: 104.26.1.110
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: //
+  - type: trojan
+    name: 美國_163
+    server: 104.21.94.161
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+    ws-opts:
+      path: /
+  - type: trojan
+    name: 英國_9
+    server: 5.144.182.188
+    port: 443
+    password: 5a2c16f9
+    network: ws
+    sni: snippets.kkii.eu.org
+    fingerprint: randomized
+    tls: true
+    ws-opts:
+      path: /
+      headers:
+        Host: snippets.kkii.eu.org
+  - type: trojan
+    name: 香港_14
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: "       [By EbraSha] trojan-HK "
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+  - type: trojan
+    name: 香港_15
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: "       [By EbraSha] trojan-HK "
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 香港_16
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: "       [By DukeMehdi] trojan-HK "
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+  - type: trojan
+    name: 印度_1
+    server: hyfuuf6.wsone.icu
+    port: 443
+    password: M7v%w11Se*
+    network: tcp
+    sni: hyfuuf6.wsone.icu
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 香港_17
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: "������ [By DukeMehdi] trojan-HK "
+    skip-cert-verify: true
+    fingerprint: chrome
+    tls: true
+  - type: trojan
+    name: 香港_18
+    server: 203.198.84.221
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 香港_19
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 香港_20
+    server: 58.152.46.60
+    port: 443
+    password: BxceQaOe
+    network: tcp
+    sni: "       [By DukeMehdi] trojan-HK "
+    skip-cert-verify: true
+    tls: true
   - type: hysteria2
-    name: 01(TG:@tccjd)_1
+    name: 🇹🇼 🇨🇳 台湾 | TWN
+    server: zz.9966663.xyz
+    port: 50020
+    password: c8962740-02d1-4d3f-ba03-cad8e801c600
+    skip-cert-verify: true
+    sni: do-vnyear.9966663.xyz
+  - type: hysteria2
+    name: 01(TG:@tccjd)_6
     server: 84.8.134.242
     port: 443
     ports: 50000-65535
@@ -399,7 +3607,7 @@ proxies:
     skip-cert-verify: true
     sni: johannesburg-4.nezhasu.com
   - type: hysteria2
-    name: 02(TG:@tccjd)
+    name: 02(TG:@tccjd)_2
     server: 145.241.187.70
     port: 443
     ports: 50000-65535
@@ -407,7 +3615,7 @@ proxies:
     skip-cert-verify: true
     sni: johannesburg-2.nezhasu.com
   - type: hysteria2
-    name: 03(TG:@tccjd)_1
+    name: 03(TG:@tccjd)_3
     server: 84.8.134.187
     port: 443
     ports: 50000-65535
@@ -415,7 +3623,7 @@ proxies:
     skip-cert-verify: true
     sni: johannesburg-3.nezhasu.com
   - type: hysteria2
-    name: 04(TG:@tccjd)_1
+    name: 04(TG:@tccjd)_3
     server: 80.225.253.247
     port: 443
     ports: 50000-65535
@@ -423,7 +3631,7 @@ proxies:
     skip-cert-verify: true
     sni: mumbai-4.nezhasu.com
   - type: hysteria2
-    name: 05(TG:@tccjd)_1
+    name: 05(TG:@tccjd)_4
     server: 152.67.50.33
     port: 443
     ports: 50000-65535
@@ -431,7 +3639,7 @@ proxies:
     skip-cert-verify: true
     sni: gysbl-2.nezhasu.com
   - type: hysteria2
-    name: 06(TG:@tccjd)_1
+    name: 06(TG:@tccjd)_3
     server: 80.225.196.14
     port: 443
     ports: 50000-65535
@@ -439,7 +3647,7 @@ proxies:
     skip-cert-verify: true
     sni: mumbai-3.nezhasu.com
   - type: hysteria2
-    name: 08(TG:@tccjd)_1
+    name: 08(TG:@tccjd)
     server: 129.151.115.91
     port: 443
     ports: 50000-65535
@@ -470,71 +3678,8 @@ proxies:
     password: d9812081-7f61-456d-9340-a1fb8dfd603b
     skip-cert-verify: true
     sni: amsterdam.nezhasu.com
-  - type: ss
-    name: 11(TG:@tccjd)_1
-    server: 144.31.84.76
-    port: 2050
-    cipher: chacha20-ietf-poly1305
-    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
-  - type: ss
-    name: 12(TG:@tccjd)_1
-    server: 144.31.84.76
-    port: 2050
-    cipher: chacha20-ietf-poly1305
-    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
-  - type: ss
-    name: 13(TG:@tccjd)_1
-    server: 144.31.84.76
-    port: 2050
-    cipher: chacha20-ietf-poly1305
-    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
-  - type: ss
-    name: 01(TG:@tccjd)_2
-    server: 62.133.63.154
-    port: 20255
-    cipher: chacha20-ietf-poly1305
-    password: ZFqZH1cIw5jPRChWxlX36F
-  - type: trojan
-    name: 01(TG:@tccjd)_3
-    server: www.shopify.com
-    port: 2096
-    password: f52d0a04-94ad-4f9e-9945-4c3d43374e36
-    network: ws
-    sni: ts888.yumige.dpdns.org
-    alpn:
-      - h3
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /http://45.32.19.198:30005/
-      headers:
-        Host: ts888.yumige.dpdns.org
-  - type: trojan
-    name: 02(TG:@tccjd)_1
-    server: 109.234.211.66
-    port: 2087
-    password: trojan
-    network: ws
-    sni: store.timimi.dpdns.org
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 03(TG:@tccjd)_2
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
   - type: tuic
-    name: 04(TG:@tccjd)_2
+    name: 04(TG:@tccjd)_4
     server: 158.180.79.168
     port: 64413
     uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
@@ -544,7 +3689,7 @@ proxies:
       - h3
     congestion-controller: bbr
   - type: tuic
-    name: 05(TG:@tccjd)_2
+    name: 05(TG:@tccjd)_5
     server: 163.192.55.17
     port: 59422
     uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
@@ -553,18 +3698,6 @@ proxies:
     alpn:
       - h3
     congestion-controller: bbr
-  - type: trojan
-    name: 06(TG:@tccjd)_2
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
   - type: tuic
     name: 07(TG:@tccjd)_2
     server: 150.230.4.133
@@ -576,7 +3709,7 @@ proxies:
       - h3
     congestion-controller: bbr
   - type: tuic
-    name: 08(TG:@tccjd)_2
+    name: 08(TG:@tccjd)_1
     server: 132.226.99.211
     port: 64015
     uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
@@ -605,18 +3738,6 @@ proxies:
     alpn:
       - h3
     congestion-controller: bbr
-  - type: trojan
-    name: 11(TG:@tccjd)_2
-    server: ivory.qzz.io
-    port: 443
-    password: e2e3b171-33a8-4c8f-9e5f-ae6e92299e40
-    network: ws
-    sni: ivory.qzz.io
-    tls: true
-    ws-opts:
-      path: /46.232.122.240:8000
-      headers:
-        Host: ivory.qzz.io
   - type: tuic
     name: 12(TG:@tccjd)_2
     server: 144.24.2.103
@@ -677,3397 +3798,132 @@ proxies:
     alpn:
       - h3
     congestion-controller: bbr
-  - type: trojan
-    name: 18(TG:@tccjd)_1
-    server: 205.185.115.223
-    port: 19258
-    password: iWnFtzMiac
-    network: grpc
-    sni: cloudflare.com
-    fingerprint: chrome
-    tls: true
-  - type: vless
-    name: 01(TG:@tccjd)_4
-    server: plb.tunnelguard.ru
-    port: 443
-    uuid: 195573b7-ea63-485e-b2a5-58dd7bbfc9f7
-    network: http
-    servername: plb.tunnelguard.ru
-    tls: true
-    encryption: none
-    http-opts:
-      path: /
-    alpn:
-      - h2
-      - http/1.1
-  - type: vless
-    name: 02(TG:@tccjd)_2
-    server: plb.tunnelguard.ru
-    port: 443
-    uuid: 195573b7-ea63-485e-b2a5-58dd7bbfc9f7
-    network: http
-    servername: plb.tunnelguard.ru
-    tls: true
-    encryption: none
-    http-opts:
-      path: /
-    alpn:
-      - h2
-      - http/1.1
-  - type: vless
-    name: 03(TG:@tccjd)_3
-    server: plb.tunnelguard.ru
-    port: 443
-    uuid: 195573b7-ea63-485e-b2a5-58dd7bbfc9f7
-    network: http
-    servername: plb.tunnelguard.ru
-    tls: true
-    encryption: none
-    http-opts:
-      path: /
-    alpn:
-      - h2
-      - http/1.1
-  - type: vless
-    name: 04(TG:@tccjd)_3
-    server: plb.tunnelguard.ru
-    port: 443
-    uuid: 195573b7-ea63-485e-b2a5-58dd7bbfc9f7
-    network: http
-    servername: plb.tunnelguard.ru
-    tls: true
-    encryption: none
-    http-opts:
-      path: /
-    alpn:
-      - h2
-      - http/1.1
-  - type: vless
-    name: 05(TG:@tccjd)_3
-    server: arshiavpn.sefryasad.ir
-    port: 31095
-    uuid: 0fe18ae6-003c-49c4-9a19-894a26a6b3a9
-    network: grpc
-    servername: refersion.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: MhGXsOSUcvAVD7M1AHbHWFrV9EMbg1c7iuB_CiHNfwU
-      short-id: 5f1e
-      spider-x: /
-    grpc-opts:
-      grpc-service-name: Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12
-      grpc-authority: "@Arshiavpn12"
-    client-fingerprint: chrome
-  - type: vless
-    name: 01(TG:@tccjd)_5
-    server: 104.19.113.54
-    port: 80
-    uuid: 29187857-4a1f-4d1e-88eb-0016771e0dbb
-    network: ws
-    servername: vless.hubp.de
-    encryption: none
-    ws-opts:
-      path: t.me/v2Line
-      headers:
-        Host: vless.hubp.de
-    client-fingerprint: chrome
-    alpn:
-      - h2
-      - http/1.1
-  - type: vless
-    name: defaultName_3
-    server: 77.37.33.169
-    port: 80
-    uuid: 29187857-4a1f-4d1e-88eb-0016771e0dbb
-    network: ws
-    servername: vless.hubp.de
-    encryption: none
-    ws-opts:
-      path: /
-      headers:
-        Host: vless.hubp.de
-    client-fingerprint: chrome
-    alpn:
-      - h2
-      - http/1.1
-  - type: vless
-    name: defaultName_4
-    server: 104.19.113.54
-    port: 80
-    uuid: 29187857-4a1f-4d1e-88eb-0016771e0dbb
-    network: ws
-    servername: vless.hubp.de
-    encryption: none
-    ws-opts:
-      path: /
-      headers:
-        Host: vless.hubp.de
-    client-fingerprint: chrome
-    alpn:
-      - h2
-      - http/1.1
-  - type: vless
-    name: 04(TG:@tccjd)_4
-    server: 89.169.137.193
-    port: 443
-    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
-      short-id: d1579a8745398e34
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 05(TG:@tccjd)_4
-    server: 89.169.137.193
-    port: 443
-    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
-      short-id: d1579a8745398e34
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 06(TG:@tccjd)_3
-    server: 89.169.137.193
-    port: 443
-    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
-      short-id: d1579a8745398e34
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 07(TG:@tccjd)_3
-    server: 89.169.137.193
-    port: 443
-    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
-      short-id: d1579a8745398e34
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 01(TG:@tccjd)_6
-    server: 172.66.40.99
-    port: 80
-    uuid: 3694b5d0-31d3-471f-9c2a-49924cec748f
-    network: ws
-    servername: websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.Shahin.vegaskala.com.
-    encryption: none
-    ws-opts:
-      path: /@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN
-      headers:
-        Host: websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.Shahin.vegaskala.com.
-  - type: trojan
-    name: 01(TG:@tccjd)_7
-    server: 104.17.162.3
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 02(TG:@tccjd)_3
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: vmess
-    name: 03(TG:@tccjd)_4
-    server: 82.198.246.97
-    port: 180
-    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-    alterId: 0
-    network: tcp
-    cipher: auto
-  - type: vmess
-    name: 04(TG:@tccjd)_5
-    server: 82.198.246.97
-    port: 180
-    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-    alterId: 0
-    network: tcp
-    cipher: auto
-  - type: vmess
-    name: 05(TG:@tccjd)_5
-    server: 82.198.246.97
-    port: 180
-    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: img14.360buyimg.com
-  - type: trojan
-    name: 美國
-    server: 172.64.229.43
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_1
-    server: 172.64.229.27
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_2
-    server: 172.64.229.177
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 法國
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_3
-    server: 172.64.229.65
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_4
-    server: 172.64.229.113
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_5
-    server: 172.64.229.85
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_6
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_7
-    server: 172.64.229.131
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_8
-    server: 172.64.229.150
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_9
-    server: 162.159.24.131
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_10
-    server: 172.64.229.86
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_11
-    server: 172.64.229.25
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_12
-    server: 172.64.229.5
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_13
-    server: 172.64.229.65
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_14
-    server: 172.64.229.169
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_15
-    server: 172.64.229.3
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_16
-    server: 172.64.229.86
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 香港
-    server: 172.64.229.83
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_17
-    server: 172.64.229.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_18
-    server: 172.64.229.73
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_19
-    server: 172.64.229.103
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_20
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_21
-    server: 172.64.229.135
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_22
-    server: 172.64.229.21
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_23
-    server: 172.64.229.44
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_24
-    server: 172.64.229.69
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_25
-    server: 172.64.229.127
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_26
-    server: 172.64.229.47
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_27
-    server: freeyx.cloudflare88.eu.org
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_28
-    server: 172.64.229.6
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_29
-    server: 172.64.229.33
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_30
-    server: 172.64.229.10
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_31
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: vless
-    name: 韓國
-    server: 121.154.180.50
-    port: 51698
-    uuid: 5d42cfef-0556-4f0c-bfb7-161aef500ab5
-    network: grpc
-    servername: lenovoglobal.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo
-      short-id: "34"
-    client-fingerprint: chrome
-  - type: trojan
-    name: 美國_32
-    server: 172.64.229.82
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_33
-    server: 162.159.24.131
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_34
-    server: 172.64.229.64
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_35
-    server: freeyx.cloudflare88.eu.org
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_36
-    server: 162.159.24.131
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_37
-    server: 172.64.229.33
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_38
-    server: 172.64.229.6
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_39
-    server: 172.64.229.2
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: vless
-    name: 美國_40
-    server: 38.22.92.72
-    port: 34045
-    uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
-    network: tcp
-    servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
-      short-id: e8ab71d0
-    client-fingerprint: safari
-  - type: trojan
-    name: 美國_41
-    server: 104.17.162.3
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: vless
-    name: defaultName_5
-    server: 45.131.4.192
-    port: 80
-    uuid: 5f4845b4-11dc-41d6-9508-4ff6a02e36c1
-    network: ws
-    servername: silent-paper-fa57.fipiyag989.workers.dev
-    encryption: none
-    ws-opts:
-      path: /Cczu8jOo6HDo
-      headers:
-        Host: silent-paper-fa57.fipiyag989.workers.dev
-  - type: trojan
-    name: 美國_42
-    server: 104.16.245.77
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: vless
-    name: 美國_43
-    server: 45.131.4.192
-    port: 80
-    uuid: 5f4845b4-11dc-41d6-9508-4ff6a02e36c1
-    network: ws
-    servername: silent-paper-fa57.fipiyag989.workers.dev
-    encryption: none
-    ws-opts:
-      path: /Cczu8jOo6HDo
-      headers:
-        Host: silent-paper-fa57.fipiyag989.workers.dev
-  - type: trojan
-    name: 美國_44
-    server: 104.16.246.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_45
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_46
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_47
-    server: 104.17.167.134
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_48
-    server: 104.16.246.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_49
-    server: 104.17.237.219
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_50
-    server: 104.17.167.134
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_51
-    server: 104.17.162.3
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_52
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_53
-    server: 104.19.220.22
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_54
-    server: 104.19.220.22
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_55
-    server: 104.17.167.134
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: vless
-    name: defaultName_6
-    server: 45.131.4.192
-    port: 80
-    uuid: 5f4845b4-11dc-41d6-9508-4ff6a02e36c1
-    network: ws
-    servername: silent-paper-fa57.fipiyag989.workers.dev
-    encryption: none
-    ws-opts:
-      path: /Cczu8jOo6HDo
-      headers:
-        Host: silent-paper-fa57.fipiyag989.workers.dev
-  - type: trojan
-    name: 美國_56
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_57
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 西班牙
-    server: 109.234.211.66
-    port: 2087
-    password: trojan
-    network: ws
-    sni: store.timimi.dpdns.org
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_58
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_59
-    server: 104.16.246.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_60
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: vless
-    name: 香港_1
-    server: 38.22.92.72
-    port: 34045
-    uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
-    network: tcp
-    servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
-      short-id: e8ab71d0
-    client-fingerprint: safari
-  - type: trojan
-    name: 美國_61
-    server: 162.159.128.253
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_62
-    server: 104.17.167.134
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: //
-  - type: vless
-    name: 美國_63
-    server: blackshadow.dpdns.org
-    port: 443
-    uuid: 2bcfbfba-b446-4ad5-93ad-72af9e008f61
-    network: ws
-    servername: blackshadow.dpdns.org
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /44.209.52.7-443
-      headers:
-        Host: blackshadow.dpdns.org
-  - type: trojan
-    name: 美國_64
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 香港_2
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: trojan
-    name: 美國_65
-    server: 162.159.128.253
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_66
-    server: 104.21.94.161
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_67
-    server: 104.26.1.110
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: //
-  - type: vless
-    name: 摩爾多瓦
-    server: 185.218.3.31
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: trojan
-    name: 香港_3
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: "       [By DukeMehdi] trojan-HK "
-    skip-cert-verify: true
-    tls: true
-  - type: trojan
-    name: 美國_68
-    server: 162.159.128.253
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: //
-  - type: vless
-    name: 德國
-    server: 185.235.241.117
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: trojan
-    name: 美國_69
-    server: 104.26.1.110
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: vless
-    name: 摩爾多瓦_1
-    server: 185.235.241.155
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 摩爾多瓦_2
-    server: 185.218.3.9
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: trojan
-    name: 英國
-    server: 5.144.182.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: vless
-    name: 英國_1
-    server: 146.19.230.83
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: trojan
-    name: 英國_2
-    server: 57.129.137.55
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 英國_3
-    server: 5.144.182.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_70
-    server: 205.185.115.223
-    port: 19258
-    password: iWnFtzMiac
-    network: grpc
-    sni: cloudflare.com
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-  - type: vless
-    name: 希臘
-    server: 185.235.241.155
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    servername: m.vk.com
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 土耳其
-    server: 185.212.113.56
-    port: 2050
-    uuid: 00000000-0000-4000-8000-000000000000
-    network: ws
-    servername: ennyfe.zipgd3vx91o.ddns-ip.net
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /@Marisa_kristi
-      headers:
-        Host: ennyfe.zipgd3vx91o.ddns-ip.net
-    client-fingerprint: chrome
-  - type: vless
-    name: 法國_1
-    server: 62.210.8.152
-    port: 18877
-    uuid: 3fb38b37-c636-44d3-ab0c-897fab438bf1
-    network: http
-    servername: mxj.myanimelist.net
-    tls: true
-    encryption: none
-    http-opts:
-      path: /github.com/Alvin9999
-    reality-opts:
-      public-key: DZj1qrLAm6EJfPkVRPpSCgoQN8sM8Rbio0jpsS1A3FM
-      short-id: 288132e297984d34
-      spider-x: /
-    client-fingerprint: chrome
-  - type: vless
-    name: 摩爾多瓦_3
-    server: 185.235.241.124
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 美國_71
-    server: sakura.bunnywaffle.org
-    port: 26978
-    uuid: 9042affd-0ad3-4014-adbc-e52f00891ea2
-    network: tcp
-    servername: tesla.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE
-      short-id: 28bf
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 俄羅斯
-    server: plb.tunnelguard.ru
-    port: 443
-    uuid: 195573b7-ea63-485e-b2a5-58dd7bbfc9f7
-    network: http
-    servername: plb.tunnelguard.ru
-    tls: true
-    encryption: none
-    http-opts:
-      path: /
-  - type: vless
-    name: 俄羅斯_1
-    server: 89.169.137.193
-    port: 443
-    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
-      short-id: d1579a8745398e34
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 俄羅斯_2
-    server: 51.250.4.181
-    port: 443
-    uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
-      short-id: 4d4421a0bac569
-    client-fingerprint: chrome
-  - type: vless
-    name: 俄羅斯_3
-    server: 51.250.30.236
-    port: 8443
-    uuid: 61ca1f55-8cc8-4be4-9bf5-12495e38c96a
-    network: tcp
-    servername: sun6-22.userapi.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: YLMwM-5UbvqEgVWpg3z9Q3W5nCXscRdKV285z_Vmr0Y
-      short-id: a4fae7ee08c43ade
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: trojan
-    name: 印度
-    server: hyfuuf6.wsone.icu
-    port: 443
-    password: M7v%w11Se*
-    network: tcp
-    sni: hyfuuf6.wsone.icu
-    skip-cert-verify: true
-    tls: true
-  - type: vless
-    name: 香港_4
-    server: 156.224.78.8
-    port: 10001
-    uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da
-    network: tcp
-    servername: www.icloud.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls
-      short-id: f7223dab
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: trojan
-    name: 香港_5
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: "       [By DukeMehdi] trojan-HK "
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-  - type: trojan
-    name: 美國（2025.12.30更新）
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_72
-    server: 172.64.229.65
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_73
-    server: freeyx.cloudflare88.eu.org
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_74
-    server: 172.64.229.65
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_75
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_76
-    server: 172.64.229.33
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_77
-    server: 172.64.229.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_78
-    server: freeyx.cloudflare88.eu.org
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_79
-    server: 172.64.229.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_80
-    server: 172.64.229.33
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_81
-    server: 172.64.229.33
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_82
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: vless
-    name: 韓國_1
-    server: 121.154.180.50
-    port: 51698
-    uuid: 5d42cfef-0556-4f0c-bfb7-161aef500ab5
-    network: grpc
-    servername: lenovoglobal.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo
-      short-id: "34"
-    client-fingerprint: chrome
-  - type: trojan
-    name: 美國_83
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_84
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美国
-    server: 104.19.220.22
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_85
-    server: 104.19.220.22
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_86
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_87
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 西班牙_1
-    server: 109.234.211.66
-    port: 2087
-    password: trojan
-    network: ws
-    sni: store.timimi.dpdns.org
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_88
-    server: 104.16.246.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_89
-    server: 104.19.220.22
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_90
-    server: 104.16.246.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 俄羅斯_4
-    server: 109.234.211.66
-    port: 2087
-    password: trojan
-    network: ws
-    sni: store.timimi.dpdns.org
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_91
-    server: 162.159.128.253
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_92
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_93
-    server: 162.159.128.253
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: ss
-    name: 德國_1
-    server: 144.31.84.76
-    port: 2050
-    cipher: chacha20-ietf-poly1305
-    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
-  - type: ss
-    name: 德國_2
-    server: 144.31.84.76
-    port: 2050
-    cipher: chacha20-ietf-poly1305
-    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
-  - type: trojan
-    name: 美國_94
-    server: 104.26.1.110
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: vless
-    name: 摩爾多瓦_4
-    server: 185.218.3.31
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: trojan
-    name: 美國_95
-    server: 205.185.115.223
-    port: 19258
-    password: iWnFtzMiac
-    network: grpc
-    sni: cloudflare.com
-    fingerprint: chrome
-    tls: true
-  - type: trojan
-    name: 美國_96
-    server: 104.26.1.110
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 香港_6
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: vless
-    name: 摩爾多瓦_5
-    server: 185.235.241.124
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 英國_4
-    server: 146.19.230.224
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: trojan
-    name: 香港_7
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: "       [By EbraSha] trojan-HK "
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-  - type: trojan
-    name: 香港_8
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: trojan
-    name: 香港_9
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: " [By DukeMehdi] trojan-HK "
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-  - type: vless
-    name: 摩爾多瓦_6
-    server: 185.235.241.117
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 希臘_1
-    server: 185.235.241.155
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 英國_5
-    server: 146.19.230.83
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 摩爾多瓦_7
-    server: 185.218.3.9
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 俄羅斯_5
-    server: 45.139.26.152
-    port: 7443
-    uuid: 7fc953d6-ae75-46fb-a970-10b57d513487
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA
-      short-id: fd88bd27db4cc661
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 美國_97
-    server: sakura.bunnywaffle.org
-    port: 26978
-    uuid: 9042affd-0ad3-4014-adbc-e52f00891ea2
-    network: tcp
-    servername: tesla.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE
-      short-id: 28bf
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 俄羅斯_6
-    server: 89.169.137.193
-    port: 443
-    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
-      short-id: d1579a8745398e34
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 俄羅斯_7
-    server: 51.250.4.181
-    port: 443
-    uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
-      short-id: 4d4421a0bac569
-    client-fingerprint: chrome
-  - type: trojan
-    name: 香港_10
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: " [By EbraSha] trojan-HK "
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-  - type: trojan
-    name: 香港_11
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    skip-cert-verify: true
-    tls: true
-  - type: vless
-    name: 伊朗
-    server: 94.182.137.12
-    port: 20532
-    uuid: 8496c102-4094-4dd3-ad63-7bb7a35cbaee
-    network: tcp
-    servername: Telewebion.com
-    encryption: none
-  - type: trojan
-    name: 美國_98
-    server: 172.64.229.64
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_99
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_100
-    server: 172.64.229.32
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_101
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 香港_12
-    server: 172.64.229.83
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_102
-    server: 172.64.229.131
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_103
-    server: 172.64.229.44
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_104
-    server: 162.159.24.131
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_105
-    server: 172.64.229.10
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_106
-    server: 162.159.24.131
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_107
-    server: 172.64.229.127
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_108
-    server: 172.64.229.39
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_109
-    server: 172.64.229.103
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_110
-    server: 172.64.229.3
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_111
-    server: 172.64.229.65
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_112
-    server: 162.159.24.131
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_113
-    server: 172.64.229.73
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_114
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_115
-    server: 172.64.229.86
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_116
-    server: 172.64.229.65
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_117
-    server: 172.64.229.33
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_118
-    server: freeyx.cloudflare88.eu.org
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_119
-    server: 172.64.229.150
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_120
-    server: 172.64.229.64
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_121
-    server: 172.64.229.113
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_122
-    server: 172.64.229.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_123
-    server: 172.64.229.135
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_124
-    server: 172.64.229.6
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_125
-    server: 172.64.229.69
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_126
-    server: 172.64.229.86
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_127
-    server: 172.64.229.177
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_128
-    server: 172.64.229.27
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_129
-    server: 172.64.229.25
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_130
-    server: freeyx.cloudflare88.eu.org
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_131
-    server: 172.64.229.33
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_132
-    server: 172.64.229.21
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_133
-    server: cf.130519.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_134
-    server: 172.64.229.169
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_135
-    server: 172.64.229.6
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_136
-    server: 172.64.229.5
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_137
-    server: 172.64.229.2
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_138
-    server: 172.64.229.82
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_139
-    server: 104.17.167.134
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_140
-    server: 104.19.220.22
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_141
-    server: 104.19.220.22
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_142
-    server: 104.17.167.134
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 香港_13
-    server: 109.234.211.66
-    port: 2087
-    password: trojan
-    network: ws
-    sni: store.timimi.dpdns.org
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 西班牙_2
-    server: 109.234.211.66
-    port: 2087
-    password: trojan
-    network: ws
-    sni: store.timimi.dpdns.org
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_143
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_144
-    server: 104.17.167.134
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: //
-  - type: trojan
-    name: 美國_145
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_146
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_147
-    server: 104.17.237.219
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_148
-    server: 104.16.246.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_149
-    server: 104.16.246.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_150
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_151
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_152
-    server: 104.17.162.3
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_153
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_154
-    server: 104.16.246.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_155
-    server: 162.159.128.253
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: trojan
-    name: 美國_156
-    server: 104.17.167.134
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_157
-    server: 104.17.162.3
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_158
-    server: 104.26.1.110
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_159
-    server: one.cf.cdn.hyli.xyz
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_160
-    server: 104.19.55.205
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: //
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_161
-    server: 162.159.128.253
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: //
-  - type: vless
-    name: 希臘_2
-    server: 185.235.241.155
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    servername: m.vk.com
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: trojan
-    name: 美國_162
-    server: 162.159.128.253
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_163
-    server: 205.185.115.223
-    port: 19258
-    password: iWnFtzMiac
-    network: grpc
-    sni: cloudflare.com
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-  - type: ss
-    name: 美國_164
-    server: 144.31.84.76
-    port: 2050
-    cipher: chacha20-ietf-poly1305
-    password: 7saUuuV-YDq8BTKgWUQFARU5BuPeXEfZ
-  - type: trojan
-    name: 英國_6
-    server: 57.129.137.55
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 美國_165
-    server: 104.26.1.110
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: //
-  - type: trojan
-    name: 美國_166
-    server: 104.21.94.161
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-    ws-opts:
-      path: /
-  - type: vless
-    name: 摩爾多瓦_8
-    server: 185.235.241.124
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: trojan
-    name: 英國_7
-    server: 5.144.182.188
-    port: 443
-    password: 5a2c16f9
-    network: ws
-    sni: snippets.kkii.eu.org
-    fingerprint: randomized
-    tls: true
-    ws-opts:
-      path: /
-      headers:
-        Host: snippets.kkii.eu.org
-  - type: trojan
-    name: 香港_14
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: "       [By EbraSha] trojan-HK "
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-  - type: vless
-    name: 英國_8
-    server: 146.19.230.224
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 英國_9
-    server: 146.19.230.83
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 摩爾多瓦_9
-    server: 185.218.3.31
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 希臘_3
-    server: 185.235.241.155
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: trojan
-    name: 香港_15
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: "       [By EbraSha] trojan-HK "
-    skip-cert-verify: true
-    tls: true
-  - type: vless
-    name: 法國_2
-    server: 62.210.8.152
-    port: 18877
-    uuid: 3fb38b37-c636-44d3-ab0c-897fab438bf1
-    network: http
-    servername: mxj.myanimelist.net
-    tls: true
-    encryption: none
-    http-opts:
-      path: /github.com/Alvin9999
-    reality-opts:
-      public-key: DZj1qrLAm6EJfPkVRPpSCgoQN8sM8Rbio0jpsS1A3FM
-      short-id: 288132e297984d34
-      spider-x: /
-    client-fingerprint: chrome
-  - type: trojan
-    name: 香港_16
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: "       [By DukeMehdi] trojan-HK "
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-  - type: vless
-    name: 🇨🇦_CA_加拿大
-    server: 167.17.70.16
-    port: 8443
-    uuid: 55975415-43c0-461c-8752-d5b8013364e3
-    network: tcp
-    servername: www.microsoft.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: 8W9r2aXGhKNtvPxnL6EiPpQuSm9OJT17x2xyxwxIo30
-      short-id: 84f70f1177981563
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 德國_3
-    server: 185.235.241.117
-    port: 443
-    uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
-    network: ws
-    tls: true
-    encryption: none
-    ws-opts:
-      path: /hormoz
-  - type: vless
-    name: 韓國_2
-    server: 121.154.180.50
-    port: 51698
-    uuid: 5d42cfef-0556-4f0c-bfb7-161aef500ab5
-    network: grpc
-    servername: lenovoglobal.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo
-      short-id: "34"
-    client-fingerprint: chrome
-  - type: vless
-    name: 俄羅斯_8
-    server: 45.139.26.152
-    port: 7443
-    uuid: 7fc953d6-ae75-46fb-a970-10b57d513487
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA
-      short-id: fd88bd27db4cc661
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 俄羅斯_9
-    server: plb.tunnelguard.ru
-    port: 443
-    uuid: 195573b7-ea63-485e-b2a5-58dd7bbfc9f7
-    network: http
-    servername: plb.tunnelguard.ru
-    tls: true
-    encryption: none
-    http-opts:
-      path: /
-  - type: vless
-    name: 俄羅斯_10
-    server: 89.169.137.193
-    port: 443
-    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
-      short-id: d1579a8745398e34
-    client-fingerprint: chrome
-    flow: xtls-rprx-vision
-  - type: vless
-    name: 俄羅斯_11
-    server: 51.250.4.181
-    port: 443
-    uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
-    network: tcp
-    servername: eh.vk.com
-    tls: true
-    encryption: none
-    reality-opts:
-      public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
-      short-id: 4d4421a0bac569
-    client-fingerprint: chrome
-  - type: trojan
-    name: 印度_1
-    server: hyfuuf6.wsone.icu
-    port: 443
-    password: M7v%w11Se*
-    network: tcp
-    sni: hyfuuf6.wsone.icu
-    skip-cert-verify: true
-    tls: true
-  - type: trojan
-    name: 香港_17
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: "������ [By DukeMehdi] trojan-HK "
-    skip-cert-verify: true
-    fingerprint: chrome
-    tls: true
-  - type: trojan
-    name: 香港_18
-    server: 203.198.84.221
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: trojan
-    name: 香港_19
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-  - type: vmess
-    name: 美国_1
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: 4120-BE04-13ef56096989.457.PP.ua
-  - type: vmess
-    name: 美国_2
-    server: 202.85.53.179
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: 08071ec6f38bfb263ee89b1bb0c3ca1b.mobgslb.tbcache.com
-  - type: vless
-    name: 伊朗_1
-    server: 94.182.137.12
-    port: 20532
-    uuid: 8496c102-4094-4dd3-ad63-7bb7a35cbaee
-    network: tcp
-    servername: Telewebion.com
-    encryption: none
-  - type: trojan
-    name: 香港_20
-    server: 58.152.46.60
-    port: 443
-    password: BxceQaOe
-    network: tcp
-    sni: "       [By DukeMehdi] trojan-HK "
-    skip-cert-verify: true
-    tls: true
-  - type: vmess
-    name: 美国_3
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: t.me%2Fripaojiedian
-  - type: vmess
-    name: 美国_4
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: www.bing.com
-  - type: vmess
-    name: 美国_5
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: one.cf.cdn.hyli.xyz
-  - type: vmess
-    name: 美国_6
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: 2001:bc8:32d7:302::10
-  - type: vmess
-    name: 美国_7
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: dDdCCVFg.922922.SHOP
-  - type: vmess
-    name: 美国_8
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: mfyousheng.nl.eu.org
-  - type: vmess
-    name: 美国_9
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: 5e4f31de-sv0xs0-sv0wpw-17xo8.hk3.p5pv.com
-  - type: vmess
-    name: 美国_10
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: 4bb6-B667-F88608d19FD5.664.QZz.IO
-  - type: vmess
-    name: 美国_11
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: sssssssxxxx.2032.pp.ua
-  - type: vmess
-    name: 美国_12
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: t.me%252Fripaojiedian
-  - type: vmess
-    name: 美国_13
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: green2.cdntencentmusic.com
-  - type: vmess
-    name: 美国_14
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: asuka.0061.my
-  - type: vmess
-    name: 美国_15
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: t.me/ripaojiedian
-  - type: vmess
-    name: 美国_16
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: n1744454498.lie5d.cyou
-  - type: vmess
-    name: 美国_17
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: ddDFHhj.922922.Shop
-  - type: vmess
-    name: 美国_18
-    server: v12.hdacd.com
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-  - type: vmess
-    name: 美国_19
-    server: 202.85.53.179
-    port: 30812
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 0
-    network: tcp
-    cipher: auto
-    servername: 202.85.53.179
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - defaultName
-      - defaultName_1
-      - 🇹🇼 🇨🇳 台湾 | TWN
-      - 🇭🇰 香港3|@stairnode
-      - 01(TG:@tccjd)
       - 🇺🇸 美国4|@ripaojiedian
-      - defaultName_2
-      - 🇭🇰 香港4|@stairnode
       - 03(TG:@tccjd)
-      - 🇭🇰 香港3|@ripaojiedian
       - 04(TG:@tccjd)
-      - 🇭🇰 香港 电讯盈科有限公司
       - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
+      - 美国
+      - 美国_1
+      - 美国_2
+      - 美国_3
+      - 美国_4
+      - 美国_5
+      - 美国_6
+      - 美国_7
+      - 美国_8
+      - 美国_9
+      - 美国_10
+      - 美国_11
+      - 美国_12
+      - 美国_13
+      - 美国_14
+      - 美国_15
+      - 美国_16
+      - 美国_17
+      - 美国_18
       - 11(TG:@tccjd)
       - 12(TG:@tccjd)
       - 13(TG:@tccjd)
+      - 01(TG:@tccjd)
+      - 德國
+      - 德國_1
+      - 美國
+      - defaultName
+      - defaultName_1
+      - 01(TG:@tccjd)_1
+      - defaultName_2
+      - 03(TG:@tccjd)_1
+      - 04(TG:@tccjd)_1
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
       - 14(TG:@tccjd)
       - 15(TG:@tccjd)
       - 16(TG:@tccjd)
       - 17(TG:@tccjd)
       - 18(TG:@tccjd)
-      - 🇭🇰 香港4|@ripaojiedian
-      - 🇭🇰 香港5|@ripaojiedian
-      - 01(TG:@tccjd)_1
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)_1
-      - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 09(TG:@tccjd)_1
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 01(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
-      - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
       - 05(TG:@tccjd)_2
-      - 06(TG:@tccjd)_2
-      - 07(TG:@tccjd)_2
-      - 08(TG:@tccjd)_2
-      - 09(TG:@tccjd)_2
-      - 10(TG:@tccjd)_2
-      - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_1
-      - 15(TG:@tccjd)_1
-      - 16(TG:@tccjd)_1
-      - 17(TG:@tccjd)_1
-      - 18(TG:@tccjd)_1
-      - 01(TG:@tccjd)_4
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
-      - 05(TG:@tccjd)_3
-      - 01(TG:@tccjd)_5
+      - 01(TG:@tccjd)_2
       - defaultName_3
       - defaultName_4
-      - 04(TG:@tccjd)_4
-      - 05(TG:@tccjd)_4
-      - 06(TG:@tccjd)_3
-      - 07(TG:@tccjd)_3
-      - 01(TG:@tccjd)_6
-      - 01(TG:@tccjd)_7
-      - 02(TG:@tccjd)_3
-      - 03(TG:@tccjd)_4
-      - 04(TG:@tccjd)_5
-      - 05(TG:@tccjd)_5
-      - 美國
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_3
+      - 06(TG:@tccjd)_1
+      - 07(TG:@tccjd)
+      - 01(TG:@tccjd)_3
+      - 韓國
       - 美國_1
+      - defaultName_5
       - 美國_2
-      - 法國
+      - defaultName_6
+      - 香港
       - 美國_3
+      - 摩爾多瓦
+      - 德國_2
+      - 摩爾多瓦_1
+      - 摩爾多瓦_2
+      - 英國
+      - 希臘
+      - 土耳其
+      - 摩爾多瓦_3
       - 美國_4
+      - 俄羅斯
+      - 俄羅斯_1
+      - 俄羅斯_2
+      - 香港_1
+      - 韓國_1
+      - 摩爾多瓦_4
+      - 摩爾多瓦_5
+      - 英國_1
+      - 摩爾多瓦_6
+      - 希臘_1
+      - 英國_2
+      - 摩爾多瓦_7
+      - 俄羅斯_3
       - 美國_5
+      - 俄羅斯_4
+      - 俄羅斯_5
+      - 伊朗
+      - 希臘_2
+      - 摩爾多瓦_8
+      - 英國_3
+      - 英國_4
+      - 摩爾多瓦_9
+      - 希臘_3
+      - 🇨🇦_CA_加拿大
+      - 德國_3
+      - 韓國_2
+      - 俄羅斯_6
+      - 俄羅斯_7
+      - 俄羅斯_8
+      - 伊朗_1
+      - 🇭🇰 香港3|@stairnode
+      - 🇭🇰 香港4|@stairnode
+      - 🇭🇰 香港3|@ripaojiedian
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
+      - 01(TG:@tccjd)_4
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)_2
+      - 06(TG:@tccjd)_2
+      - 11(TG:@tccjd)_2
+      - 01(TG:@tccjd)_5
+      - 02(TG:@tccjd)_1
       - 美國_6
       - 美國_7
       - 美國_8
+      - 法國
       - 美國_9
       - 美國_10
       - 美國_11
@@ -4076,13 +3932,13 @@ proxy-groups:
       - 美國_14
       - 美國_15
       - 美國_16
-      - 香港
       - 美國_17
       - 美國_18
       - 美國_19
       - 美國_20
       - 美國_21
       - 美國_22
+      - 香港_2
       - 美國_23
       - 美國_24
       - 美國_25
@@ -4092,7 +3948,6 @@ proxy-groups:
       - 美國_29
       - 美國_30
       - 美國_31
-      - 韓國
       - 美國_32
       - 美國_33
       - 美國_34
@@ -4103,7 +3958,6 @@ proxy-groups:
       - 美國_39
       - 美國_40
       - 美國_41
-      - defaultName_5
       - 美國_42
       - 美國_43
       - 美國_44
@@ -4118,48 +3972,32 @@ proxy-groups:
       - 美國_53
       - 美國_54
       - 美國_55
-      - defaultName_6
       - 美國_56
       - 美國_57
-      - 西班牙
       - 美國_58
       - 美國_59
       - 美國_60
-      - 香港_1
       - 美國_61
+      - 西班牙
       - 美國_62
       - 美國_63
       - 美國_64
-      - 香港_2
       - 美國_65
       - 美國_66
       - 美國_67
-      - 摩爾多瓦
       - 香港_3
       - 美國_68
-      - 德國
       - 美國_69
-      - 摩爾多瓦_1
-      - 摩爾多瓦_2
-      - 英國
-      - 英國_1
-      - 英國_2
-      - 英國_3
       - 美國_70
-      - 希臘
-      - 土耳其
-      - 法國_1
-      - 摩爾多瓦_3
-      - 美國_71
-      - 俄羅斯
-      - 俄羅斯_1
-      - 俄羅斯_2
-      - 俄羅斯_3
-      - 印度
       - 香港_4
+      - 美國_71
+      - 美國_72
+      - 英國_5
+      - 英國_6
+      - 英國_7
+      - 印度
       - 香港_5
       - 美國（2025.12.30更新）
-      - 美國_72
       - 美國_73
       - 美國_74
       - 美國_75
@@ -4170,49 +4008,35 @@ proxy-groups:
       - 美國_80
       - 美國_81
       - 美國_82
-      - 韓國_1
       - 美國_83
       - 美國_84
-      - 美国
       - 美國_85
+      - 美国_19
       - 美國_86
       - 美國_87
-      - 西班牙_1
       - 美國_88
+      - 西班牙_1
       - 美國_89
       - 美國_90
-      - 俄羅斯_4
       - 美國_91
+      - 俄羅斯_9
       - 美國_92
       - 美國_93
-      - 德國_1
-      - 德國_2
       - 美國_94
-      - 摩爾多瓦_4
       - 美國_95
       - 美國_96
       - 香港_6
-      - 摩爾多瓦_5
-      - 英國_4
       - 香港_7
       - 香港_8
       - 香港_9
-      - 摩爾多瓦_6
-      - 希臘_1
-      - 英國_5
-      - 摩爾多瓦_7
-      - 俄羅斯_5
-      - 美國_97
-      - 俄羅斯_6
-      - 俄羅斯_7
       - 香港_10
       - 香港_11
-      - 伊朗
+      - 美國_97
       - 美國_98
       - 美國_99
       - 美國_100
-      - 美國_101
       - 香港_12
+      - 美國_101
       - 美國_102
       - 美國_103
       - 美國_104
@@ -4253,9 +4077,9 @@ proxy-groups:
       - 美國_139
       - 美國_140
       - 美國_141
-      - 美國_142
       - 香港_13
       - 西班牙_2
+      - 美國_142
       - 美國_143
       - 美國_144
       - 美國_145
@@ -4275,146 +4099,164 @@ proxy-groups:
       - 美國_159
       - 美國_160
       - 美國_161
-      - 希臘_2
+      - 英國_8
       - 美國_162
       - 美國_163
-      - 美國_164
-      - 英國_6
-      - 美國_165
-      - 美國_166
-      - 摩爾多瓦_8
-      - 英國_7
-      - 香港_14
-      - 英國_8
       - 英國_9
-      - 摩爾多瓦_9
-      - 希臘_3
+      - 香港_14
       - 香港_15
-      - 法國_2
       - 香港_16
-      - 🇨🇦_CA_加拿大
-      - 德國_3
-      - 韓國_2
-      - 俄羅斯_8
-      - 俄羅斯_9
-      - 俄羅斯_10
-      - 俄羅斯_11
       - 印度_1
       - 香港_17
       - 香港_18
       - 香港_19
-      - 美国_1
-      - 美国_2
-      - 伊朗_1
       - 香港_20
-      - 美国_3
-      - 美国_4
-      - 美国_5
-      - 美国_6
-      - 美国_7
-      - 美国_8
-      - 美国_9
-      - 美国_10
-      - 美国_11
-      - 美国_12
-      - 美国_13
-      - 美国_14
-      - 美国_15
-      - 美国_16
-      - 美国_17
-      - 美国_18
-      - 美国_19
+      - 🇹🇼 🇨🇳 台湾 | TWN
+      - 01(TG:@tccjd)_6
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_3
+      - 04(TG:@tccjd)_3
+      - 05(TG:@tccjd)_4
+      - 06(TG:@tccjd)_3
+      - 08(TG:@tccjd)
+      - 07(TG:@tccjd)_1
+      - 09(TG:@tccjd)_1
+      - 10(TG:@tccjd)_1
+      - 04(TG:@tccjd)_4
+      - 05(TG:@tccjd)_5
+      - 07(TG:@tccjd)_2
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)_2
+      - 10(TG:@tccjd)_2
+      - 12(TG:@tccjd)_2
+      - 13(TG:@tccjd)_2
+      - 14(TG:@tccjd)_1
+      - 15(TG:@tccjd)_1
+      - 16(TG:@tccjd)_1
+      - 17(TG:@tccjd)_1
   - name: ♻️ 自动选择
     type: url-test
     proxies:
-      - defaultName
-      - defaultName_1
-      - 🇹🇼 🇨🇳 台湾 | TWN
-      - 🇭🇰 香港3|@stairnode
-      - 01(TG:@tccjd)
       - 🇺🇸 美国4|@ripaojiedian
-      - defaultName_2
-      - 🇭🇰 香港4|@stairnode
       - 03(TG:@tccjd)
-      - 🇭🇰 香港3|@ripaojiedian
       - 04(TG:@tccjd)
-      - 🇭🇰 香港 电讯盈科有限公司
       - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
+      - 美国
+      - 美国_1
+      - 美国_2
+      - 美国_3
+      - 美国_4
+      - 美国_5
+      - 美国_6
+      - 美国_7
+      - 美国_8
+      - 美国_9
+      - 美国_10
+      - 美国_11
+      - 美国_12
+      - 美国_13
+      - 美国_14
+      - 美国_15
+      - 美国_16
+      - 美国_17
+      - 美国_18
       - 11(TG:@tccjd)
       - 12(TG:@tccjd)
       - 13(TG:@tccjd)
+      - 01(TG:@tccjd)
+      - 德國
+      - 德國_1
+      - 美國
+      - defaultName
+      - defaultName_1
+      - 01(TG:@tccjd)_1
+      - defaultName_2
+      - 03(TG:@tccjd)_1
+      - 04(TG:@tccjd)_1
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
       - 14(TG:@tccjd)
       - 15(TG:@tccjd)
       - 16(TG:@tccjd)
       - 17(TG:@tccjd)
       - 18(TG:@tccjd)
-      - 🇭🇰 香港4|@ripaojiedian
-      - 🇭🇰 香港5|@ripaojiedian
-      - 01(TG:@tccjd)_1
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)_1
-      - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 09(TG:@tccjd)_1
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 01(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
-      - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
       - 05(TG:@tccjd)_2
-      - 06(TG:@tccjd)_2
-      - 07(TG:@tccjd)_2
-      - 08(TG:@tccjd)_2
-      - 09(TG:@tccjd)_2
-      - 10(TG:@tccjd)_2
-      - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_1
-      - 15(TG:@tccjd)_1
-      - 16(TG:@tccjd)_1
-      - 17(TG:@tccjd)_1
-      - 18(TG:@tccjd)_1
-      - 01(TG:@tccjd)_4
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
-      - 05(TG:@tccjd)_3
-      - 01(TG:@tccjd)_5
+      - 01(TG:@tccjd)_2
       - defaultName_3
       - defaultName_4
-      - 04(TG:@tccjd)_4
-      - 05(TG:@tccjd)_4
-      - 06(TG:@tccjd)_3
-      - 07(TG:@tccjd)_3
-      - 01(TG:@tccjd)_6
-      - 01(TG:@tccjd)_7
-      - 02(TG:@tccjd)_3
-      - 03(TG:@tccjd)_4
-      - 04(TG:@tccjd)_5
-      - 05(TG:@tccjd)_5
-      - 美國
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_3
+      - 06(TG:@tccjd)_1
+      - 07(TG:@tccjd)
+      - 01(TG:@tccjd)_3
+      - 韓國
       - 美國_1
+      - defaultName_5
       - 美國_2
-      - 法國
+      - defaultName_6
+      - 香港
       - 美國_3
+      - 摩爾多瓦
+      - 德國_2
+      - 摩爾多瓦_1
+      - 摩爾多瓦_2
+      - 英國
+      - 希臘
+      - 土耳其
+      - 摩爾多瓦_3
       - 美國_4
+      - 俄羅斯
+      - 俄羅斯_1
+      - 俄羅斯_2
+      - 香港_1
+      - 韓國_1
+      - 摩爾多瓦_4
+      - 摩爾多瓦_5
+      - 英國_1
+      - 摩爾多瓦_6
+      - 希臘_1
+      - 英國_2
+      - 摩爾多瓦_7
+      - 俄羅斯_3
       - 美國_5
+      - 俄羅斯_4
+      - 俄羅斯_5
+      - 伊朗
+      - 希臘_2
+      - 摩爾多瓦_8
+      - 英國_3
+      - 英國_4
+      - 摩爾多瓦_9
+      - 希臘_3
+      - 🇨🇦_CA_加拿大
+      - 德國_3
+      - 韓國_2
+      - 俄羅斯_6
+      - 俄羅斯_7
+      - 俄羅斯_8
+      - 伊朗_1
+      - 🇭🇰 香港3|@stairnode
+      - 🇭🇰 香港4|@stairnode
+      - 🇭🇰 香港3|@ripaojiedian
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
+      - 01(TG:@tccjd)_4
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)_2
+      - 06(TG:@tccjd)_2
+      - 11(TG:@tccjd)_2
+      - 01(TG:@tccjd)_5
+      - 02(TG:@tccjd)_1
       - 美國_6
       - 美國_7
       - 美國_8
+      - 法國
       - 美國_9
       - 美國_10
       - 美國_11
@@ -4423,13 +4265,13 @@ proxy-groups:
       - 美國_14
       - 美國_15
       - 美國_16
-      - 香港
       - 美國_17
       - 美國_18
       - 美國_19
       - 美國_20
       - 美國_21
       - 美國_22
+      - 香港_2
       - 美國_23
       - 美國_24
       - 美國_25
@@ -4439,7 +4281,6 @@ proxy-groups:
       - 美國_29
       - 美國_30
       - 美國_31
-      - 韓國
       - 美國_32
       - 美國_33
       - 美國_34
@@ -4450,7 +4291,6 @@ proxy-groups:
       - 美國_39
       - 美國_40
       - 美國_41
-      - defaultName_5
       - 美國_42
       - 美國_43
       - 美國_44
@@ -4465,48 +4305,32 @@ proxy-groups:
       - 美國_53
       - 美國_54
       - 美國_55
-      - defaultName_6
       - 美國_56
       - 美國_57
-      - 西班牙
       - 美國_58
       - 美國_59
       - 美國_60
-      - 香港_1
       - 美國_61
+      - 西班牙
       - 美國_62
       - 美國_63
       - 美國_64
-      - 香港_2
       - 美國_65
       - 美國_66
       - 美國_67
-      - 摩爾多瓦
       - 香港_3
       - 美國_68
-      - 德國
       - 美國_69
-      - 摩爾多瓦_1
-      - 摩爾多瓦_2
-      - 英國
-      - 英國_1
-      - 英國_2
-      - 英國_3
       - 美國_70
-      - 希臘
-      - 土耳其
-      - 法國_1
-      - 摩爾多瓦_3
-      - 美國_71
-      - 俄羅斯
-      - 俄羅斯_1
-      - 俄羅斯_2
-      - 俄羅斯_3
-      - 印度
       - 香港_4
+      - 美國_71
+      - 美國_72
+      - 英國_5
+      - 英國_6
+      - 英國_7
+      - 印度
       - 香港_5
       - 美國（2025.12.30更新）
-      - 美國_72
       - 美國_73
       - 美國_74
       - 美國_75
@@ -4517,49 +4341,35 @@ proxy-groups:
       - 美國_80
       - 美國_81
       - 美國_82
-      - 韓國_1
       - 美國_83
       - 美國_84
-      - 美国
       - 美國_85
+      - 美国_19
       - 美國_86
       - 美國_87
-      - 西班牙_1
       - 美國_88
+      - 西班牙_1
       - 美國_89
       - 美國_90
-      - 俄羅斯_4
       - 美國_91
+      - 俄羅斯_9
       - 美國_92
       - 美國_93
-      - 德國_1
-      - 德國_2
       - 美國_94
-      - 摩爾多瓦_4
       - 美國_95
       - 美國_96
       - 香港_6
-      - 摩爾多瓦_5
-      - 英國_4
       - 香港_7
       - 香港_8
       - 香港_9
-      - 摩爾多瓦_6
-      - 希臘_1
-      - 英國_5
-      - 摩爾多瓦_7
-      - 俄羅斯_5
-      - 美國_97
-      - 俄羅斯_6
-      - 俄羅斯_7
       - 香港_10
       - 香港_11
-      - 伊朗
+      - 美國_97
       - 美國_98
       - 美國_99
       - 美國_100
-      - 美國_101
       - 香港_12
+      - 美國_101
       - 美國_102
       - 美國_103
       - 美國_104
@@ -4600,9 +4410,9 @@ proxy-groups:
       - 美國_139
       - 美國_140
       - 美國_141
-      - 美國_142
       - 香港_13
       - 西班牙_2
+      - 美國_142
       - 美國_143
       - 美國_144
       - 美國_145
@@ -4622,55 +4432,41 @@ proxy-groups:
       - 美國_159
       - 美國_160
       - 美國_161
-      - 希臘_2
+      - 英國_8
       - 美國_162
       - 美國_163
-      - 美國_164
-      - 英國_6
-      - 美國_165
-      - 美國_166
-      - 摩爾多瓦_8
-      - 英國_7
-      - 香港_14
-      - 英國_8
       - 英國_9
-      - 摩爾多瓦_9
-      - 希臘_3
+      - 香港_14
       - 香港_15
-      - 法國_2
       - 香港_16
-      - 🇨🇦_CA_加拿大
-      - 德國_3
-      - 韓國_2
-      - 俄羅斯_8
-      - 俄羅斯_9
-      - 俄羅斯_10
-      - 俄羅斯_11
       - 印度_1
       - 香港_17
       - 香港_18
       - 香港_19
-      - 美国_1
-      - 美国_2
-      - 伊朗_1
       - 香港_20
-      - 美国_3
-      - 美国_4
-      - 美国_5
-      - 美国_6
-      - 美国_7
-      - 美国_8
-      - 美国_9
-      - 美国_10
-      - 美国_11
-      - 美国_12
-      - 美国_13
-      - 美国_14
-      - 美国_15
-      - 美国_16
-      - 美国_17
-      - 美国_18
-      - 美国_19
+      - 🇹🇼 🇨🇳 台湾 | TWN
+      - 01(TG:@tccjd)_6
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_3
+      - 04(TG:@tccjd)_3
+      - 05(TG:@tccjd)_4
+      - 06(TG:@tccjd)_3
+      - 08(TG:@tccjd)
+      - 07(TG:@tccjd)_1
+      - 09(TG:@tccjd)_1
+      - 10(TG:@tccjd)_1
+      - 04(TG:@tccjd)_4
+      - 05(TG:@tccjd)_5
+      - 07(TG:@tccjd)_2
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)_2
+      - 10(TG:@tccjd)_2
+      - 12(TG:@tccjd)_2
+      - 13(TG:@tccjd)_2
+      - 14(TG:@tccjd)_1
+      - 15(TG:@tccjd)_1
+      - 16(TG:@tccjd)_1
+      - 17(TG:@tccjd)_1
     url: http://www.gstatic.com/generate_204
     interval: 300
   - name: 🎯 全球直连
@@ -4690,94 +4486,126 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - defaultName
-      - defaultName_1
-      - 🇹🇼 🇨🇳 台湾 | TWN
-      - 🇭🇰 香港3|@stairnode
-      - 01(TG:@tccjd)
       - 🇺🇸 美国4|@ripaojiedian
-      - defaultName_2
-      - 🇭🇰 香港4|@stairnode
       - 03(TG:@tccjd)
-      - 🇭🇰 香港3|@ripaojiedian
       - 04(TG:@tccjd)
-      - 🇭🇰 香港 电讯盈科有限公司
       - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
+      - 美国
+      - 美国_1
+      - 美国_2
+      - 美国_3
+      - 美国_4
+      - 美国_5
+      - 美国_6
+      - 美国_7
+      - 美国_8
+      - 美国_9
+      - 美国_10
+      - 美国_11
+      - 美国_12
+      - 美国_13
+      - 美国_14
+      - 美国_15
+      - 美国_16
+      - 美国_17
+      - 美国_18
       - 11(TG:@tccjd)
       - 12(TG:@tccjd)
       - 13(TG:@tccjd)
+      - 01(TG:@tccjd)
+      - 德國
+      - 德國_1
+      - 美國
+      - defaultName
+      - defaultName_1
+      - 01(TG:@tccjd)_1
+      - defaultName_2
+      - 03(TG:@tccjd)_1
+      - 04(TG:@tccjd)_1
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
       - 14(TG:@tccjd)
       - 15(TG:@tccjd)
       - 16(TG:@tccjd)
       - 17(TG:@tccjd)
       - 18(TG:@tccjd)
-      - 🇭🇰 香港4|@ripaojiedian
-      - 🇭🇰 香港5|@ripaojiedian
-      - 01(TG:@tccjd)_1
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)_1
-      - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 09(TG:@tccjd)_1
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 01(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
-      - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
       - 05(TG:@tccjd)_2
-      - 06(TG:@tccjd)_2
-      - 07(TG:@tccjd)_2
-      - 08(TG:@tccjd)_2
-      - 09(TG:@tccjd)_2
-      - 10(TG:@tccjd)_2
-      - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_1
-      - 15(TG:@tccjd)_1
-      - 16(TG:@tccjd)_1
-      - 17(TG:@tccjd)_1
-      - 18(TG:@tccjd)_1
-      - 01(TG:@tccjd)_4
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
-      - 05(TG:@tccjd)_3
-      - 01(TG:@tccjd)_5
+      - 01(TG:@tccjd)_2
       - defaultName_3
       - defaultName_4
-      - 04(TG:@tccjd)_4
-      - 05(TG:@tccjd)_4
-      - 06(TG:@tccjd)_3
-      - 07(TG:@tccjd)_3
-      - 01(TG:@tccjd)_6
-      - 01(TG:@tccjd)_7
-      - 02(TG:@tccjd)_3
-      - 03(TG:@tccjd)_4
-      - 04(TG:@tccjd)_5
-      - 05(TG:@tccjd)_5
-      - 美國
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_3
+      - 06(TG:@tccjd)_1
+      - 07(TG:@tccjd)
+      - 01(TG:@tccjd)_3
+      - 韓國
       - 美國_1
+      - defaultName_5
       - 美國_2
-      - 法國
+      - defaultName_6
+      - 香港
       - 美國_3
+      - 摩爾多瓦
+      - 德國_2
+      - 摩爾多瓦_1
+      - 摩爾多瓦_2
+      - 英國
+      - 希臘
+      - 土耳其
+      - 摩爾多瓦_3
       - 美國_4
+      - 俄羅斯
+      - 俄羅斯_1
+      - 俄羅斯_2
+      - 香港_1
+      - 韓國_1
+      - 摩爾多瓦_4
+      - 摩爾多瓦_5
+      - 英國_1
+      - 摩爾多瓦_6
+      - 希臘_1
+      - 英國_2
+      - 摩爾多瓦_7
+      - 俄羅斯_3
       - 美國_5
+      - 俄羅斯_4
+      - 俄羅斯_5
+      - 伊朗
+      - 希臘_2
+      - 摩爾多瓦_8
+      - 英國_3
+      - 英國_4
+      - 摩爾多瓦_9
+      - 希臘_3
+      - 🇨🇦_CA_加拿大
+      - 德國_3
+      - 韓國_2
+      - 俄羅斯_6
+      - 俄羅斯_7
+      - 俄羅斯_8
+      - 伊朗_1
+      - 🇭🇰 香港3|@stairnode
+      - 🇭🇰 香港4|@stairnode
+      - 🇭🇰 香港3|@ripaojiedian
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
+      - 01(TG:@tccjd)_4
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)_2
+      - 06(TG:@tccjd)_2
+      - 11(TG:@tccjd)_2
+      - 01(TG:@tccjd)_5
+      - 02(TG:@tccjd)_1
       - 美國_6
       - 美國_7
       - 美國_8
+      - 法國
       - 美國_9
       - 美國_10
       - 美國_11
@@ -4786,13 +4614,13 @@ proxy-groups:
       - 美國_14
       - 美國_15
       - 美國_16
-      - 香港
       - 美國_17
       - 美國_18
       - 美國_19
       - 美國_20
       - 美國_21
       - 美國_22
+      - 香港_2
       - 美國_23
       - 美國_24
       - 美國_25
@@ -4802,7 +4630,6 @@ proxy-groups:
       - 美國_29
       - 美國_30
       - 美國_31
-      - 韓國
       - 美國_32
       - 美國_33
       - 美國_34
@@ -4813,7 +4640,6 @@ proxy-groups:
       - 美國_39
       - 美國_40
       - 美國_41
-      - defaultName_5
       - 美國_42
       - 美國_43
       - 美國_44
@@ -4828,48 +4654,32 @@ proxy-groups:
       - 美國_53
       - 美國_54
       - 美國_55
-      - defaultName_6
       - 美國_56
       - 美國_57
-      - 西班牙
       - 美國_58
       - 美國_59
       - 美國_60
-      - 香港_1
       - 美國_61
+      - 西班牙
       - 美國_62
       - 美國_63
       - 美國_64
-      - 香港_2
       - 美國_65
       - 美國_66
       - 美國_67
-      - 摩爾多瓦
       - 香港_3
       - 美國_68
-      - 德國
       - 美國_69
-      - 摩爾多瓦_1
-      - 摩爾多瓦_2
-      - 英國
-      - 英國_1
-      - 英國_2
-      - 英國_3
       - 美國_70
-      - 希臘
-      - 土耳其
-      - 法國_1
-      - 摩爾多瓦_3
-      - 美國_71
-      - 俄羅斯
-      - 俄羅斯_1
-      - 俄羅斯_2
-      - 俄羅斯_3
-      - 印度
       - 香港_4
+      - 美國_71
+      - 美國_72
+      - 英國_5
+      - 英國_6
+      - 英國_7
+      - 印度
       - 香港_5
       - 美國（2025.12.30更新）
-      - 美國_72
       - 美國_73
       - 美國_74
       - 美國_75
@@ -4880,49 +4690,35 @@ proxy-groups:
       - 美國_80
       - 美國_81
       - 美國_82
-      - 韓國_1
       - 美國_83
       - 美國_84
-      - 美国
       - 美國_85
+      - 美国_19
       - 美國_86
       - 美國_87
-      - 西班牙_1
       - 美國_88
+      - 西班牙_1
       - 美國_89
       - 美國_90
-      - 俄羅斯_4
       - 美國_91
+      - 俄羅斯_9
       - 美國_92
       - 美國_93
-      - 德國_1
-      - 德國_2
       - 美國_94
-      - 摩爾多瓦_4
       - 美國_95
       - 美國_96
       - 香港_6
-      - 摩爾多瓦_5
-      - 英國_4
       - 香港_7
       - 香港_8
       - 香港_9
-      - 摩爾多瓦_6
-      - 希臘_1
-      - 英國_5
-      - 摩爾多瓦_7
-      - 俄羅斯_5
-      - 美國_97
-      - 俄羅斯_6
-      - 俄羅斯_7
       - 香港_10
       - 香港_11
-      - 伊朗
+      - 美國_97
       - 美國_98
       - 美國_99
       - 美國_100
-      - 美國_101
       - 香港_12
+      - 美國_101
       - 美國_102
       - 美國_103
       - 美國_104
@@ -4963,9 +4759,9 @@ proxy-groups:
       - 美國_139
       - 美國_140
       - 美國_141
-      - 美國_142
       - 香港_13
       - 西班牙_2
+      - 美國_142
       - 美國_143
       - 美國_144
       - 美國_145
@@ -4985,55 +4781,41 @@ proxy-groups:
       - 美國_159
       - 美國_160
       - 美國_161
-      - 希臘_2
+      - 英國_8
       - 美國_162
       - 美國_163
-      - 美國_164
-      - 英國_6
-      - 美國_165
-      - 美國_166
-      - 摩爾多瓦_8
-      - 英國_7
-      - 香港_14
-      - 英國_8
       - 英國_9
-      - 摩爾多瓦_9
-      - 希臘_3
+      - 香港_14
       - 香港_15
-      - 法國_2
       - 香港_16
-      - 🇨🇦_CA_加拿大
-      - 德國_3
-      - 韓國_2
-      - 俄羅斯_8
-      - 俄羅斯_9
-      - 俄羅斯_10
-      - 俄羅斯_11
       - 印度_1
       - 香港_17
       - 香港_18
       - 香港_19
-      - 美国_1
-      - 美国_2
-      - 伊朗_1
       - 香港_20
-      - 美国_3
-      - 美国_4
-      - 美国_5
-      - 美国_6
-      - 美国_7
-      - 美国_8
-      - 美国_9
-      - 美国_10
-      - 美国_11
-      - 美国_12
-      - 美国_13
-      - 美国_14
-      - 美国_15
-      - 美国_16
-      - 美国_17
-      - 美国_18
-      - 美国_19
+      - 🇹🇼 🇨🇳 台湾 | TWN
+      - 01(TG:@tccjd)_6
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_3
+      - 04(TG:@tccjd)_3
+      - 05(TG:@tccjd)_4
+      - 06(TG:@tccjd)_3
+      - 08(TG:@tccjd)
+      - 07(TG:@tccjd)_1
+      - 09(TG:@tccjd)_1
+      - 10(TG:@tccjd)_1
+      - 04(TG:@tccjd)_4
+      - 05(TG:@tccjd)_5
+      - 07(TG:@tccjd)_2
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)_2
+      - 10(TG:@tccjd)_2
+      - 12(TG:@tccjd)_2
+      - 13(TG:@tccjd)_2
+      - 14(TG:@tccjd)_1
+      - 15(TG:@tccjd)_1
+      - 16(TG:@tccjd)_1
+      - 17(TG:@tccjd)_1
 rule-providers:
   LocalAreaNetwork:
     type: http
