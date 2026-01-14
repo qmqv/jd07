@@ -821,44 +821,6 @@ proxies:
     client-fingerprint: chrome
     ws-opts:
       path: /
-  - name: 03(TG:@tccjd)_2
-    type: vless
-    server: 181.214.99.116
-    port: 443
-    uuid: 7c63f43f-f526-49bb-b5c8-2be26e11ef00
-    network: http
-    servername: statue.lnmarketplace.net
-    tls: true
-    client-fingerprint: chrome
-    http-opts:
-      path: /statue
-      headers:
-        Host: statue.lnmarketplace.net
-  - name: 04(TG:@tccjd)_2
-    type: vless
-    server: 181.214.99.116
-    port: 443
-    uuid: 7c63f43f-f526-49bb-b5c8-2be26e11ef00
-    network: http
-    servername: statue.lnmarketplace.net
-    tls: true
-    client-fingerprint: chrome
-    http-opts:
-      path: /statue
-      headers:
-        Host: statue.lnmarketplace.net
-  - name: 05(TG:@tccjd)_3
-    type: vless
-    server: statue.lnmarketplace.net
-    port: 443
-    uuid: 7c63f43f-f526-49bb-b5c8-2be26e11ef00
-    network: http
-    servername: statue.lnmarketplace.net
-    tls: true
-    http-opts:
-      path: /statue
-      headers:
-        Host: statue.lnmarketplace.net
   - name: 06(TG:@tccjd)_2
     type: vless
     server: api.dark-coffe.com
@@ -934,39 +896,6 @@ proxies:
       path: /
       headers:
         Host: hzr46.sepiol.name.ng
-  - name: 12(TG:@tccjd)_1
-    type: vless
-    server: 167.82.93.227
-    port: 80
-    uuid: Parsashonam-338
-    network: http
-    tls: false
-    http-opts:
-      path: /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam
-      headers:
-        Host: Free-V2ray-Bot-Parsashonam4.global.ssl.fastly.net
-  - name: 13(TG:@tccjd)_1
-    type: vless
-    server: 199.232.240.249
-    port: 80
-    uuid: Parsashonam-338
-    network: http
-    tls: false
-    http-opts:
-      path: /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam
-      headers:
-        Host: Free-V2ray-Bot-Parsashonam4.global.ssl.fastly.net
-  - name: 14(TG:@tccjd)_1
-    type: vless
-    server: 167.82.105.8
-    port: 80
-    uuid: Parsashonam-338
-    network: http
-    tls: false
-    http-opts:
-      path: /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam
-      headers:
-        Host: Free-V2ray-Bot-Parsashonam3.global.ssl.fastly.net
   - name: 15(TG:@tccjd)
     type: vless
     server: 91.243.82.82
@@ -2170,7 +2099,7 @@ proxies:
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
       short-id: 6ba85179e30d4fc2
-  - name: 03(TG:@tccjd)_3
+  - name: 03(TG:@tccjd)_2
     type: vless
     server: octopusss5.info
     port: 22955
@@ -2184,7 +2113,7 @@ proxies:
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
       short-id: 6ba85179e30d4fc2
-  - name: 04(TG:@tccjd)_3
+  - name: 04(TG:@tccjd)_2
     type: vless
     server: octopusss5.info
     port: 22955
@@ -2268,7 +2197,7 @@ proxies:
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
       short-id: 6ba85179e30d4fc2
-  - name: 12(TG:@tccjd)_2
+  - name: 12(TG:@tccjd)_1
     type: vless
     server: octopusss5.info
     port: 22955
@@ -2282,7 +2211,7 @@ proxies:
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
       short-id: 6ba85179e30d4fc2
-  - name: 13(TG:@tccjd)_2
+  - name: 13(TG:@tccjd)_1
     type: vless
     server: dfg.octopusss.net
     port: 22955
@@ -2296,7 +2225,7 @@ proxies:
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
       short-id: 6ba85179e30d4fc2
-  - name: 14(TG:@tccjd)_2
+  - name: 14(TG:@tccjd)_1
     type: vless
     server: octopusss5.info
     port: 22955
@@ -2769,14 +2698,6 @@ proxies:
     tls: true
     ws-opts:
       path: /?BIA_TELEGRAM+(@AZARBAYJAB1)+TM+(@AZARBAYJAB1)+TM+(@AZARBAYJAB1)+TM+(@AZARBAYJAB1)+TM+(@AZARBAYJAB1)+TM+(@AZARBAYJAB1)
-  - name: 美國_19
-    type: trojan
-    server: 205.185.115.223
-    port: 19258
-    password: iWnFtzMiac
-    sni: cloudflare.com
-    skip-cert-verify: false
-    tls: true
   - name: 香港_2
     type: trojan
     server: 58.152.46.60
@@ -2902,18 +2823,12 @@ proxy-groups:
       - 06(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
       - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 05(TG:@tccjd)_3
       - 06(TG:@tccjd)_2
       - 07(TG:@tccjd)
       - 08(TG:@tccjd)_1
       - 09(TG:@tccjd)_1
       - 10(TG:@tccjd)_1
       - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)
       - 奧地利
       - 新加坡
@@ -3011,16 +2926,16 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 01(TG:@tccjd)_3
       - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
       - 06(TG:@tccjd)_3
       - 07(TG:@tccjd)_1
       - 09(TG:@tccjd)_2
       - 10(TG:@tccjd)_2
       - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_2
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
+      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
       - 18(TG:@tccjd)
       - 21(TG:@tccjd)
@@ -3062,7 +2977,6 @@ proxy-groups:
       - 香港_1
       - 俄羅斯_4
       - 俄羅斯_5
-      - 美國_19
       - 香港_2
       - 香港_3
       - 香港_4
@@ -3157,18 +3071,12 @@ proxy-groups:
       - 06(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
       - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 05(TG:@tccjd)_3
       - 06(TG:@tccjd)_2
       - 07(TG:@tccjd)
       - 08(TG:@tccjd)_1
       - 09(TG:@tccjd)_1
       - 10(TG:@tccjd)_1
       - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)
       - 奧地利
       - 新加坡
@@ -3266,16 +3174,16 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 01(TG:@tccjd)_3
       - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
       - 06(TG:@tccjd)_3
       - 07(TG:@tccjd)_1
       - 09(TG:@tccjd)_2
       - 10(TG:@tccjd)_2
       - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_2
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
+      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
       - 18(TG:@tccjd)
       - 21(TG:@tccjd)
@@ -3317,7 +3225,6 @@ proxy-groups:
       - 香港_1
       - 俄羅斯_4
       - 俄羅斯_5
-      - 美國_19
       - 香港_2
       - 香港_3
       - 香港_4
@@ -3418,18 +3325,12 @@ proxy-groups:
       - 06(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
       - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 05(TG:@tccjd)_3
       - 06(TG:@tccjd)_2
       - 07(TG:@tccjd)
       - 08(TG:@tccjd)_1
       - 09(TG:@tccjd)_1
       - 10(TG:@tccjd)_1
       - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)
       - 奧地利
       - 新加坡
@@ -3527,16 +3428,16 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 01(TG:@tccjd)_3
       - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
       - 06(TG:@tccjd)_3
       - 07(TG:@tccjd)_1
       - 09(TG:@tccjd)_2
       - 10(TG:@tccjd)_2
       - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_2
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
+      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
       - 18(TG:@tccjd)
       - 21(TG:@tccjd)
@@ -3578,7 +3479,6 @@ proxy-groups:
       - 香港_1
       - 俄羅斯_4
       - 俄羅斯_5
-      - 美國_19
       - 香港_2
       - 香港_3
       - 香港_4
@@ -3675,18 +3575,12 @@ proxy-groups:
       - 06(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
       - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 05(TG:@tccjd)_3
       - 06(TG:@tccjd)_2
       - 07(TG:@tccjd)
       - 08(TG:@tccjd)_1
       - 09(TG:@tccjd)_1
       - 10(TG:@tccjd)_1
       - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)
       - 奧地利
       - 新加坡
@@ -3784,16 +3678,16 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 01(TG:@tccjd)_3
       - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
       - 06(TG:@tccjd)_3
       - 07(TG:@tccjd)_1
       - 09(TG:@tccjd)_2
       - 10(TG:@tccjd)_2
       - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_2
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
+      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
       - 18(TG:@tccjd)
       - 21(TG:@tccjd)
@@ -3835,7 +3729,6 @@ proxy-groups:
       - 香港_1
       - 俄羅斯_4
       - 俄羅斯_5
-      - 美國_19
       - 香港_2
       - 香港_3
       - 香港_4
@@ -3932,18 +3825,12 @@ proxy-groups:
       - 06(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
       - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 05(TG:@tccjd)_3
       - 06(TG:@tccjd)_2
       - 07(TG:@tccjd)
       - 08(TG:@tccjd)_1
       - 09(TG:@tccjd)_1
       - 10(TG:@tccjd)_1
       - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)
       - 奧地利
       - 新加坡
@@ -4041,16 +3928,16 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 01(TG:@tccjd)_3
       - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
       - 06(TG:@tccjd)_3
       - 07(TG:@tccjd)_1
       - 09(TG:@tccjd)_2
       - 10(TG:@tccjd)_2
       - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_2
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
+      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
       - 18(TG:@tccjd)
       - 21(TG:@tccjd)
@@ -4092,7 +3979,6 @@ proxy-groups:
       - 香港_1
       - 俄羅斯_4
       - 俄羅斯_5
-      - 美國_19
       - 香港_2
       - 香港_3
       - 香港_4
@@ -4189,18 +4075,12 @@ proxy-groups:
       - 06(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
       - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 05(TG:@tccjd)_3
       - 06(TG:@tccjd)_2
       - 07(TG:@tccjd)
       - 08(TG:@tccjd)_1
       - 09(TG:@tccjd)_1
       - 10(TG:@tccjd)_1
       - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)
       - 奧地利
       - 新加坡
@@ -4298,16 +4178,16 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 01(TG:@tccjd)_3
       - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
       - 06(TG:@tccjd)_3
       - 07(TG:@tccjd)_1
       - 09(TG:@tccjd)_2
       - 10(TG:@tccjd)_2
       - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_2
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
+      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
       - 18(TG:@tccjd)
       - 21(TG:@tccjd)
@@ -4349,7 +4229,6 @@ proxy-groups:
       - 香港_1
       - 俄羅斯_4
       - 俄羅斯_5
-      - 美國_19
       - 香港_2
       - 香港_3
       - 香港_4
@@ -4463,18 +4342,12 @@ proxy-groups:
       - 06(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
       - 02(TG:@tccjd)_1
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 05(TG:@tccjd)_3
       - 06(TG:@tccjd)_2
       - 07(TG:@tccjd)
       - 08(TG:@tccjd)_1
       - 09(TG:@tccjd)_1
       - 10(TG:@tccjd)_1
       - 11(TG:@tccjd)_1
-      - 12(TG:@tccjd)_1
-      - 13(TG:@tccjd)_1
-      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)
       - 奧地利
       - 新加坡
@@ -4572,16 +4445,16 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 01(TG:@tccjd)_3
       - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_3
-      - 04(TG:@tccjd)_3
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
       - 06(TG:@tccjd)_3
       - 07(TG:@tccjd)_1
       - 09(TG:@tccjd)_2
       - 10(TG:@tccjd)_2
       - 11(TG:@tccjd)_2
-      - 12(TG:@tccjd)_2
-      - 13(TG:@tccjd)_2
-      - 14(TG:@tccjd)_2
+      - 12(TG:@tccjd)_1
+      - 13(TG:@tccjd)_1
+      - 14(TG:@tccjd)_1
       - 15(TG:@tccjd)_1
       - 18(TG:@tccjd)
       - 21(TG:@tccjd)
@@ -4623,7 +4496,6 @@ proxy-groups:
       - 香港_1
       - 俄羅斯_4
       - 俄羅斯_5
-      - 美國_19
       - 香港_2
       - 香港_3
       - 香港_4
