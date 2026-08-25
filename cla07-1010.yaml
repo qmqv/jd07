@@ -24,6 +24,190 @@ dns:
       - https://1.1.1.1/dns-query#🚀 节点选择
       - https://8.8.8.8/dns-query#🚀 节点选择
 proxies:
+  - name: 🇳🇱 荷兰 | NLD
+    type: ss
+    server: 143.47.186.208
+    port: 45819
+    cipher: 2022-blake3-chacha20-poly1305
+    password: kPWjZHoxMU/XHy8n7QCOdvJx8GQeDr6m5/SDM6wPX2c=
+    skip-cert-verify: true
+    udp: true
+  - name: 🇯🇵 日本 | JPN
+    type: ss
+    server: 103.236.66.4
+    port: 40001
+    cipher: aes-256-gcm
+    password: Butterfly123@qwe9527
+    skip-cert-verify: true
+    udp: true
+  - name: HK
+    type: ss
+    server: 36.33.35.105
+    port: 10006
+    cipher: aes-256-gcm
+    password: Butterfly123@qwe9527
+    skip-cert-verify: true
+    udp: true
+  - name: 19(TG:@tccjd)
+    type: ss
+    server: 62.76.234.92
+    port: 10901
+    cipher: aes-256-gcm
+    password: d1fa2f4b98a38bc8
+    skip-cert-verify: true
+    udp: true
+  - name: 21(TG:@tccjd)
+    type: ss
+    server: 62.76.234.92
+    port: 10901
+    cipher: aes-256-gcm
+    password: d1fa2f4b98a38bc8
+    skip-cert-verify: true
+    udp: true
+  - name: TW
+    type: ss
+    server: m99cygua.4ya21vwd0lw6ngzk.awstrack.vip
+    port: 16481
+    cipher: 2022-blake3-aes-128-gcm
+    password: MWM4MmJmYzdiNTZjNTUzMA==:MjA3ZmY5MWEtOWE3MC00Mg==
+    skip-cert-verify: true
+    udp: true
+  - name: 01(TG:@tccjd)
+    type: ss
+    server: m99cygua.4ya21vwd0lw6ngzk.awstrack.vip
+    port: 16481
+    cipher: 2022-blake3-aes-128-gcm
+    password: MWM4MmJmYzdiNTZjNTUzMA==:MjA3ZmY5MWEtOWE3MC00Mg==
+    skip-cert-verify: true
+    udp: true
+  - name: 02(TG:@tccjd)
+    type: ss
+    server: m99cygua.4ya21vwd0lw6ngzk.awstrack.vip
+    port: 16481
+    cipher: 2022-blake3-aes-128-gcm
+    password: MWM4MmJmYzdiNTZjNTUzMA==:MjA3ZmY5MWEtOWE3MC00Mg==
+    skip-cert-verify: true
+    udp: true
+  - name: 03(TG:@tccjd)
+    type: ss
+    server: shada.sav-savteam.ir
+    port: 2012
+    cipher: 2022-blake3-aes-128-gcm
+    password: JlbkmBuDIRu+qgsklG1Xeg==:HHTJYTp1thhdUZbJM7nEsg==
+    skip-cert-verify: true
+    udp: true
+  - name: 04(TG:@tccjd)
+    type: ss
+    server: gordan.sav-savteam.ir
+    port: 2011
+    cipher: 2022-blake3-aes-128-gcm
+    password: NOsvR095PtlZArmZrgcpUg==:HHTJYTp1thhdUZbJM7nEsg==
+    skip-cert-verify: true
+    udp: true
+  - name: 05(TG:@tccjd)
+    type: ss
+    server: gordan.sav-savteam.ir
+    port: 2011
+    cipher: 2022-blake3-aes-128-gcm
+    password: NOsvR095PtlZArmZrgcpUg==:HHTJYTp1thhdUZbJM7nEsg==
+    skip-cert-verify: true
+    udp: true
+  - name: 06(TG:@tccjd)
+    type: ss
+    server: 143.47.186.208
+    port: 45819
+    cipher: 2022-blake3-chacha20-poly1305
+    password: kPWjZHoxMU/XHy8n7QCOdvJx8GQeDr6m5/SDM6wPX2c=
+    skip-cert-verify: true
+    udp: true
+  - name: 07(TG:@tccjd)
+    type: ss
+    server: shada.sav-savteam.ir
+    port: 2012
+    cipher: 2022-blake3-aes-128-gcm
+    password: JlbkmBuDIRu+qgsklG1Xeg==:HHTJYTp1thhdUZbJM7nEsg==
+    skip-cert-verify: true
+    udp: true
+  - name: 08(TG:@tccjd)
+    type: ss
+    server: mari.sav-savteam.ir
+    port: 2014
+    cipher: 2022-blake3-aes-128-gcm
+    password: 3eWTt66tz8p8stYLB2vc7Q==:HHTJYTp1thhdUZbJM7nEsg==
+    skip-cert-verify: true
+    udp: true
+  - name: 10(TG:@tccjd)
+    type: ss
+    server: lako.sav-savteam.ir
+    port: 2013
+    cipher: 2022-blake3-aes-128-gcm
+    password: nZSr2bjqrge4U4bF2O+HQg==:HHTJYTp1thhdUZbJM7nEsg==
+    skip-cert-verify: true
+    udp: true
+  - name: 11(TG:@tccjd)
+    type: ss
+    server: lako.sav-savteam.ir
+    port: 2013
+    cipher: 2022-blake3-aes-128-gcm
+    password: nZSr2bjqrge4U4bF2O+HQg==:HHTJYTp1thhdUZbJM7nEsg==
+    skip-cert-verify: true
+    udp: true
+  - name: 中国(TG:@tccjd)
+    type: ss
+    server: 36.33.35.105
+    port: 30001
+    cipher: aes-256-gcm
+    password: Butterfly123@qwe9527
+    skip-cert-verify: true
+    udp: true
+  - name: 中国(TG:@tccjd)_1
+    type: ss
+    server: 103.236.66.4
+    port: 40002
+    cipher: aes-256-gcm
+    password: Butterfly123@qwe9527
+    skip-cert-verify: true
+    udp: true
+  - name: 中国(TG:@tccjd)_2
+    type: ss
+    server: 103.236.66.4
+    port: 10001
+    cipher: aes-256-gcm
+    password: Butterfly123@qwe9527
+    skip-cert-verify: true
+    udp: true
+  - name: 美国(TG:@tccjd)
+    type: ss
+    server: 129.151.74.114
+    port: 61312
+    cipher: 2022-blake3-chacha20-poly1305
+    password: 0SkAFTdWLHr6UtG5Z6p74/tMfjQulbcACNNaponrCL8=
+    skip-cert-verify: true
+    udp: true
+  - name: 美国(TG:@tccjd)_1
+    type: ss
+    server: 36.33.35.105
+    port: 10006
+    cipher: aes-256-gcm
+    password: Butterfly123@qwe9527
+    skip-cert-verify: true
+    udp: true
+  - name: 荷兰(TG:@tccjd)
+    type: ss
+    server: 134.98.136.70
+    port: 45819
+    cipher: 2022-blake3-chacha20-poly1305
+    password: mUhdbLFuZuTd7KT9No/UMLhNWKA3phADUEWpikSAbVM=
+    skip-cert-verify: true
+    udp: true
+  - name: 🇭🇰香港
+    type: ss
+    server: 36.33.35.105
+    port: 10006
+    cipher: aes-256-gcm
+    password: Butterfly123@qwe9527
+    skip-cert-verify: true
+    udp: true
   - name: 🇺🇸 美国 | USA
     type: vless
     server: mtn.v2plus.ovh
@@ -36,23 +220,6 @@ proxies:
       path: /yEehdR6POSWwzRXP
       headers:
         Host: worker3.wateci1156.workers.dev
-    skip-cert-verify: true
-    udp: true
-  - name: 🇮🇩 印尼 | IDN
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20056
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 🇳🇱 荷兰 | NLD
-    type: ss
-    server: 143.47.186.208
-    port: 45819
-    cipher: 2022-blake3-chacha20-poly1305
-    password: kPWjZHoxMU/XHy8n7QCOdvJx8GQeDr6m5/SDM6wPX2c=
     skip-cert-verify: true
     udp: true
   - name: 🇬🇧 英国 | GBR
@@ -162,32 +329,6 @@ proxies:
         Host: Appxdn.global.ssl.fastly.net
     skip-cert-verify: true
     udp: true
-  - name: 🇯🇵 日本 | JPN
-    type: ss
-    server: 103.236.66.4
-    port: 40001
-    cipher: aes-256-gcm
-    password: Butterfly123@qwe9527
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇦 乌克兰 | UKR
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20066
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 🇳🇴 挪威 | NOR_1
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20085
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
   - name: 🇳🇱 荷兰 | NLD_1
     type: vless
     server: 80.78.245.48
@@ -201,522 +342,59 @@ proxies:
         Host: cnd.netherlands.myfilecdn.com
     skip-cert-verify: true
     udp: true
-  - name: HK
-    type: ss
-    server: 36.33.35.105
-    port: 10006
-    cipher: aes-256-gcm
-    password: Butterfly123@qwe9527
-    skip-cert-verify: true
-    udp: true
-  - name: 01(TG:@tccjd)
-    type: trojan
-    server: 18.181.83.46
-    port: 2944
-    password: BxceQaOe
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 02(TG:@tccjd)
-    type: trojan
-    server: 18.181.83.46
-    port: 2944
-    password: BxceQaOe
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 03(TG:@tccjd)
-    type: trojan
-    server: 18.181.83.46
-    port: 2944
-    password: BxceQaOe
-    sni: t.me/ripaojiedian
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 04(TG:@tccjd)
-    type: trojan
-    server: 151.101.56.7
-    port: 443
-    password: MITIVPN
-    sni: speedtest.net
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 2x-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 05(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 06(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 印度尼西亚
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20056
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 07(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 08(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 09(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 10(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 11(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 12(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 13(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 14(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 15(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 16(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 17(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 18(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 19(TG:@tccjd)
-    type: ss
-    server: 62.76.234.92
-    port: 10901
-    cipher: aes-256-gcm
-    password: d1fa2f4b98a38bc8
-    skip-cert-verify: true
-    udp: true
-  - name: 20(TG:@tccjd)
-    type: trojan
-    server: 165.215.250.14
-    port: 443
-    password: humanity
-    sni: www.calmlunch.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /assignment
-      headers:
-        Host: www.calmlunch.com
-    udp: true
-  - name: 21(TG:@tccjd)
-    type: ss
-    server: 62.76.234.92
-    port: 10901
-    cipher: aes-256-gcm
-    password: d1fa2f4b98a38bc8
-    skip-cert-verify: true
-    udp: true
-  - name: 22(TG:@tccjd)
-    type: trojan
-    server: 165.215.250.14
-    port: 443
-    password: humanity
-    sni: www.calmlunch.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /assignment
-      headers:
-        Host: www.calmlunch.com
-    udp: true
-  - name: 23(TG:@tccjd)
-    type: trojan
-    server: www.calmlunch.com
-    port: 443
-    password: humanity
-    sni: www.calmlunch.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /assignment
-      headers:
-        Host: www.calmlunch.com
-    udp: true
-  - name: 泰国
-    type: trojan
-    server: 57.180.10.65
-    port: 42423
-    password: 662c065f-0495-4598-9a95-2e2fcb38b7b1
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
-    udp: true
-  - name: TW
-    type: ss
-    server: m99cygua.4ya21vwd0lw6ngzk.awstrack.vip
-    port: 16481
-    cipher: 2022-blake3-aes-128-gcm
-    password: MWM4MmJmYzdiNTZjNTUzMA==:MjA3ZmY5MWEtOWE3MC00Mg==
-    skip-cert-verify: true
-    udp: true
   - name: 01(TG:@tccjd)_1
-    type: ss
-    server: m99cygua.4ya21vwd0lw6ngzk.awstrack.vip
-    port: 16481
-    cipher: 2022-blake3-aes-128-gcm
-    password: MWM4MmJmYzdiNTZjNTUzMA==:MjA3ZmY5MWEtOWE3MC00Mg==
+    type: vless
+    server: 172.66.146.2
+    port: 8443
+    uuid: 09f2c9cc-4275-4b4b-96d8-bacbe53f3c89
+    network: ws
+    servername: arvan.dearhossein-taktaz.ir
+    tls: true
+    client-fingerprint: chrome
+    ws-opts:
+      path: /
+      headers:
+        Host: arvan.dearhossein-taktaz.ir
     skip-cert-verify: true
     udp: true
   - name: 02(TG:@tccjd)_1
-    type: ss
-    server: m99cygua.4ya21vwd0lw6ngzk.awstrack.vip
-    port: 16481
-    cipher: 2022-blake3-aes-128-gcm
-    password: MWM4MmJmYzdiNTZjNTUzMA==:MjA3ZmY5MWEtOWE3MC00Mg==
+    type: vless
+    server: 172.66.146.2
+    port: 8443
+    uuid: 09f2c9cc-4275-4b4b-96d8-bacbe53f3c89
+    network: ws
+    servername: arvan.dearhossein-taktaz.ir
+    tls: true
+    client-fingerprint: chrome
+    ws-opts:
+      path: /
+      headers:
+        Host: arvan.dearhossein-taktaz.ir
     skip-cert-verify: true
     udp: true
   - name: 03(TG:@tccjd)_1
-    type: ss
-    server: shada.sav-savteam.ir
-    port: 2012
-    cipher: 2022-blake3-aes-128-gcm
-    password: JlbkmBuDIRu+qgsklG1Xeg==:HHTJYTp1thhdUZbJM7nEsg==
-    skip-cert-verify: true
-    udp: true
-  - name: 美国
-    type: hysteria2
-    server: nl1.sferavpn.pro
+    type: vless
+    server: 141.0.184.113
     port: 443
-    password: cd74c0a406664a5bc0bac098220a2468
-    sni: nl1.sferavpn.pro
+    uuid: 15b154c3-b4f9-435d-9b46-bd096dec4be1
+    network: grpc
+    tls: false
+    grpc-opts:
+      grpc-service-name: vless
     skip-cert-verify: true
-    obfs: salamander
-    obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
     udp: true
   - name: 04(TG:@tccjd)_1
-    type: ss
-    server: gordan.sav-savteam.ir
-    port: 2011
-    cipher: 2022-blake3-aes-128-gcm
-    password: NOsvR095PtlZArmZrgcpUg==:HHTJYTp1thhdUZbJM7nEsg==
-    skip-cert-verify: true
-    udp: true
-  - name: 05(TG:@tccjd)_1
-    type: ss
-    server: gordan.sav-savteam.ir
-    port: 2011
-    cipher: 2022-blake3-aes-128-gcm
-    password: NOsvR095PtlZArmZrgcpUg==:HHTJYTp1thhdUZbJM7nEsg==
-    skip-cert-verify: true
-    udp: true
-  - name: 06(TG:@tccjd)_1
-    type: ss
-    server: 143.47.186.208
-    port: 45819
-    cipher: 2022-blake3-chacha20-poly1305
-    password: kPWjZHoxMU/XHy8n7QCOdvJx8GQeDr6m5/SDM6wPX2c=
-    skip-cert-verify: true
-    udp: true
-  - name: 07(TG:@tccjd)_1
-    type: ss
-    server: shada.sav-savteam.ir
-    port: 2012
-    cipher: 2022-blake3-aes-128-gcm
-    password: JlbkmBuDIRu+qgsklG1Xeg==:HHTJYTp1thhdUZbJM7nEsg==
-    skip-cert-verify: true
-    udp: true
-  - name: 08(TG:@tccjd)_1
-    type: ss
-    server: mari.sav-savteam.ir
-    port: 2014
-    cipher: 2022-blake3-aes-128-gcm
-    password: 3eWTt66tz8p8stYLB2vc7Q==:HHTJYTp1thhdUZbJM7nEsg==
-    skip-cert-verify: true
-    udp: true
-  - name: 美国_1
-    type: hysteria2
-    server: faq.wwwinternetvideo.click
+    type: vless
+    server: 141.0.184.113
     port: 443
-    password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
-    sni: cabinet.wwwinternetvideo.click
-    skip-cert-verify: true
-    udp: true
-  - name: 09(TG:@tccjd)_1
-    type: hysteria2
-    server: 138.124.0.168
-    port: 8080
-    password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
-    sni: hopp-legend-se.roxa.org
-    skip-cert-verify: true
-    udp: true
-  - name: 荷兰
-    type: hysteria2
-    server: 31.177.111.213
-    port: 443
-    password: 2b3e8750-b944-42fc-b36e-ec2c64b48a98
-    sni: hy222.routeon.pro
-    skip-cert-verify: true
-    udp: true
-  - name: 英国
-    type: hysteria2
-    server: 138.124.0.168
-    port: 8080
-    password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
-    sni: hopp-legend-se.roxa.org
-    skip-cert-verify: true
-    udp: true
-  - name: 德国
-    type: hysteria2
-    server: 85.204.107.174
-    port: 8080
-    password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-    sni: hopp-romania-new.roxa.org
-    skip-cert-verify: true
-    udp: true
-  - name: 10(TG:@tccjd)_1
-    type: ss
-    server: lako.sav-savteam.ir
-    port: 2013
-    cipher: 2022-blake3-aes-128-gcm
-    password: nZSr2bjqrge4U4bF2O+HQg==:HHTJYTp1thhdUZbJM7nEsg==
-    skip-cert-verify: true
-    udp: true
-  - name: 11(TG:@tccjd)_1
-    type: ss
-    server: lako.sav-savteam.ir
-    port: 2013
-    cipher: 2022-blake3-aes-128-gcm
-    password: nZSr2bjqrge4U4bF2O+HQg==:HHTJYTp1thhdUZbJM7nEsg==
+    uuid: 15b154c3-b4f9-435d-9b46-bd096dec4be1
+    network: grpc
+    tls: false
+    grpc-opts:
+      grpc-service-name: vless
     skip-cert-verify: true
     udp: true
   - name: 01(TG:@tccjd)_2
-    type: vless
-    server: 172.66.146.2
-    port: 8443
-    uuid: 09f2c9cc-4275-4b4b-96d8-bacbe53f3c89
-    network: ws
-    servername: arvan.dearhossein-taktaz.ir
-    tls: true
-    client-fingerprint: chrome
-    ws-opts:
-      path: /
-      headers:
-        Host: arvan.dearhossein-taktaz.ir
-    skip-cert-verify: true
-    udp: true
-  - name: 02(TG:@tccjd)_2
-    type: vless
-    server: 172.66.146.2
-    port: 8443
-    uuid: 09f2c9cc-4275-4b4b-96d8-bacbe53f3c89
-    network: ws
-    servername: arvan.dearhossein-taktaz.ir
-    tls: true
-    client-fingerprint: chrome
-    ws-opts:
-      path: /
-      headers:
-        Host: arvan.dearhossein-taktaz.ir
-    skip-cert-verify: true
-    udp: true
-  - name: 03(TG:@tccjd)_2
-    type: vless
-    server: 141.0.184.113
-    port: 443
-    uuid: 15b154c3-b4f9-435d-9b46-bd096dec4be1
-    network: grpc
-    tls: false
-    grpc-opts:
-      grpc-service-name: vless
-    skip-cert-verify: true
-    udp: true
-  - name: 04(TG:@tccjd)_2
-    type: vless
-    server: 141.0.184.113
-    port: 443
-    uuid: 15b154c3-b4f9-435d-9b46-bd096dec4be1
-    network: grpc
-    tls: false
-    grpc-opts:
-      grpc-service-name: vless
-    skip-cert-verify: true
-    udp: true
-  - name: 01(TG:@tccjd)_3
     type: vless
     server: 87.121.221.253
     port: 443
@@ -755,7 +433,7 @@ proxies:
       public-key: d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI
     skip-cert-verify: true
     udp: true
-  - name: 01(TG:@tccjd)_4
+  - name: 01(TG:@tccjd)_3
     type: vless
     server: 80.78.245.48
     port: 8880
@@ -768,7 +446,7 @@ proxies:
         Host: cnd.netherlands.myfilecdn.com
     skip-cert-verify: true
     udp: true
-  - name: 01(TG:@tccjd)_5
+  - name: 01(TG:@tccjd)_4
     type: vless
     server: wwhgbmxaycrqwzxhfa.cfooov.xyz
     port: 32178
@@ -782,37 +460,7 @@ proxies:
       short-id: 9c01c7e98b93e683
     skip-cert-verify: true
     udp: true
-  - name: 香港(TG:@tccjd)
-    type: hysteria2
-    server: nas.aizhzo.com
-    port: 5010
-    password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
-    skip-cert-verify: true
-    obfs: salamander
-    obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
-    udp: true
-  - name: 中国(TG:@tccjd)
-    type: ss
-    server: 36.33.35.105
-    port: 30001
-    cipher: aes-256-gcm
-    password: Butterfly123@qwe9527
-    skip-cert-verify: true
-    udp: true
-  - name: 瑞典(TG:@tccjd)
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 荷兰(TG:@tccjd)
+  - name: 荷兰(TG:@tccjd)_1
     type: vless
     server: 95.85.248.50
     port: 443
@@ -840,7 +488,7 @@ proxies:
       short-id: 00bca5982f82d083
     skip-cert-verify: true
     udp: true
-  - name: 美国(TG:@tccjd)
+  - name: 美国(TG:@tccjd)_2
     type: vless
     server: 172.64.229.252
     port: 8443
@@ -868,7 +516,7 @@ proxies:
       short-id: 0f4412d42129f080
     skip-cert-verify: true
     udp: true
-  - name: 荷兰(TG:@tccjd)_1
+  - name: 荷兰(TG:@tccjd)_2
     type: vless
     server: 172.67.129.26
     port: 8443
@@ -1003,7 +651,7 @@ proxies:
       short-id: 00bca5982f82d083
     skip-cert-verify: true
     udp: true
-  - name: 美国(TG:@tccjd)_1
+  - name: 美国(TG:@tccjd)_3
     type: vless
     server: 172.67.129.26
     port: 8443
@@ -1018,7 +666,7 @@ proxies:
         Host: apkav-1.bosx.net
     skip-cert-verify: true
     udp: true
-  - name: 荷兰(TG:@tccjd)_2
+  - name: 荷兰(TG:@tccjd)_3
     type: vless
     server: 172.66.3.174
     port: 8443
@@ -1049,15 +697,7 @@ proxies:
       short-id: bad5722c72a0
     skip-cert-verify: true
     udp: true
-  - name: 中国(TG:@tccjd)_1
-    type: ss
-    server: 103.236.66.4
-    port: 40002
-    cipher: aes-256-gcm
-    password: Butterfly123@qwe9527
-    skip-cert-verify: true
-    udp: true
-  - name: 01(TG:@tccjd)_6
+  - name: 01(TG:@tccjd)_5
     type: vless
     server: est1.nihaovpn.ru
     port: 443
@@ -1071,22 +711,6 @@ proxies:
       short-id: 20d13a0be892b6f5
     skip-cert-verify: true
     udp: true
-  - name: 中国(TG:@tccjd)_2
-    type: ss
-    server: 103.236.66.4
-    port: 10001
-    cipher: aes-256-gcm
-    password: Butterfly123@qwe9527
-    skip-cert-verify: true
-    udp: true
-  - name: 德国(TG:@tccjd)_2
-    type: hysteria2
-    server: de.143259.xyz
-    port: 43523
-    password: 9dfa1d8a-d75d-44d8-80a9-8cb1cbb24caa
-    sni: de.143259.xyz
-    skip-cert-verify: true
-    udp: true
   - name: 德国 (TG:@tccjd)
     type: vless
     server: bla-bla-bla-de.anti-zapret.com
@@ -1098,44 +722,6 @@ proxies:
     reality-opts:
       public-key: 0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY
       short-id: 17faf32cb516c9cb
-    skip-cert-verify: true
-    udp: true
-  - name: 香港(TG:@tccjd)_1
-    type: hysteria2
-    server: nas.aizhzo.com
-    port: 5010
-    password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
-    skip-cert-verify: true
-    obfs: salamander
-    obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
-    udp: true
-  - name: 美国(TG:@tccjd)_2
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 美国(TG:@tccjd)_3
-    type: ss
-    server: 129.151.74.114
-    port: 61312
-    cipher: 2022-blake3-chacha20-poly1305
-    password: 0SkAFTdWLHr6UtG5Z6p74/tMfjQulbcACNNaponrCL8=
-    skip-cert-verify: true
-    udp: true
-  - name: 德国(TG:@tccjd)_3
-    type: hysteria2
-    server: de.143259.xyz
-    port: 43523
-    password: 9dfa1d8a-d75d-44d8-80a9-8cb1cbb24caa
-    sni: de.143259.xyz
     skip-cert-verify: true
     udp: true
   - name: 美国(TG:@tccjd)_4
@@ -1180,19 +766,6 @@ proxies:
       short-id: a1b2c3d4
     skip-cert-verify: true
     udp: true
-  - name: 美国(TG:@tccjd)_7
-    type: trojan
-    server: 89.150.34.41
-    port: 2053
-    password: humanity
-    sni: www.calmlunch.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /assignment
-      headers:
-        Host: www.calmlunch.com
-    udp: true
   - name: 英国(TG:@tccjd)
     type: vless
     server: 31.76.70.31
@@ -1207,7 +780,7 @@ proxies:
       short-id: 4a46213c935e2ee4
     skip-cert-verify: true
     udp: true
-  - name: 荷兰(TG:@tccjd)_3
+  - name: 荷兰(TG:@tccjd)_4
     type: vless
     server: 199.232.78.159
     port: 443
@@ -1222,7 +795,7 @@ proxies:
         Host: pan1.global.ssl.fastly.net
     skip-cert-verify: true
     udp: true
-  - name: 美国(TG:@tccjd)_8
+  - name: 美国(TG:@tccjd)_7
     type: vless
     server: 199.232.78.159
     port: 443
@@ -1251,119 +824,6 @@ proxies:
       short-id: 4a46213c935e2ee4
     skip-cert-verify: true
     udp: true
-  - name: 美国(TG:@tccjd)_9
-    type: ss
-    server: 36.33.35.105
-    port: 10006
-    cipher: aes-256-gcm
-    password: Butterfly123@qwe9527
-    skip-cert-verify: true
-    udp: true
-  - name: 澳洲(TG:@tccjd)
-    type: hysteria2
-    server: 152.69.173.189
-    port: 20000
-    password: a34f3990b69f44bfa0d32385
-    sni: rmgyvpn.rest
-    skip-cert-verify: true
-    obfs: salamander
-    obfs-password: a34f3990b69f44bfa0d32385
-    udp: true
-  - name: 荷兰(TG:@tccjd)_4
-    type: ss
-    server: 134.98.136.70
-    port: 45819
-    cipher: 2022-blake3-chacha20-poly1305
-    password: mUhdbLFuZuTd7KT9No/UMLhNWKA3phADUEWpikSAbVM=
-    skip-cert-verify: true
-    udp: true
-  - name: 🇭🇰香港
-    type: ss
-    server: 36.33.35.105
-    port: 10006
-    cipher: aes-256-gcm
-    password: Butterfly123@qwe9527
-    skip-cert-verify: true
-    udp: true
-  - name: 🇯🇵日本JP029
-    type: trojan
-    server: 221.230.19.73
-    port: 48966
-    password: 1addb6f6-c65a-4652-91e7-cbf3c6fa6f95
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
-    udp: true
-  - name: 🇲🇴澳门MO001 5.17MB/s
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20068
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 🇹🇼台湾TW002
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20115
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 🇮🇩印度尼西亚ID003 0.87MB/s
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20056
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 🇸🇪瑞典SE009 1.58MB/s
-    type: trojan
-    server: 140.248.185.253
-    port: 443
-    password: MiTiVPN
-    sni: ssl.fastly.com
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
-      headers:
-        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
-    udp: true
-  - name: 🇺🇸美国US262
-    type: trojan
-    server: 128.14.146.132
-    port: 28443
-    password: 8f4a24de-58da-4a61-9529-94234292b62c
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
-    udp: true
-  - name: 🇮🇩印度尼西亚ID001 2.94MB/s
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20056
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
   - name: 🇳🇱荷兰NL139
     type: vless
     server: 95.85.248.50
@@ -1377,21 +837,6 @@ proxies:
       public-key: m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0
       short-id: dd3ff38418d29d22
     skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸美国US241 0.6MB/s
-    type: trojan
-    server: 69.164.205.61
-    port: 28443
-    password: 2d013f81-a2bb-4fd0-9c48-8201dcd41f85
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
     udp: true
   - name: 🇳🇱荷兰NL083 1.3MB/s
     type: vless
@@ -1488,21 +933,6 @@ proxies:
       headers:
         Host: rubifen.adaspoloandco.com
     skip-cert-verify: true
-    udp: true
-  - name: 🇬🇧英国GB021
-    type: trojan
-    server: 172.236.13.223
-    port: 28443
-    password: c5462179-d5f1-4c10-ae89-50379a9cf8e7
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
     udp: true
   - name: 🇵🇱波兰PL019
     type: vless
@@ -1652,7 +1082,7 @@ proxies:
       short-id: 17faf32cb516c9cb
     skip-cert-verify: true
     udp: true
-  - name: 01(TG:@tccjd)_7
+  - name: 01(TG:@tccjd)_6
     type: vless
     server: 195.123.210.168
     port: 13443
@@ -1665,19 +1095,6 @@ proxies:
       public-key: gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM
       short-id: a7f3c91b2e6d84c0
     skip-cert-verify: true
-    udp: true
-  - name: 🇳🇱荷兰NL131
-    type: trojan
-    server: 50.7.177.42
-    port: 28443
-    password: 8b809212-9697-4053-a8fc-9a3ae7c4bacb
-    sni: vpn-node.internal
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
     udp: true
   - name: 🇵🇱波兰PL014
     type: vless
@@ -1720,30 +1137,6 @@ proxies:
       short-id: a7f3c91b2e6d84c0
     skip-cert-verify: true
     udp: true
-  - name: 🇫🇷法国FR028 0.63MB/s
-    type: trojan
-    server: 172.239.19.94
-    port: 28443
-    password: 46a9aba0-3486-4ec2-96b2-781bc9a96742
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
-    udp: true
-  - name: 🇳🇴挪威NO001 1.72MB/s
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20085
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
   - name: 🇳🇱荷兰NL070 1.47MB/s
     type: vless
     server: 172.66.3.174
@@ -1758,15 +1151,6 @@ proxies:
       headers:
         Host: apkav-6.bosx.net
     skip-cert-verify: true
-    udp: true
-  - name: 🇳🇴挪威NO003 1.29MB/s
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20085
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
     udp: true
   - name: 🇩🇰DK002
     type: vless
@@ -1797,48 +1181,6 @@ proxies:
         Host: apkav-6.bosx.net
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇦乌克兰UA001 1.67MB/s
-    type: trojan
-    server: hkdcrtc-e.catcat321.com
-    port: 20066
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 🇺🇦乌克兰UA002 1.64MB/s
-    type: trojan
-    server: hkdcrtc-e.catcat321.com
-    port: 20066
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
-  - name: 🇲🇾马来西亚MY002 0.8MB/s
-    type: trojan
-    server: 172.238.22.232
-    port: 43102
-    password: 5cc264ad-92a8-46cc-85b0-82dca5b12faf
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
-    udp: true
-  - name: 🇳🇴挪威NO005
-    type: trojan
-    server: kkvlvvq-a.catcat321.com
-    port: 20085
-    password: a126f35c-e832-4115-8593-b723ade3f7be
-    sni: hk.catxstar.com
-    skip-cert-verify: true
-    tls: true
-    udp: true
   - name: 🇳🇱荷兰NL038 1.62MB/s
     type: vless
     server: 199.232.78.159
@@ -1868,21 +1210,6 @@ proxies:
       headers:
         Host: pane3.global.ssl.fastly.net
     skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸美国US243 0.53MB/s
-    type: trojan
-    server: 45.56.108.97
-    port: 28443
-    password: 8e2d98af-de70-470d-a766-01c883add647
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
     udp: true
   - name: 🇮🇹意大利IT003 3.02MB/s
     type: vless
@@ -1915,21 +1242,6 @@ proxies:
       short-id: bad5722c72a0
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇸美国US228 0.76MB/s
-    type: trojan
-    server: 172.237.28.252
-    port: 45764
-    password: 1b08ff16-ca9c-4500-ba13-9a82a70f8b08
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
-    udp: true
   - name: 🇱🇻LV006
     type: vless
     server: 195.123.210.168
@@ -1957,21 +1269,6 @@ proxies:
       public-key: 0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY
       short-id: 58fbcddfaae3ade9
     skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸美国US229 0.74MB/s
-    type: trojan
-    server: 172.238.22.232
-    port: 47096
-    password: c5298159-b9cf-41ae-bf4e-8855375fdcf1
-    sni: vpn-node.internal
-    alpn:
-      - http/1.1
-    skip-cert-verify: true
-    tls: true
-    ws-opts:
-      path: /xVpnTrojanWsSvc7f3a
-      headers:
-        Host: vpn-node.internal
     udp: true
   - name: 🇱🇻LV005
     type: vless
@@ -2069,15 +1366,739 @@ proxies:
       short-id: dd3ff38418d29d22
     skip-cert-verify: true
     udp: true
+  - name: 🇮🇩 印尼 | IDN
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20056
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇺🇦 乌克兰 | UKR
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20066
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇳🇴 挪威 | NOR_1
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20085
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 01(TG:@tccjd)_7
+    type: trojan
+    server: 18.181.83.46
+    port: 2944
+    password: BxceQaOe
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 02(TG:@tccjd)_2
+    type: trojan
+    server: 18.181.83.46
+    port: 2944
+    password: BxceQaOe
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 03(TG:@tccjd)_2
+    type: trojan
+    server: 18.181.83.46
+    port: 2944
+    password: BxceQaOe
+    sni: t.me/ripaojiedian
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 04(TG:@tccjd)_2
+    type: trojan
+    server: 151.101.56.7
+    port: 443
+    password: MITIVPN
+    sni: speedtest.net
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 2x-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 05(TG:@tccjd)_1
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 06(TG:@tccjd)_1
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 印度尼西亚
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20056
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 07(TG:@tccjd)_1
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 08(TG:@tccjd)_1
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 09(TG:@tccjd)
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 10(TG:@tccjd)_1
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 11(TG:@tccjd)_1
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 12(TG:@tccjd)
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 13(TG:@tccjd)
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 14(TG:@tccjd)
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 15(TG:@tccjd)
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 16(TG:@tccjd)
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 17(TG:@tccjd)
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 18(TG:@tccjd)
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 20(TG:@tccjd)
+    type: trojan
+    server: 165.215.250.14
+    port: 443
+    password: humanity
+    sni: www.calmlunch.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.calmlunch.com
+    udp: true
+  - name: 22(TG:@tccjd)
+    type: trojan
+    server: 165.215.250.14
+    port: 443
+    password: humanity
+    sni: www.calmlunch.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.calmlunch.com
+    udp: true
+  - name: 23(TG:@tccjd)
+    type: trojan
+    server: www.calmlunch.com
+    port: 443
+    password: humanity
+    sni: www.calmlunch.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.calmlunch.com
+    udp: true
+  - name: 泰国
+    type: trojan
+    server: 57.180.10.65
+    port: 42423
+    password: 662c065f-0495-4598-9a95-2e2fcb38b7b1
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 瑞典(TG:@tccjd)
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 美国(TG:@tccjd)_8
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 美国(TG:@tccjd)_9
+    type: trojan
+    server: 89.150.34.41
+    port: 2053
+    password: humanity
+    sni: www.calmlunch.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.calmlunch.com
+    udp: true
+  - name: 🇯🇵日本JP029
+    type: trojan
+    server: 221.230.19.73
+    port: 48966
+    password: 1addb6f6-c65a-4652-91e7-cbf3c6fa6f95
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 🇲🇴澳门MO001 5.17MB/s
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20068
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇹🇼台湾TW002
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20115
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇮🇩印度尼西亚ID003 0.87MB/s
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20056
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇸🇪瑞典SE009 1.58MB/s
+    type: trojan
+    server: 140.248.185.253
+    port: 443
+    password: MiTiVPN
+    sni: ssl.fastly.com
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+      headers:
+        Host: 4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net
+    udp: true
+  - name: 🇺🇸美国US262
+    type: trojan
+    server: 128.14.146.132
+    port: 28443
+    password: 8f4a24de-58da-4a61-9529-94234292b62c
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 🇮🇩印度尼西亚ID001 2.94MB/s
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20056
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇺🇸美国US241 0.6MB/s
+    type: trojan
+    server: 69.164.205.61
+    port: 28443
+    password: 2d013f81-a2bb-4fd0-9c48-8201dcd41f85
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 🇬🇧英国GB021
+    type: trojan
+    server: 172.236.13.223
+    port: 28443
+    password: c5462179-d5f1-4c10-ae89-50379a9cf8e7
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 🇳🇱荷兰NL131
+    type: trojan
+    server: 50.7.177.42
+    port: 28443
+    password: 8b809212-9697-4053-a8fc-9a3ae7c4bacb
+    sni: vpn-node.internal
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 🇫🇷法国FR028 0.63MB/s
+    type: trojan
+    server: 172.239.19.94
+    port: 28443
+    password: 46a9aba0-3486-4ec2-96b2-781bc9a96742
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 🇳🇴挪威NO001 1.72MB/s
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20085
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇳🇴挪威NO003 1.29MB/s
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20085
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇺🇦乌克兰UA001 1.67MB/s
+    type: trojan
+    server: hkdcrtc-e.catcat321.com
+    port: 20066
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇺🇦乌克兰UA002 1.64MB/s
+    type: trojan
+    server: hkdcrtc-e.catcat321.com
+    port: 20066
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇲🇾马来西亚MY002 0.8MB/s
+    type: trojan
+    server: 172.238.22.232
+    port: 43102
+    password: 5cc264ad-92a8-46cc-85b0-82dca5b12faf
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 🇳🇴挪威NO005
+    type: trojan
+    server: kkvlvvq-a.catcat321.com
+    port: 20085
+    password: a126f35c-e832-4115-8593-b723ade3f7be
+    sni: hk.catxstar.com
+    skip-cert-verify: true
+    tls: true
+    udp: true
+  - name: 🇺🇸美国US243 0.53MB/s
+    type: trojan
+    server: 45.56.108.97
+    port: 28443
+    password: 8e2d98af-de70-470d-a766-01c883add647
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 🇺🇸美国US228 0.76MB/s
+    type: trojan
+    server: 172.237.28.252
+    port: 45764
+    password: 1b08ff16-ca9c-4500-ba13-9a82a70f8b08
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 🇺🇸美国US229 0.74MB/s
+    type: trojan
+    server: 172.238.22.232
+    port: 47096
+    password: c5298159-b9cf-41ae-bf4e-8855375fdcf1
+    sni: vpn-node.internal
+    alpn:
+      - http/1.1
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /xVpnTrojanWsSvc7f3a
+      headers:
+        Host: vpn-node.internal
+    udp: true
+  - name: 美国
+    type: hysteria2
+    server: nl1.sferavpn.pro
+    port: 443
+    password: cd74c0a406664a5bc0bac098220a2468
+    sni: nl1.sferavpn.pro
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+    udp: true
+  - name: 美国_1
+    type: hysteria2
+    server: faq.wwwinternetvideo.click
+    port: 443
+    password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
+    sni: cabinet.wwwinternetvideo.click
+    skip-cert-verify: true
+    udp: true
+  - name: 09(TG:@tccjd)_1
+    type: hysteria2
+    server: 138.124.0.168
+    port: 8080
+    password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+    sni: hopp-legend-se.roxa.org
+    skip-cert-verify: true
+    udp: true
+  - name: 荷兰
+    type: hysteria2
+    server: 31.177.111.213
+    port: 443
+    password: 2b3e8750-b944-42fc-b36e-ec2c64b48a98
+    sni: hy222.routeon.pro
+    skip-cert-verify: true
+    udp: true
+  - name: 英国
+    type: hysteria2
+    server: 138.124.0.168
+    port: 8080
+    password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+    sni: hopp-legend-se.roxa.org
+    skip-cert-verify: true
+    udp: true
+  - name: 德国
+    type: hysteria2
+    server: 85.204.107.174
+    port: 8080
+    password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+    sni: hopp-romania-new.roxa.org
+    skip-cert-verify: true
+    udp: true
+  - name: 香港(TG:@tccjd)
+    type: hysteria2
+    server: nas.aizhzo.com
+    port: 5010
+    password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
+    udp: true
+  - name: 德国(TG:@tccjd)_2
+    type: hysteria2
+    server: de.143259.xyz
+    port: 43523
+    password: 9dfa1d8a-d75d-44d8-80a9-8cb1cbb24caa
+    sni: de.143259.xyz
+    skip-cert-verify: true
+    udp: true
+  - name: 香港(TG:@tccjd)_1
+    type: hysteria2
+    server: nas.aizhzo.com
+    port: 5010
+    password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
+    udp: true
+  - name: 德国(TG:@tccjd)_3
+    type: hysteria2
+    server: de.143259.xyz
+    port: 43523
+    password: 9dfa1d8a-d75d-44d8-80a9-8cb1cbb24caa
+    sni: de.143259.xyz
+    skip-cert-verify: true
+    udp: true
+  - name: 澳洲(TG:@tccjd)
+    type: hysteria2
+    server: 152.69.173.189
+    port: 20000
+    password: a34f3990b69f44bfa0d32385
+    sni: rmgyvpn.rest
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: a34f3990b69f44bfa0d32385
+    udp: true
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸 美国 | USA
-      - 🇮🇩 印尼 | IDN
       - 🇳🇱 荷兰 | NLD
+      - 🇯🇵 日本 | JPN
+      - HK
+      - 19(TG:@tccjd)
+      - 21(TG:@tccjd)
+      - TW
+      - 01(TG:@tccjd)
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 05(TG:@tccjd)
+      - 06(TG:@tccjd)
+      - 07(TG:@tccjd)
+      - 08(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)
+      - 中国(TG:@tccjd)
+      - 中国(TG:@tccjd)_1
+      - 中国(TG:@tccjd)_2
+      - 美国(TG:@tccjd)
+      - 美国(TG:@tccjd)_1
+      - 荷兰(TG:@tccjd)
+      - 🇭🇰香港
+      - 🇺🇸 美国 | USA
       - 🇬🇧 英国 | GBR
       - 🇩🇪 德国 | DEU
       - 🇩🇪 德国 | DEU_1
@@ -2086,70 +2107,21 @@ proxy-groups:
       - 🇳🇴 挪威 | NOR
       - 🇷🇺 俄罗斯 | RUS_2
       - 🇩🇪 德国 | DEU_2
-      - 🇯🇵 日本 | JPN
-      - 🇺🇦 乌克兰 | UKR
-      - 🇳🇴 挪威 | NOR_1
       - 🇳🇱 荷兰 | NLD_1
-      - HK
-      - 01(TG:@tccjd)
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 印度尼西亚
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
-      - 11(TG:@tccjd)
-      - 12(TG:@tccjd)
-      - 13(TG:@tccjd)
-      - 14(TG:@tccjd)
-      - 15(TG:@tccjd)
-      - 16(TG:@tccjd)
-      - 17(TG:@tccjd)
-      - 18(TG:@tccjd)
-      - 19(TG:@tccjd)
-      - 20(TG:@tccjd)
-      - 21(TG:@tccjd)
-      - 22(TG:@tccjd)
-      - 23(TG:@tccjd)
-      - 泰国
-      - TW
       - 01(TG:@tccjd)_1
       - 02(TG:@tccjd)_1
       - 03(TG:@tccjd)_1
-      - 美国
       - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 美国_1
-      - 09(TG:@tccjd)_1
-      - 荷兰
-      - 英国
-      - 德国
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
       - 波兰
       - 波兰_1
+      - 01(TG:@tccjd)_3
       - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
-      - 香港(TG:@tccjd)
-      - 中国(TG:@tccjd)
-      - 瑞典(TG:@tccjd)
-      - 荷兰(TG:@tccjd)
-      - 德国(TG:@tccjd)
-      - 美国(TG:@tccjd)
-      - 美国 (TG:@tccjd)
       - 荷兰(TG:@tccjd)_1
+      - 德国(TG:@tccjd)
+      - 美国(TG:@tccjd)_2
+      - 美国 (TG:@tccjd)
+      - 荷兰(TG:@tccjd)_2
       - 波兰(TG:@tccjd)
       - 波兰(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_2
@@ -2159,39 +2131,19 @@ proxy-groups:
       - 德国(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_4
       - 波兰 (TG:@tccjd)
-      - 美国(TG:@tccjd)_1
-      - 荷兰(TG:@tccjd)_2
-      - 芬兰(TG:@tccjd)
-      - 中国(TG:@tccjd)_1
-      - 01(TG:@tccjd)_6
-      - 中国(TG:@tccjd)_2
-      - 德国(TG:@tccjd)_2
-      - 德国 (TG:@tccjd)
-      - 香港(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_2
       - 美国(TG:@tccjd)_3
-      - 德国(TG:@tccjd)_3
+      - 荷兰(TG:@tccjd)_3
+      - 芬兰(TG:@tccjd)
+      - 01(TG:@tccjd)_5
+      - 德国 (TG:@tccjd)
       - 美国(TG:@tccjd)_4
       - 美国(TG:@tccjd)_5
       - 美国(TG:@tccjd)_6
-      - 美国(TG:@tccjd)_7
       - 英国(TG:@tccjd)
-      - 荷兰(TG:@tccjd)_3
-      - 美国(TG:@tccjd)_8
-      - 英国(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_9
-      - 澳洲(TG:@tccjd)
       - 荷兰(TG:@tccjd)_4
-      - 🇭🇰香港
-      - 🇯🇵日本JP029
-      - 🇲🇴澳门MO001 5.17MB/s
-      - 🇹🇼台湾TW002
-      - 🇮🇩印度尼西亚ID003 0.87MB/s
-      - 🇸🇪瑞典SE009 1.58MB/s
-      - 🇺🇸美国US262
-      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 美国(TG:@tccjd)_7
+      - 英国(TG:@tccjd)_1
       - 🇳🇱荷兰NL139
-      - 🇺🇸美国US241 0.6MB/s
       - 🇳🇱荷兰NL083 1.3MB/s
       - 🇺🇸美国US217 1.19MB/s
       - 🇳🇱荷兰NL075 1.45MB/s
@@ -2199,7 +2151,6 @@ proxy-groups:
       - 🇳🇱荷兰NL082 1.3MB/s
       - 🇵🇱波兰PL016
       - 🇩🇪德国DE023 1.67MB/s
-      - 🇬🇧英国GB021
       - 🇵🇱波兰PL019
       - 🇵🇱波兰PL004 1.11MB/s
       - 🇵🇱波兰PL018
@@ -2211,30 +2162,19 @@ proxy-groups:
       - 🇵🇱波兰PL015
       - 🇳🇴挪威NO006
       - 🇩🇪德国DE024 1.58MB/s
-      - 01(TG:@tccjd)_7
-      - 🇳🇱荷兰NL131
+      - 01(TG:@tccjd)_6
       - 🇵🇱波兰PL014
       - 🇱🇻LV003_1
       - 🇱🇻LV007
-      - 🇫🇷法国FR028 0.63MB/s
-      - 🇳🇴挪威NO001 1.72MB/s
       - 🇳🇱荷兰NL070 1.47MB/s
-      - 🇳🇴挪威NO003 1.29MB/s
       - 🇩🇰DK002
       - 🇳🇱荷兰NL066 1.48MB/s
-      - 🇺🇦乌克兰UA001 1.67MB/s
-      - 🇺🇦乌克兰UA002 1.64MB/s
-      - 🇲🇾马来西亚MY002 0.8MB/s
-      - 🇳🇴挪威NO005
       - 🇳🇱荷兰NL038 1.62MB/s
       - 🇳🇱荷兰NL054 1.52MB/s
-      - 🇺🇸美国US243 0.53MB/s
       - 🇮🇹意大利IT003 3.02MB/s
       - 🇫🇮芬兰FI011 0.44MB/s
-      - 🇺🇸美国US228 0.76MB/s
       - 🇱🇻LV006
       - 🇵🇱波兰PL011
-      - 🇺🇸美国US229 0.74MB/s
       - 🇱🇻LV005
       - 🇪🇪EE003 1.62MB/s
       - 🇮🇷IR001
@@ -2242,12 +2182,93 @@ proxy-groups:
       - 🇦🇪阿联酋AE002
       - 🇸🇪瑞典SE010 1.44MB/s
       - 🇳🇱荷兰NL138
+      - 🇮🇩 印尼 | IDN
+      - 🇺🇦 乌克兰 | UKR
+      - 🇳🇴 挪威 | NOR_1
+      - 01(TG:@tccjd)_7
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)_1
+      - 印度尼西亚
+      - 07(TG:@tccjd)_1
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)_1
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)
+      - 13(TG:@tccjd)
+      - 14(TG:@tccjd)
+      - 15(TG:@tccjd)
+      - 16(TG:@tccjd)
+      - 17(TG:@tccjd)
+      - 18(TG:@tccjd)
+      - 20(TG:@tccjd)
+      - 22(TG:@tccjd)
+      - 23(TG:@tccjd)
+      - 泰国
+      - 瑞典(TG:@tccjd)
+      - 美国(TG:@tccjd)_8
+      - 美国(TG:@tccjd)_9
+      - 🇯🇵日本JP029
+      - 🇲🇴澳门MO001 5.17MB/s
+      - 🇹🇼台湾TW002
+      - 🇮🇩印度尼西亚ID003 0.87MB/s
+      - 🇸🇪瑞典SE009 1.58MB/s
+      - 🇺🇸美国US262
+      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 🇺🇸美国US241 0.6MB/s
+      - 🇬🇧英国GB021
+      - 🇳🇱荷兰NL131
+      - 🇫🇷法国FR028 0.63MB/s
+      - 🇳🇴挪威NO001 1.72MB/s
+      - 🇳🇴挪威NO003 1.29MB/s
+      - 🇺🇦乌克兰UA001 1.67MB/s
+      - 🇺🇦乌克兰UA002 1.64MB/s
+      - 🇲🇾马来西亚MY002 0.8MB/s
+      - 🇳🇴挪威NO005
+      - 🇺🇸美国US243 0.53MB/s
+      - 🇺🇸美国US228 0.76MB/s
+      - 🇺🇸美国US229 0.74MB/s
+      - 美国
+      - 美国_1
+      - 09(TG:@tccjd)_1
+      - 荷兰
+      - 英国
+      - 德国
+      - 香港(TG:@tccjd)
+      - 德国(TG:@tccjd)_2
+      - 香港(TG:@tccjd)_1
+      - 德国(TG:@tccjd)_3
+      - 澳洲(TG:@tccjd)
   - name: ♻️ 自动选择
     type: url-test
     proxies:
-      - 🇺🇸 美国 | USA
-      - 🇮🇩 印尼 | IDN
       - 🇳🇱 荷兰 | NLD
+      - 🇯🇵 日本 | JPN
+      - HK
+      - 19(TG:@tccjd)
+      - 21(TG:@tccjd)
+      - TW
+      - 01(TG:@tccjd)
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 05(TG:@tccjd)
+      - 06(TG:@tccjd)
+      - 07(TG:@tccjd)
+      - 08(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)
+      - 中国(TG:@tccjd)
+      - 中国(TG:@tccjd)_1
+      - 中国(TG:@tccjd)_2
+      - 美国(TG:@tccjd)
+      - 美国(TG:@tccjd)_1
+      - 荷兰(TG:@tccjd)
+      - 🇭🇰香港
+      - 🇺🇸 美国 | USA
       - 🇬🇧 英国 | GBR
       - 🇩🇪 德国 | DEU
       - 🇩🇪 德国 | DEU_1
@@ -2256,70 +2277,21 @@ proxy-groups:
       - 🇳🇴 挪威 | NOR
       - 🇷🇺 俄罗斯 | RUS_2
       - 🇩🇪 德国 | DEU_2
-      - 🇯🇵 日本 | JPN
-      - 🇺🇦 乌克兰 | UKR
-      - 🇳🇴 挪威 | NOR_1
       - 🇳🇱 荷兰 | NLD_1
-      - HK
-      - 01(TG:@tccjd)
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 印度尼西亚
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
-      - 11(TG:@tccjd)
-      - 12(TG:@tccjd)
-      - 13(TG:@tccjd)
-      - 14(TG:@tccjd)
-      - 15(TG:@tccjd)
-      - 16(TG:@tccjd)
-      - 17(TG:@tccjd)
-      - 18(TG:@tccjd)
-      - 19(TG:@tccjd)
-      - 20(TG:@tccjd)
-      - 21(TG:@tccjd)
-      - 22(TG:@tccjd)
-      - 23(TG:@tccjd)
-      - 泰国
-      - TW
       - 01(TG:@tccjd)_1
       - 02(TG:@tccjd)_1
       - 03(TG:@tccjd)_1
-      - 美国
       - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 美国_1
-      - 09(TG:@tccjd)_1
-      - 荷兰
-      - 英国
-      - 德国
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
       - 波兰
       - 波兰_1
+      - 01(TG:@tccjd)_3
       - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
-      - 香港(TG:@tccjd)
-      - 中国(TG:@tccjd)
-      - 瑞典(TG:@tccjd)
-      - 荷兰(TG:@tccjd)
-      - 德国(TG:@tccjd)
-      - 美国(TG:@tccjd)
-      - 美国 (TG:@tccjd)
       - 荷兰(TG:@tccjd)_1
+      - 德国(TG:@tccjd)
+      - 美国(TG:@tccjd)_2
+      - 美国 (TG:@tccjd)
+      - 荷兰(TG:@tccjd)_2
       - 波兰(TG:@tccjd)
       - 波兰(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_2
@@ -2329,39 +2301,19 @@ proxy-groups:
       - 德国(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_4
       - 波兰 (TG:@tccjd)
-      - 美国(TG:@tccjd)_1
-      - 荷兰(TG:@tccjd)_2
-      - 芬兰(TG:@tccjd)
-      - 中国(TG:@tccjd)_1
-      - 01(TG:@tccjd)_6
-      - 中国(TG:@tccjd)_2
-      - 德国(TG:@tccjd)_2
-      - 德国 (TG:@tccjd)
-      - 香港(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_2
       - 美国(TG:@tccjd)_3
-      - 德国(TG:@tccjd)_3
+      - 荷兰(TG:@tccjd)_3
+      - 芬兰(TG:@tccjd)
+      - 01(TG:@tccjd)_5
+      - 德国 (TG:@tccjd)
       - 美国(TG:@tccjd)_4
       - 美国(TG:@tccjd)_5
       - 美国(TG:@tccjd)_6
-      - 美国(TG:@tccjd)_7
       - 英国(TG:@tccjd)
-      - 荷兰(TG:@tccjd)_3
-      - 美国(TG:@tccjd)_8
-      - 英国(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_9
-      - 澳洲(TG:@tccjd)
       - 荷兰(TG:@tccjd)_4
-      - 🇭🇰香港
-      - 🇯🇵日本JP029
-      - 🇲🇴澳门MO001 5.17MB/s
-      - 🇹🇼台湾TW002
-      - 🇮🇩印度尼西亚ID003 0.87MB/s
-      - 🇸🇪瑞典SE009 1.58MB/s
-      - 🇺🇸美国US262
-      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 美国(TG:@tccjd)_7
+      - 英国(TG:@tccjd)_1
       - 🇳🇱荷兰NL139
-      - 🇺🇸美国US241 0.6MB/s
       - 🇳🇱荷兰NL083 1.3MB/s
       - 🇺🇸美国US217 1.19MB/s
       - 🇳🇱荷兰NL075 1.45MB/s
@@ -2369,7 +2321,6 @@ proxy-groups:
       - 🇳🇱荷兰NL082 1.3MB/s
       - 🇵🇱波兰PL016
       - 🇩🇪德国DE023 1.67MB/s
-      - 🇬🇧英国GB021
       - 🇵🇱波兰PL019
       - 🇵🇱波兰PL004 1.11MB/s
       - 🇵🇱波兰PL018
@@ -2381,30 +2332,19 @@ proxy-groups:
       - 🇵🇱波兰PL015
       - 🇳🇴挪威NO006
       - 🇩🇪德国DE024 1.58MB/s
-      - 01(TG:@tccjd)_7
-      - 🇳🇱荷兰NL131
+      - 01(TG:@tccjd)_6
       - 🇵🇱波兰PL014
       - 🇱🇻LV003_1
       - 🇱🇻LV007
-      - 🇫🇷法国FR028 0.63MB/s
-      - 🇳🇴挪威NO001 1.72MB/s
       - 🇳🇱荷兰NL070 1.47MB/s
-      - 🇳🇴挪威NO003 1.29MB/s
       - 🇩🇰DK002
       - 🇳🇱荷兰NL066 1.48MB/s
-      - 🇺🇦乌克兰UA001 1.67MB/s
-      - 🇺🇦乌克兰UA002 1.64MB/s
-      - 🇲🇾马来西亚MY002 0.8MB/s
-      - 🇳🇴挪威NO005
       - 🇳🇱荷兰NL038 1.62MB/s
       - 🇳🇱荷兰NL054 1.52MB/s
-      - 🇺🇸美国US243 0.53MB/s
       - 🇮🇹意大利IT003 3.02MB/s
       - 🇫🇮芬兰FI011 0.44MB/s
-      - 🇺🇸美国US228 0.76MB/s
       - 🇱🇻LV006
       - 🇵🇱波兰PL011
-      - 🇺🇸美国US229 0.74MB/s
       - 🇱🇻LV005
       - 🇪🇪EE003 1.62MB/s
       - 🇮🇷IR001
@@ -2412,6 +2352,66 @@ proxy-groups:
       - 🇦🇪阿联酋AE002
       - 🇸🇪瑞典SE010 1.44MB/s
       - 🇳🇱荷兰NL138
+      - 🇮🇩 印尼 | IDN
+      - 🇺🇦 乌克兰 | UKR
+      - 🇳🇴 挪威 | NOR_1
+      - 01(TG:@tccjd)_7
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)_1
+      - 印度尼西亚
+      - 07(TG:@tccjd)_1
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)_1
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)
+      - 13(TG:@tccjd)
+      - 14(TG:@tccjd)
+      - 15(TG:@tccjd)
+      - 16(TG:@tccjd)
+      - 17(TG:@tccjd)
+      - 18(TG:@tccjd)
+      - 20(TG:@tccjd)
+      - 22(TG:@tccjd)
+      - 23(TG:@tccjd)
+      - 泰国
+      - 瑞典(TG:@tccjd)
+      - 美国(TG:@tccjd)_8
+      - 美国(TG:@tccjd)_9
+      - 🇯🇵日本JP029
+      - 🇲🇴澳门MO001 5.17MB/s
+      - 🇹🇼台湾TW002
+      - 🇮🇩印度尼西亚ID003 0.87MB/s
+      - 🇸🇪瑞典SE009 1.58MB/s
+      - 🇺🇸美国US262
+      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 🇺🇸美国US241 0.6MB/s
+      - 🇬🇧英国GB021
+      - 🇳🇱荷兰NL131
+      - 🇫🇷法国FR028 0.63MB/s
+      - 🇳🇴挪威NO001 1.72MB/s
+      - 🇳🇴挪威NO003 1.29MB/s
+      - 🇺🇦乌克兰UA001 1.67MB/s
+      - 🇺🇦乌克兰UA002 1.64MB/s
+      - 🇲🇾马来西亚MY002 0.8MB/s
+      - 🇳🇴挪威NO005
+      - 🇺🇸美国US243 0.53MB/s
+      - 🇺🇸美国US228 0.76MB/s
+      - 🇺🇸美国US229 0.74MB/s
+      - 美国
+      - 美国_1
+      - 09(TG:@tccjd)_1
+      - 荷兰
+      - 英国
+      - 德国
+      - 香港(TG:@tccjd)
+      - 德国(TG:@tccjd)_2
+      - 香港(TG:@tccjd)_1
+      - 德国(TG:@tccjd)_3
+      - 澳洲(TG:@tccjd)
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
@@ -2421,9 +2421,30 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 美国 | USA
-      - 🇮🇩 印尼 | IDN
       - 🇳🇱 荷兰 | NLD
+      - 🇯🇵 日本 | JPN
+      - HK
+      - 19(TG:@tccjd)
+      - 21(TG:@tccjd)
+      - TW
+      - 01(TG:@tccjd)
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 05(TG:@tccjd)
+      - 06(TG:@tccjd)
+      - 07(TG:@tccjd)
+      - 08(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)
+      - 中国(TG:@tccjd)
+      - 中国(TG:@tccjd)_1
+      - 中国(TG:@tccjd)_2
+      - 美国(TG:@tccjd)
+      - 美国(TG:@tccjd)_1
+      - 荷兰(TG:@tccjd)
+      - 🇭🇰香港
+      - 🇺🇸 美国 | USA
       - 🇬🇧 英国 | GBR
       - 🇩🇪 德国 | DEU
       - 🇩🇪 德国 | DEU_1
@@ -2432,70 +2453,21 @@ proxy-groups:
       - 🇳🇴 挪威 | NOR
       - 🇷🇺 俄罗斯 | RUS_2
       - 🇩🇪 德国 | DEU_2
-      - 🇯🇵 日本 | JPN
-      - 🇺🇦 乌克兰 | UKR
-      - 🇳🇴 挪威 | NOR_1
       - 🇳🇱 荷兰 | NLD_1
-      - HK
-      - 01(TG:@tccjd)
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 印度尼西亚
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
-      - 11(TG:@tccjd)
-      - 12(TG:@tccjd)
-      - 13(TG:@tccjd)
-      - 14(TG:@tccjd)
-      - 15(TG:@tccjd)
-      - 16(TG:@tccjd)
-      - 17(TG:@tccjd)
-      - 18(TG:@tccjd)
-      - 19(TG:@tccjd)
-      - 20(TG:@tccjd)
-      - 21(TG:@tccjd)
-      - 22(TG:@tccjd)
-      - 23(TG:@tccjd)
-      - 泰国
-      - TW
       - 01(TG:@tccjd)_1
       - 02(TG:@tccjd)_1
       - 03(TG:@tccjd)_1
-      - 美国
       - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 美国_1
-      - 09(TG:@tccjd)_1
-      - 荷兰
-      - 英国
-      - 德国
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
       - 波兰
       - 波兰_1
+      - 01(TG:@tccjd)_3
       - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
-      - 香港(TG:@tccjd)
-      - 中国(TG:@tccjd)
-      - 瑞典(TG:@tccjd)
-      - 荷兰(TG:@tccjd)
-      - 德国(TG:@tccjd)
-      - 美国(TG:@tccjd)
-      - 美国 (TG:@tccjd)
       - 荷兰(TG:@tccjd)_1
+      - 德国(TG:@tccjd)
+      - 美国(TG:@tccjd)_2
+      - 美国 (TG:@tccjd)
+      - 荷兰(TG:@tccjd)_2
       - 波兰(TG:@tccjd)
       - 波兰(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_2
@@ -2505,39 +2477,19 @@ proxy-groups:
       - 德国(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_4
       - 波兰 (TG:@tccjd)
-      - 美国(TG:@tccjd)_1
-      - 荷兰(TG:@tccjd)_2
-      - 芬兰(TG:@tccjd)
-      - 中国(TG:@tccjd)_1
-      - 01(TG:@tccjd)_6
-      - 中国(TG:@tccjd)_2
-      - 德国(TG:@tccjd)_2
-      - 德国 (TG:@tccjd)
-      - 香港(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_2
       - 美国(TG:@tccjd)_3
-      - 德国(TG:@tccjd)_3
+      - 荷兰(TG:@tccjd)_3
+      - 芬兰(TG:@tccjd)
+      - 01(TG:@tccjd)_5
+      - 德国 (TG:@tccjd)
       - 美国(TG:@tccjd)_4
       - 美国(TG:@tccjd)_5
       - 美国(TG:@tccjd)_6
-      - 美国(TG:@tccjd)_7
       - 英国(TG:@tccjd)
-      - 荷兰(TG:@tccjd)_3
-      - 美国(TG:@tccjd)_8
-      - 英国(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_9
-      - 澳洲(TG:@tccjd)
       - 荷兰(TG:@tccjd)_4
-      - 🇭🇰香港
-      - 🇯🇵日本JP029
-      - 🇲🇴澳门MO001 5.17MB/s
-      - 🇹🇼台湾TW002
-      - 🇮🇩印度尼西亚ID003 0.87MB/s
-      - 🇸🇪瑞典SE009 1.58MB/s
-      - 🇺🇸美国US262
-      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 美国(TG:@tccjd)_7
+      - 英国(TG:@tccjd)_1
       - 🇳🇱荷兰NL139
-      - 🇺🇸美国US241 0.6MB/s
       - 🇳🇱荷兰NL083 1.3MB/s
       - 🇺🇸美国US217 1.19MB/s
       - 🇳🇱荷兰NL075 1.45MB/s
@@ -2545,7 +2497,6 @@ proxy-groups:
       - 🇳🇱荷兰NL082 1.3MB/s
       - 🇵🇱波兰PL016
       - 🇩🇪德国DE023 1.67MB/s
-      - 🇬🇧英国GB021
       - 🇵🇱波兰PL019
       - 🇵🇱波兰PL004 1.11MB/s
       - 🇵🇱波兰PL018
@@ -2557,30 +2508,19 @@ proxy-groups:
       - 🇵🇱波兰PL015
       - 🇳🇴挪威NO006
       - 🇩🇪德国DE024 1.58MB/s
-      - 01(TG:@tccjd)_7
-      - 🇳🇱荷兰NL131
+      - 01(TG:@tccjd)_6
       - 🇵🇱波兰PL014
       - 🇱🇻LV003_1
       - 🇱🇻LV007
-      - 🇫🇷法国FR028 0.63MB/s
-      - 🇳🇴挪威NO001 1.72MB/s
       - 🇳🇱荷兰NL070 1.47MB/s
-      - 🇳🇴挪威NO003 1.29MB/s
       - 🇩🇰DK002
       - 🇳🇱荷兰NL066 1.48MB/s
-      - 🇺🇦乌克兰UA001 1.67MB/s
-      - 🇺🇦乌克兰UA002 1.64MB/s
-      - 🇲🇾马来西亚MY002 0.8MB/s
-      - 🇳🇴挪威NO005
       - 🇳🇱荷兰NL038 1.62MB/s
       - 🇳🇱荷兰NL054 1.52MB/s
-      - 🇺🇸美国US243 0.53MB/s
       - 🇮🇹意大利IT003 3.02MB/s
       - 🇫🇮芬兰FI011 0.44MB/s
-      - 🇺🇸美国US228 0.76MB/s
       - 🇱🇻LV006
       - 🇵🇱波兰PL011
-      - 🇺🇸美国US229 0.74MB/s
       - 🇱🇻LV005
       - 🇪🇪EE003 1.62MB/s
       - 🇮🇷IR001
@@ -2588,14 +2528,95 @@ proxy-groups:
       - 🇦🇪阿联酋AE002
       - 🇸🇪瑞典SE010 1.44MB/s
       - 🇳🇱荷兰NL138
+      - 🇮🇩 印尼 | IDN
+      - 🇺🇦 乌克兰 | UKR
+      - 🇳🇴 挪威 | NOR_1
+      - 01(TG:@tccjd)_7
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)_1
+      - 印度尼西亚
+      - 07(TG:@tccjd)_1
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)_1
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)
+      - 13(TG:@tccjd)
+      - 14(TG:@tccjd)
+      - 15(TG:@tccjd)
+      - 16(TG:@tccjd)
+      - 17(TG:@tccjd)
+      - 18(TG:@tccjd)
+      - 20(TG:@tccjd)
+      - 22(TG:@tccjd)
+      - 23(TG:@tccjd)
+      - 泰国
+      - 瑞典(TG:@tccjd)
+      - 美国(TG:@tccjd)_8
+      - 美国(TG:@tccjd)_9
+      - 🇯🇵日本JP029
+      - 🇲🇴澳门MO001 5.17MB/s
+      - 🇹🇼台湾TW002
+      - 🇮🇩印度尼西亚ID003 0.87MB/s
+      - 🇸🇪瑞典SE009 1.58MB/s
+      - 🇺🇸美国US262
+      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 🇺🇸美国US241 0.6MB/s
+      - 🇬🇧英国GB021
+      - 🇳🇱荷兰NL131
+      - 🇫🇷法国FR028 0.63MB/s
+      - 🇳🇴挪威NO001 1.72MB/s
+      - 🇳🇴挪威NO003 1.29MB/s
+      - 🇺🇦乌克兰UA001 1.67MB/s
+      - 🇺🇦乌克兰UA002 1.64MB/s
+      - 🇲🇾马来西亚MY002 0.8MB/s
+      - 🇳🇴挪威NO005
+      - 🇺🇸美国US243 0.53MB/s
+      - 🇺🇸美国US228 0.76MB/s
+      - 🇺🇸美国US229 0.74MB/s
+      - 美国
+      - 美国_1
+      - 09(TG:@tccjd)_1
+      - 荷兰
+      - 英国
+      - 德国
+      - 香港(TG:@tccjd)
+      - 德国(TG:@tccjd)_2
+      - 香港(TG:@tccjd)_1
+      - 德国(TG:@tccjd)_3
+      - 澳洲(TG:@tccjd)
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸 美国 | USA
-      - 🇮🇩 印尼 | IDN
       - 🇳🇱 荷兰 | NLD
+      - 🇯🇵 日本 | JPN
+      - HK
+      - 19(TG:@tccjd)
+      - 21(TG:@tccjd)
+      - TW
+      - 01(TG:@tccjd)
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 05(TG:@tccjd)
+      - 06(TG:@tccjd)
+      - 07(TG:@tccjd)
+      - 08(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)
+      - 中国(TG:@tccjd)
+      - 中国(TG:@tccjd)_1
+      - 中国(TG:@tccjd)_2
+      - 美国(TG:@tccjd)
+      - 美国(TG:@tccjd)_1
+      - 荷兰(TG:@tccjd)
+      - 🇭🇰香港
+      - 🇺🇸 美国 | USA
       - 🇬🇧 英国 | GBR
       - 🇩🇪 德国 | DEU
       - 🇩🇪 德国 | DEU_1
@@ -2604,70 +2625,21 @@ proxy-groups:
       - 🇳🇴 挪威 | NOR
       - 🇷🇺 俄罗斯 | RUS_2
       - 🇩🇪 德国 | DEU_2
-      - 🇯🇵 日本 | JPN
-      - 🇺🇦 乌克兰 | UKR
-      - 🇳🇴 挪威 | NOR_1
       - 🇳🇱 荷兰 | NLD_1
-      - HK
-      - 01(TG:@tccjd)
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 印度尼西亚
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
-      - 11(TG:@tccjd)
-      - 12(TG:@tccjd)
-      - 13(TG:@tccjd)
-      - 14(TG:@tccjd)
-      - 15(TG:@tccjd)
-      - 16(TG:@tccjd)
-      - 17(TG:@tccjd)
-      - 18(TG:@tccjd)
-      - 19(TG:@tccjd)
-      - 20(TG:@tccjd)
-      - 21(TG:@tccjd)
-      - 22(TG:@tccjd)
-      - 23(TG:@tccjd)
-      - 泰国
-      - TW
       - 01(TG:@tccjd)_1
       - 02(TG:@tccjd)_1
       - 03(TG:@tccjd)_1
-      - 美国
       - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 美国_1
-      - 09(TG:@tccjd)_1
-      - 荷兰
-      - 英国
-      - 德国
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
       - 波兰
       - 波兰_1
+      - 01(TG:@tccjd)_3
       - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
-      - 香港(TG:@tccjd)
-      - 中国(TG:@tccjd)
-      - 瑞典(TG:@tccjd)
-      - 荷兰(TG:@tccjd)
-      - 德国(TG:@tccjd)
-      - 美国(TG:@tccjd)
-      - 美国 (TG:@tccjd)
       - 荷兰(TG:@tccjd)_1
+      - 德国(TG:@tccjd)
+      - 美国(TG:@tccjd)_2
+      - 美国 (TG:@tccjd)
+      - 荷兰(TG:@tccjd)_2
       - 波兰(TG:@tccjd)
       - 波兰(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_2
@@ -2677,39 +2649,19 @@ proxy-groups:
       - 德国(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_4
       - 波兰 (TG:@tccjd)
-      - 美国(TG:@tccjd)_1
-      - 荷兰(TG:@tccjd)_2
-      - 芬兰(TG:@tccjd)
-      - 中国(TG:@tccjd)_1
-      - 01(TG:@tccjd)_6
-      - 中国(TG:@tccjd)_2
-      - 德国(TG:@tccjd)_2
-      - 德国 (TG:@tccjd)
-      - 香港(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_2
       - 美国(TG:@tccjd)_3
-      - 德国(TG:@tccjd)_3
+      - 荷兰(TG:@tccjd)_3
+      - 芬兰(TG:@tccjd)
+      - 01(TG:@tccjd)_5
+      - 德国 (TG:@tccjd)
       - 美国(TG:@tccjd)_4
       - 美国(TG:@tccjd)_5
       - 美国(TG:@tccjd)_6
-      - 美国(TG:@tccjd)_7
       - 英国(TG:@tccjd)
-      - 荷兰(TG:@tccjd)_3
-      - 美国(TG:@tccjd)_8
-      - 英国(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_9
-      - 澳洲(TG:@tccjd)
       - 荷兰(TG:@tccjd)_4
-      - 🇭🇰香港
-      - 🇯🇵日本JP029
-      - 🇲🇴澳门MO001 5.17MB/s
-      - 🇹🇼台湾TW002
-      - 🇮🇩印度尼西亚ID003 0.87MB/s
-      - 🇸🇪瑞典SE009 1.58MB/s
-      - 🇺🇸美国US262
-      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 美国(TG:@tccjd)_7
+      - 英国(TG:@tccjd)_1
       - 🇳🇱荷兰NL139
-      - 🇺🇸美国US241 0.6MB/s
       - 🇳🇱荷兰NL083 1.3MB/s
       - 🇺🇸美国US217 1.19MB/s
       - 🇳🇱荷兰NL075 1.45MB/s
@@ -2717,7 +2669,6 @@ proxy-groups:
       - 🇳🇱荷兰NL082 1.3MB/s
       - 🇵🇱波兰PL016
       - 🇩🇪德国DE023 1.67MB/s
-      - 🇬🇧英国GB021
       - 🇵🇱波兰PL019
       - 🇵🇱波兰PL004 1.11MB/s
       - 🇵🇱波兰PL018
@@ -2729,30 +2680,19 @@ proxy-groups:
       - 🇵🇱波兰PL015
       - 🇳🇴挪威NO006
       - 🇩🇪德国DE024 1.58MB/s
-      - 01(TG:@tccjd)_7
-      - 🇳🇱荷兰NL131
+      - 01(TG:@tccjd)_6
       - 🇵🇱波兰PL014
       - 🇱🇻LV003_1
       - 🇱🇻LV007
-      - 🇫🇷法国FR028 0.63MB/s
-      - 🇳🇴挪威NO001 1.72MB/s
       - 🇳🇱荷兰NL070 1.47MB/s
-      - 🇳🇴挪威NO003 1.29MB/s
       - 🇩🇰DK002
       - 🇳🇱荷兰NL066 1.48MB/s
-      - 🇺🇦乌克兰UA001 1.67MB/s
-      - 🇺🇦乌克兰UA002 1.64MB/s
-      - 🇲🇾马来西亚MY002 0.8MB/s
-      - 🇳🇴挪威NO005
       - 🇳🇱荷兰NL038 1.62MB/s
       - 🇳🇱荷兰NL054 1.52MB/s
-      - 🇺🇸美国US243 0.53MB/s
       - 🇮🇹意大利IT003 3.02MB/s
       - 🇫🇮芬兰FI011 0.44MB/s
-      - 🇺🇸美国US228 0.76MB/s
       - 🇱🇻LV006
       - 🇵🇱波兰PL011
-      - 🇺🇸美国US229 0.74MB/s
       - 🇱🇻LV005
       - 🇪🇪EE003 1.62MB/s
       - 🇮🇷IR001
@@ -2760,14 +2700,95 @@ proxy-groups:
       - 🇦🇪阿联酋AE002
       - 🇸🇪瑞典SE010 1.44MB/s
       - 🇳🇱荷兰NL138
+      - 🇮🇩 印尼 | IDN
+      - 🇺🇦 乌克兰 | UKR
+      - 🇳🇴 挪威 | NOR_1
+      - 01(TG:@tccjd)_7
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)_1
+      - 印度尼西亚
+      - 07(TG:@tccjd)_1
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)_1
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)
+      - 13(TG:@tccjd)
+      - 14(TG:@tccjd)
+      - 15(TG:@tccjd)
+      - 16(TG:@tccjd)
+      - 17(TG:@tccjd)
+      - 18(TG:@tccjd)
+      - 20(TG:@tccjd)
+      - 22(TG:@tccjd)
+      - 23(TG:@tccjd)
+      - 泰国
+      - 瑞典(TG:@tccjd)
+      - 美国(TG:@tccjd)_8
+      - 美国(TG:@tccjd)_9
+      - 🇯🇵日本JP029
+      - 🇲🇴澳门MO001 5.17MB/s
+      - 🇹🇼台湾TW002
+      - 🇮🇩印度尼西亚ID003 0.87MB/s
+      - 🇸🇪瑞典SE009 1.58MB/s
+      - 🇺🇸美国US262
+      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 🇺🇸美国US241 0.6MB/s
+      - 🇬🇧英国GB021
+      - 🇳🇱荷兰NL131
+      - 🇫🇷法国FR028 0.63MB/s
+      - 🇳🇴挪威NO001 1.72MB/s
+      - 🇳🇴挪威NO003 1.29MB/s
+      - 🇺🇦乌克兰UA001 1.67MB/s
+      - 🇺🇦乌克兰UA002 1.64MB/s
+      - 🇲🇾马来西亚MY002 0.8MB/s
+      - 🇳🇴挪威NO005
+      - 🇺🇸美国US243 0.53MB/s
+      - 🇺🇸美国US228 0.76MB/s
+      - 🇺🇸美国US229 0.74MB/s
+      - 美国
+      - 美国_1
+      - 09(TG:@tccjd)_1
+      - 荷兰
+      - 英国
+      - 德国
+      - 香港(TG:@tccjd)
+      - 德国(TG:@tccjd)_2
+      - 香港(TG:@tccjd)_1
+      - 德国(TG:@tccjd)_3
+      - 澳洲(TG:@tccjd)
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸 美国 | USA
-      - 🇮🇩 印尼 | IDN
       - 🇳🇱 荷兰 | NLD
+      - 🇯🇵 日本 | JPN
+      - HK
+      - 19(TG:@tccjd)
+      - 21(TG:@tccjd)
+      - TW
+      - 01(TG:@tccjd)
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 05(TG:@tccjd)
+      - 06(TG:@tccjd)
+      - 07(TG:@tccjd)
+      - 08(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)
+      - 中国(TG:@tccjd)
+      - 中国(TG:@tccjd)_1
+      - 中国(TG:@tccjd)_2
+      - 美国(TG:@tccjd)
+      - 美国(TG:@tccjd)_1
+      - 荷兰(TG:@tccjd)
+      - 🇭🇰香港
+      - 🇺🇸 美国 | USA
       - 🇬🇧 英国 | GBR
       - 🇩🇪 德国 | DEU
       - 🇩🇪 德国 | DEU_1
@@ -2776,70 +2797,21 @@ proxy-groups:
       - 🇳🇴 挪威 | NOR
       - 🇷🇺 俄罗斯 | RUS_2
       - 🇩🇪 德国 | DEU_2
-      - 🇯🇵 日本 | JPN
-      - 🇺🇦 乌克兰 | UKR
-      - 🇳🇴 挪威 | NOR_1
       - 🇳🇱 荷兰 | NLD_1
-      - HK
-      - 01(TG:@tccjd)
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 印度尼西亚
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
-      - 11(TG:@tccjd)
-      - 12(TG:@tccjd)
-      - 13(TG:@tccjd)
-      - 14(TG:@tccjd)
-      - 15(TG:@tccjd)
-      - 16(TG:@tccjd)
-      - 17(TG:@tccjd)
-      - 18(TG:@tccjd)
-      - 19(TG:@tccjd)
-      - 20(TG:@tccjd)
-      - 21(TG:@tccjd)
-      - 22(TG:@tccjd)
-      - 23(TG:@tccjd)
-      - 泰国
-      - TW
       - 01(TG:@tccjd)_1
       - 02(TG:@tccjd)_1
       - 03(TG:@tccjd)_1
-      - 美国
       - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 美国_1
-      - 09(TG:@tccjd)_1
-      - 荷兰
-      - 英国
-      - 德国
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
       - 波兰
       - 波兰_1
+      - 01(TG:@tccjd)_3
       - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
-      - 香港(TG:@tccjd)
-      - 中国(TG:@tccjd)
-      - 瑞典(TG:@tccjd)
-      - 荷兰(TG:@tccjd)
-      - 德国(TG:@tccjd)
-      - 美国(TG:@tccjd)
-      - 美国 (TG:@tccjd)
       - 荷兰(TG:@tccjd)_1
+      - 德国(TG:@tccjd)
+      - 美国(TG:@tccjd)_2
+      - 美国 (TG:@tccjd)
+      - 荷兰(TG:@tccjd)_2
       - 波兰(TG:@tccjd)
       - 波兰(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_2
@@ -2849,39 +2821,19 @@ proxy-groups:
       - 德国(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_4
       - 波兰 (TG:@tccjd)
-      - 美国(TG:@tccjd)_1
-      - 荷兰(TG:@tccjd)_2
-      - 芬兰(TG:@tccjd)
-      - 中国(TG:@tccjd)_1
-      - 01(TG:@tccjd)_6
-      - 中国(TG:@tccjd)_2
-      - 德国(TG:@tccjd)_2
-      - 德国 (TG:@tccjd)
-      - 香港(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_2
       - 美国(TG:@tccjd)_3
-      - 德国(TG:@tccjd)_3
+      - 荷兰(TG:@tccjd)_3
+      - 芬兰(TG:@tccjd)
+      - 01(TG:@tccjd)_5
+      - 德国 (TG:@tccjd)
       - 美国(TG:@tccjd)_4
       - 美国(TG:@tccjd)_5
       - 美国(TG:@tccjd)_6
-      - 美国(TG:@tccjd)_7
       - 英国(TG:@tccjd)
-      - 荷兰(TG:@tccjd)_3
-      - 美国(TG:@tccjd)_8
-      - 英国(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_9
-      - 澳洲(TG:@tccjd)
       - 荷兰(TG:@tccjd)_4
-      - 🇭🇰香港
-      - 🇯🇵日本JP029
-      - 🇲🇴澳门MO001 5.17MB/s
-      - 🇹🇼台湾TW002
-      - 🇮🇩印度尼西亚ID003 0.87MB/s
-      - 🇸🇪瑞典SE009 1.58MB/s
-      - 🇺🇸美国US262
-      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 美国(TG:@tccjd)_7
+      - 英国(TG:@tccjd)_1
       - 🇳🇱荷兰NL139
-      - 🇺🇸美国US241 0.6MB/s
       - 🇳🇱荷兰NL083 1.3MB/s
       - 🇺🇸美国US217 1.19MB/s
       - 🇳🇱荷兰NL075 1.45MB/s
@@ -2889,7 +2841,6 @@ proxy-groups:
       - 🇳🇱荷兰NL082 1.3MB/s
       - 🇵🇱波兰PL016
       - 🇩🇪德国DE023 1.67MB/s
-      - 🇬🇧英国GB021
       - 🇵🇱波兰PL019
       - 🇵🇱波兰PL004 1.11MB/s
       - 🇵🇱波兰PL018
@@ -2901,30 +2852,19 @@ proxy-groups:
       - 🇵🇱波兰PL015
       - 🇳🇴挪威NO006
       - 🇩🇪德国DE024 1.58MB/s
-      - 01(TG:@tccjd)_7
-      - 🇳🇱荷兰NL131
+      - 01(TG:@tccjd)_6
       - 🇵🇱波兰PL014
       - 🇱🇻LV003_1
       - 🇱🇻LV007
-      - 🇫🇷法国FR028 0.63MB/s
-      - 🇳🇴挪威NO001 1.72MB/s
       - 🇳🇱荷兰NL070 1.47MB/s
-      - 🇳🇴挪威NO003 1.29MB/s
       - 🇩🇰DK002
       - 🇳🇱荷兰NL066 1.48MB/s
-      - 🇺🇦乌克兰UA001 1.67MB/s
-      - 🇺🇦乌克兰UA002 1.64MB/s
-      - 🇲🇾马来西亚MY002 0.8MB/s
-      - 🇳🇴挪威NO005
       - 🇳🇱荷兰NL038 1.62MB/s
       - 🇳🇱荷兰NL054 1.52MB/s
-      - 🇺🇸美国US243 0.53MB/s
       - 🇮🇹意大利IT003 3.02MB/s
       - 🇫🇮芬兰FI011 0.44MB/s
-      - 🇺🇸美国US228 0.76MB/s
       - 🇱🇻LV006
       - 🇵🇱波兰PL011
-      - 🇺🇸美国US229 0.74MB/s
       - 🇱🇻LV005
       - 🇪🇪EE003 1.62MB/s
       - 🇮🇷IR001
@@ -2932,14 +2872,95 @@ proxy-groups:
       - 🇦🇪阿联酋AE002
       - 🇸🇪瑞典SE010 1.44MB/s
       - 🇳🇱荷兰NL138
+      - 🇮🇩 印尼 | IDN
+      - 🇺🇦 乌克兰 | UKR
+      - 🇳🇴 挪威 | NOR_1
+      - 01(TG:@tccjd)_7
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)_1
+      - 印度尼西亚
+      - 07(TG:@tccjd)_1
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)_1
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)
+      - 13(TG:@tccjd)
+      - 14(TG:@tccjd)
+      - 15(TG:@tccjd)
+      - 16(TG:@tccjd)
+      - 17(TG:@tccjd)
+      - 18(TG:@tccjd)
+      - 20(TG:@tccjd)
+      - 22(TG:@tccjd)
+      - 23(TG:@tccjd)
+      - 泰国
+      - 瑞典(TG:@tccjd)
+      - 美国(TG:@tccjd)_8
+      - 美国(TG:@tccjd)_9
+      - 🇯🇵日本JP029
+      - 🇲🇴澳门MO001 5.17MB/s
+      - 🇹🇼台湾TW002
+      - 🇮🇩印度尼西亚ID003 0.87MB/s
+      - 🇸🇪瑞典SE009 1.58MB/s
+      - 🇺🇸美国US262
+      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 🇺🇸美国US241 0.6MB/s
+      - 🇬🇧英国GB021
+      - 🇳🇱荷兰NL131
+      - 🇫🇷法国FR028 0.63MB/s
+      - 🇳🇴挪威NO001 1.72MB/s
+      - 🇳🇴挪威NO003 1.29MB/s
+      - 🇺🇦乌克兰UA001 1.67MB/s
+      - 🇺🇦乌克兰UA002 1.64MB/s
+      - 🇲🇾马来西亚MY002 0.8MB/s
+      - 🇳🇴挪威NO005
+      - 🇺🇸美国US243 0.53MB/s
+      - 🇺🇸美国US228 0.76MB/s
+      - 🇺🇸美国US229 0.74MB/s
+      - 美国
+      - 美国_1
+      - 09(TG:@tccjd)_1
+      - 荷兰
+      - 英国
+      - 德国
+      - 香港(TG:@tccjd)
+      - 德国(TG:@tccjd)_2
+      - 香港(TG:@tccjd)_1
+      - 德国(TG:@tccjd)_3
+      - 澳洲(TG:@tccjd)
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸 美国 | USA
-      - 🇮🇩 印尼 | IDN
       - 🇳🇱 荷兰 | NLD
+      - 🇯🇵 日本 | JPN
+      - HK
+      - 19(TG:@tccjd)
+      - 21(TG:@tccjd)
+      - TW
+      - 01(TG:@tccjd)
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 05(TG:@tccjd)
+      - 06(TG:@tccjd)
+      - 07(TG:@tccjd)
+      - 08(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)
+      - 中国(TG:@tccjd)
+      - 中国(TG:@tccjd)_1
+      - 中国(TG:@tccjd)_2
+      - 美国(TG:@tccjd)
+      - 美国(TG:@tccjd)_1
+      - 荷兰(TG:@tccjd)
+      - 🇭🇰香港
+      - 🇺🇸 美国 | USA
       - 🇬🇧 英国 | GBR
       - 🇩🇪 德国 | DEU
       - 🇩🇪 德国 | DEU_1
@@ -2948,70 +2969,21 @@ proxy-groups:
       - 🇳🇴 挪威 | NOR
       - 🇷🇺 俄罗斯 | RUS_2
       - 🇩🇪 德国 | DEU_2
-      - 🇯🇵 日本 | JPN
-      - 🇺🇦 乌克兰 | UKR
-      - 🇳🇴 挪威 | NOR_1
       - 🇳🇱 荷兰 | NLD_1
-      - HK
-      - 01(TG:@tccjd)
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 印度尼西亚
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
-      - 11(TG:@tccjd)
-      - 12(TG:@tccjd)
-      - 13(TG:@tccjd)
-      - 14(TG:@tccjd)
-      - 15(TG:@tccjd)
-      - 16(TG:@tccjd)
-      - 17(TG:@tccjd)
-      - 18(TG:@tccjd)
-      - 19(TG:@tccjd)
-      - 20(TG:@tccjd)
-      - 21(TG:@tccjd)
-      - 22(TG:@tccjd)
-      - 23(TG:@tccjd)
-      - 泰国
-      - TW
       - 01(TG:@tccjd)_1
       - 02(TG:@tccjd)_1
       - 03(TG:@tccjd)_1
-      - 美国
       - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 美国_1
-      - 09(TG:@tccjd)_1
-      - 荷兰
-      - 英国
-      - 德国
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
       - 波兰
       - 波兰_1
+      - 01(TG:@tccjd)_3
       - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
-      - 香港(TG:@tccjd)
-      - 中国(TG:@tccjd)
-      - 瑞典(TG:@tccjd)
-      - 荷兰(TG:@tccjd)
-      - 德国(TG:@tccjd)
-      - 美国(TG:@tccjd)
-      - 美国 (TG:@tccjd)
       - 荷兰(TG:@tccjd)_1
+      - 德国(TG:@tccjd)
+      - 美国(TG:@tccjd)_2
+      - 美国 (TG:@tccjd)
+      - 荷兰(TG:@tccjd)_2
       - 波兰(TG:@tccjd)
       - 波兰(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_2
@@ -3021,39 +2993,19 @@ proxy-groups:
       - 德国(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_4
       - 波兰 (TG:@tccjd)
-      - 美国(TG:@tccjd)_1
-      - 荷兰(TG:@tccjd)_2
-      - 芬兰(TG:@tccjd)
-      - 中国(TG:@tccjd)_1
-      - 01(TG:@tccjd)_6
-      - 中国(TG:@tccjd)_2
-      - 德国(TG:@tccjd)_2
-      - 德国 (TG:@tccjd)
-      - 香港(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_2
       - 美国(TG:@tccjd)_3
-      - 德国(TG:@tccjd)_3
+      - 荷兰(TG:@tccjd)_3
+      - 芬兰(TG:@tccjd)
+      - 01(TG:@tccjd)_5
+      - 德国 (TG:@tccjd)
       - 美国(TG:@tccjd)_4
       - 美国(TG:@tccjd)_5
       - 美国(TG:@tccjd)_6
-      - 美国(TG:@tccjd)_7
       - 英国(TG:@tccjd)
-      - 荷兰(TG:@tccjd)_3
-      - 美国(TG:@tccjd)_8
-      - 英国(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_9
-      - 澳洲(TG:@tccjd)
       - 荷兰(TG:@tccjd)_4
-      - 🇭🇰香港
-      - 🇯🇵日本JP029
-      - 🇲🇴澳门MO001 5.17MB/s
-      - 🇹🇼台湾TW002
-      - 🇮🇩印度尼西亚ID003 0.87MB/s
-      - 🇸🇪瑞典SE009 1.58MB/s
-      - 🇺🇸美国US262
-      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 美国(TG:@tccjd)_7
+      - 英国(TG:@tccjd)_1
       - 🇳🇱荷兰NL139
-      - 🇺🇸美国US241 0.6MB/s
       - 🇳🇱荷兰NL083 1.3MB/s
       - 🇺🇸美国US217 1.19MB/s
       - 🇳🇱荷兰NL075 1.45MB/s
@@ -3061,7 +3013,6 @@ proxy-groups:
       - 🇳🇱荷兰NL082 1.3MB/s
       - 🇵🇱波兰PL016
       - 🇩🇪德国DE023 1.67MB/s
-      - 🇬🇧英国GB021
       - 🇵🇱波兰PL019
       - 🇵🇱波兰PL004 1.11MB/s
       - 🇵🇱波兰PL018
@@ -3073,30 +3024,19 @@ proxy-groups:
       - 🇵🇱波兰PL015
       - 🇳🇴挪威NO006
       - 🇩🇪德国DE024 1.58MB/s
-      - 01(TG:@tccjd)_7
-      - 🇳🇱荷兰NL131
+      - 01(TG:@tccjd)_6
       - 🇵🇱波兰PL014
       - 🇱🇻LV003_1
       - 🇱🇻LV007
-      - 🇫🇷法国FR028 0.63MB/s
-      - 🇳🇴挪威NO001 1.72MB/s
       - 🇳🇱荷兰NL070 1.47MB/s
-      - 🇳🇴挪威NO003 1.29MB/s
       - 🇩🇰DK002
       - 🇳🇱荷兰NL066 1.48MB/s
-      - 🇺🇦乌克兰UA001 1.67MB/s
-      - 🇺🇦乌克兰UA002 1.64MB/s
-      - 🇲🇾马来西亚MY002 0.8MB/s
-      - 🇳🇴挪威NO005
       - 🇳🇱荷兰NL038 1.62MB/s
       - 🇳🇱荷兰NL054 1.52MB/s
-      - 🇺🇸美国US243 0.53MB/s
       - 🇮🇹意大利IT003 3.02MB/s
       - 🇫🇮芬兰FI011 0.44MB/s
-      - 🇺🇸美国US228 0.76MB/s
       - 🇱🇻LV006
       - 🇵🇱波兰PL011
-      - 🇺🇸美国US229 0.74MB/s
       - 🇱🇻LV005
       - 🇪🇪EE003 1.62MB/s
       - 🇮🇷IR001
@@ -3104,6 +3044,66 @@ proxy-groups:
       - 🇦🇪阿联酋AE002
       - 🇸🇪瑞典SE010 1.44MB/s
       - 🇳🇱荷兰NL138
+      - 🇮🇩 印尼 | IDN
+      - 🇺🇦 乌克兰 | UKR
+      - 🇳🇴 挪威 | NOR_1
+      - 01(TG:@tccjd)_7
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)_1
+      - 印度尼西亚
+      - 07(TG:@tccjd)_1
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)_1
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)
+      - 13(TG:@tccjd)
+      - 14(TG:@tccjd)
+      - 15(TG:@tccjd)
+      - 16(TG:@tccjd)
+      - 17(TG:@tccjd)
+      - 18(TG:@tccjd)
+      - 20(TG:@tccjd)
+      - 22(TG:@tccjd)
+      - 23(TG:@tccjd)
+      - 泰国
+      - 瑞典(TG:@tccjd)
+      - 美国(TG:@tccjd)_8
+      - 美国(TG:@tccjd)_9
+      - 🇯🇵日本JP029
+      - 🇲🇴澳门MO001 5.17MB/s
+      - 🇹🇼台湾TW002
+      - 🇮🇩印度尼西亚ID003 0.87MB/s
+      - 🇸🇪瑞典SE009 1.58MB/s
+      - 🇺🇸美国US262
+      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 🇺🇸美国US241 0.6MB/s
+      - 🇬🇧英国GB021
+      - 🇳🇱荷兰NL131
+      - 🇫🇷法国FR028 0.63MB/s
+      - 🇳🇴挪威NO001 1.72MB/s
+      - 🇳🇴挪威NO003 1.29MB/s
+      - 🇺🇦乌克兰UA001 1.67MB/s
+      - 🇺🇦乌克兰UA002 1.64MB/s
+      - 🇲🇾马来西亚MY002 0.8MB/s
+      - 🇳🇴挪威NO005
+      - 🇺🇸美国US243 0.53MB/s
+      - 🇺🇸美国US228 0.76MB/s
+      - 🇺🇸美国US229 0.74MB/s
+      - 美国
+      - 美国_1
+      - 09(TG:@tccjd)_1
+      - 荷兰
+      - 英国
+      - 德国
+      - 香港(TG:@tccjd)
+      - 德国(TG:@tccjd)_2
+      - 香港(TG:@tccjd)_1
+      - 德国(TG:@tccjd)_3
+      - 澳洲(TG:@tccjd)
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -3126,9 +3126,30 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 美国 | USA
-      - 🇮🇩 印尼 | IDN
       - 🇳🇱 荷兰 | NLD
+      - 🇯🇵 日本 | JPN
+      - HK
+      - 19(TG:@tccjd)
+      - 21(TG:@tccjd)
+      - TW
+      - 01(TG:@tccjd)
+      - 02(TG:@tccjd)
+      - 03(TG:@tccjd)
+      - 04(TG:@tccjd)
+      - 05(TG:@tccjd)
+      - 06(TG:@tccjd)
+      - 07(TG:@tccjd)
+      - 08(TG:@tccjd)
+      - 10(TG:@tccjd)
+      - 11(TG:@tccjd)
+      - 中国(TG:@tccjd)
+      - 中国(TG:@tccjd)_1
+      - 中国(TG:@tccjd)_2
+      - 美国(TG:@tccjd)
+      - 美国(TG:@tccjd)_1
+      - 荷兰(TG:@tccjd)
+      - 🇭🇰香港
+      - 🇺🇸 美国 | USA
       - 🇬🇧 英国 | GBR
       - 🇩🇪 德国 | DEU
       - 🇩🇪 德国 | DEU_1
@@ -3137,70 +3158,21 @@ proxy-groups:
       - 🇳🇴 挪威 | NOR
       - 🇷🇺 俄罗斯 | RUS_2
       - 🇩🇪 德国 | DEU_2
-      - 🇯🇵 日本 | JPN
-      - 🇺🇦 乌克兰 | UKR
-      - 🇳🇴 挪威 | NOR_1
       - 🇳🇱 荷兰 | NLD_1
-      - HK
-      - 01(TG:@tccjd)
-      - 02(TG:@tccjd)
-      - 03(TG:@tccjd)
-      - 04(TG:@tccjd)
-      - 05(TG:@tccjd)
-      - 06(TG:@tccjd)
-      - 印度尼西亚
-      - 07(TG:@tccjd)
-      - 08(TG:@tccjd)
-      - 09(TG:@tccjd)
-      - 10(TG:@tccjd)
-      - 11(TG:@tccjd)
-      - 12(TG:@tccjd)
-      - 13(TG:@tccjd)
-      - 14(TG:@tccjd)
-      - 15(TG:@tccjd)
-      - 16(TG:@tccjd)
-      - 17(TG:@tccjd)
-      - 18(TG:@tccjd)
-      - 19(TG:@tccjd)
-      - 20(TG:@tccjd)
-      - 21(TG:@tccjd)
-      - 22(TG:@tccjd)
-      - 23(TG:@tccjd)
-      - 泰国
-      - TW
       - 01(TG:@tccjd)_1
       - 02(TG:@tccjd)_1
       - 03(TG:@tccjd)_1
-      - 美国
       - 04(TG:@tccjd)_1
-      - 05(TG:@tccjd)_1
-      - 06(TG:@tccjd)_1
-      - 07(TG:@tccjd)_1
-      - 08(TG:@tccjd)_1
-      - 美国_1
-      - 09(TG:@tccjd)_1
-      - 荷兰
-      - 英国
-      - 德国
-      - 10(TG:@tccjd)_1
-      - 11(TG:@tccjd)_1
       - 01(TG:@tccjd)_2
-      - 02(TG:@tccjd)_2
-      - 03(TG:@tccjd)_2
-      - 04(TG:@tccjd)_2
-      - 01(TG:@tccjd)_3
       - 波兰
       - 波兰_1
+      - 01(TG:@tccjd)_3
       - 01(TG:@tccjd)_4
-      - 01(TG:@tccjd)_5
-      - 香港(TG:@tccjd)
-      - 中国(TG:@tccjd)
-      - 瑞典(TG:@tccjd)
-      - 荷兰(TG:@tccjd)
-      - 德国(TG:@tccjd)
-      - 美国(TG:@tccjd)
-      - 美国 (TG:@tccjd)
       - 荷兰(TG:@tccjd)_1
+      - 德国(TG:@tccjd)
+      - 美国(TG:@tccjd)_2
+      - 美国 (TG:@tccjd)
+      - 荷兰(TG:@tccjd)_2
       - 波兰(TG:@tccjd)
       - 波兰(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_2
@@ -3210,39 +3182,19 @@ proxy-groups:
       - 德国(TG:@tccjd)_1
       - 波兰(TG:@tccjd)_4
       - 波兰 (TG:@tccjd)
-      - 美国(TG:@tccjd)_1
-      - 荷兰(TG:@tccjd)_2
-      - 芬兰(TG:@tccjd)
-      - 中国(TG:@tccjd)_1
-      - 01(TG:@tccjd)_6
-      - 中国(TG:@tccjd)_2
-      - 德国(TG:@tccjd)_2
-      - 德国 (TG:@tccjd)
-      - 香港(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_2
       - 美国(TG:@tccjd)_3
-      - 德国(TG:@tccjd)_3
+      - 荷兰(TG:@tccjd)_3
+      - 芬兰(TG:@tccjd)
+      - 01(TG:@tccjd)_5
+      - 德国 (TG:@tccjd)
       - 美国(TG:@tccjd)_4
       - 美国(TG:@tccjd)_5
       - 美国(TG:@tccjd)_6
-      - 美国(TG:@tccjd)_7
       - 英国(TG:@tccjd)
-      - 荷兰(TG:@tccjd)_3
-      - 美国(TG:@tccjd)_8
-      - 英国(TG:@tccjd)_1
-      - 美国(TG:@tccjd)_9
-      - 澳洲(TG:@tccjd)
       - 荷兰(TG:@tccjd)_4
-      - 🇭🇰香港
-      - 🇯🇵日本JP029
-      - 🇲🇴澳门MO001 5.17MB/s
-      - 🇹🇼台湾TW002
-      - 🇮🇩印度尼西亚ID003 0.87MB/s
-      - 🇸🇪瑞典SE009 1.58MB/s
-      - 🇺🇸美国US262
-      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 美国(TG:@tccjd)_7
+      - 英国(TG:@tccjd)_1
       - 🇳🇱荷兰NL139
-      - 🇺🇸美国US241 0.6MB/s
       - 🇳🇱荷兰NL083 1.3MB/s
       - 🇺🇸美国US217 1.19MB/s
       - 🇳🇱荷兰NL075 1.45MB/s
@@ -3250,7 +3202,6 @@ proxy-groups:
       - 🇳🇱荷兰NL082 1.3MB/s
       - 🇵🇱波兰PL016
       - 🇩🇪德国DE023 1.67MB/s
-      - 🇬🇧英国GB021
       - 🇵🇱波兰PL019
       - 🇵🇱波兰PL004 1.11MB/s
       - 🇵🇱波兰PL018
@@ -3262,30 +3213,19 @@ proxy-groups:
       - 🇵🇱波兰PL015
       - 🇳🇴挪威NO006
       - 🇩🇪德国DE024 1.58MB/s
-      - 01(TG:@tccjd)_7
-      - 🇳🇱荷兰NL131
+      - 01(TG:@tccjd)_6
       - 🇵🇱波兰PL014
       - 🇱🇻LV003_1
       - 🇱🇻LV007
-      - 🇫🇷法国FR028 0.63MB/s
-      - 🇳🇴挪威NO001 1.72MB/s
       - 🇳🇱荷兰NL070 1.47MB/s
-      - 🇳🇴挪威NO003 1.29MB/s
       - 🇩🇰DK002
       - 🇳🇱荷兰NL066 1.48MB/s
-      - 🇺🇦乌克兰UA001 1.67MB/s
-      - 🇺🇦乌克兰UA002 1.64MB/s
-      - 🇲🇾马来西亚MY002 0.8MB/s
-      - 🇳🇴挪威NO005
       - 🇳🇱荷兰NL038 1.62MB/s
       - 🇳🇱荷兰NL054 1.52MB/s
-      - 🇺🇸美国US243 0.53MB/s
       - 🇮🇹意大利IT003 3.02MB/s
       - 🇫🇮芬兰FI011 0.44MB/s
-      - 🇺🇸美国US228 0.76MB/s
       - 🇱🇻LV006
       - 🇵🇱波兰PL011
-      - 🇺🇸美国US229 0.74MB/s
       - 🇱🇻LV005
       - 🇪🇪EE003 1.62MB/s
       - 🇮🇷IR001
@@ -3293,6 +3233,66 @@ proxy-groups:
       - 🇦🇪阿联酋AE002
       - 🇸🇪瑞典SE010 1.44MB/s
       - 🇳🇱荷兰NL138
+      - 🇮🇩 印尼 | IDN
+      - 🇺🇦 乌克兰 | UKR
+      - 🇳🇴 挪威 | NOR_1
+      - 01(TG:@tccjd)_7
+      - 02(TG:@tccjd)_2
+      - 03(TG:@tccjd)_2
+      - 04(TG:@tccjd)_2
+      - 05(TG:@tccjd)_1
+      - 06(TG:@tccjd)_1
+      - 印度尼西亚
+      - 07(TG:@tccjd)_1
+      - 08(TG:@tccjd)_1
+      - 09(TG:@tccjd)
+      - 10(TG:@tccjd)_1
+      - 11(TG:@tccjd)_1
+      - 12(TG:@tccjd)
+      - 13(TG:@tccjd)
+      - 14(TG:@tccjd)
+      - 15(TG:@tccjd)
+      - 16(TG:@tccjd)
+      - 17(TG:@tccjd)
+      - 18(TG:@tccjd)
+      - 20(TG:@tccjd)
+      - 22(TG:@tccjd)
+      - 23(TG:@tccjd)
+      - 泰国
+      - 瑞典(TG:@tccjd)
+      - 美国(TG:@tccjd)_8
+      - 美国(TG:@tccjd)_9
+      - 🇯🇵日本JP029
+      - 🇲🇴澳门MO001 5.17MB/s
+      - 🇹🇼台湾TW002
+      - 🇮🇩印度尼西亚ID003 0.87MB/s
+      - 🇸🇪瑞典SE009 1.58MB/s
+      - 🇺🇸美国US262
+      - 🇮🇩印度尼西亚ID001 2.94MB/s
+      - 🇺🇸美国US241 0.6MB/s
+      - 🇬🇧英国GB021
+      - 🇳🇱荷兰NL131
+      - 🇫🇷法国FR028 0.63MB/s
+      - 🇳🇴挪威NO001 1.72MB/s
+      - 🇳🇴挪威NO003 1.29MB/s
+      - 🇺🇦乌克兰UA001 1.67MB/s
+      - 🇺🇦乌克兰UA002 1.64MB/s
+      - 🇲🇾马来西亚MY002 0.8MB/s
+      - 🇳🇴挪威NO005
+      - 🇺🇸美国US243 0.53MB/s
+      - 🇺🇸美国US228 0.76MB/s
+      - 🇺🇸美国US229 0.74MB/s
+      - 美国
+      - 美国_1
+      - 09(TG:@tccjd)_1
+      - 荷兰
+      - 英国
+      - 德国
+      - 香港(TG:@tccjd)
+      - 德国(TG:@tccjd)_2
+      - 香港(TG:@tccjd)_1
+      - 德国(TG:@tccjd)_3
+      - 澳洲(TG:@tccjd)
 rule-providers:
   LocalAreaNetwork:
     type: http
